@@ -1,0 +1,725 @@
+题名：《民和核桃庄马家窑类型》
+来源：https://jns.nju.edu.cn/article/2023/0469-5097/0469-5097-2023-59-3-526.shtml
+类型：匹配来源文本，可能含目录、引用或相关资料
+
+Toggle navigation
+首页
+学报介绍
+下载中心
+过刊浏览
+联系我们
+南京大学学报（自然科学）, 2023, 59(3):  526-542  doi: 10.13232/j.cnki.jnju.2023.03.015
+中国西部羊亚科和羚羊亚科颅后骨形态鉴定标准和史前人⁃羊关系
+王一如,1, 乔里斯·彼得斯2
+1.南京大学历史学院，南京，210033
+2.德国慕尼黑大学(LMU)古解剖学、驯化研究和兽医史研究所，德国慕尼黑巴伐利亚州Kaulbachstr. 37，D⁃ 80539
+Identification criteria of posterior cranial osteomorphology of subfamily Caprinae and Antilopinae in western China and prehistoric human⁃Caprinae relationship
+Wang Yiru,1, Peters Joris2
+1.School of History, Nanjing University, Nanjing, 210033, China
+2.Institute for Paleoanatomy, Domestication Research and Veterinary History, University of Munich (LMU), Munich, D⁃80539, Germany
+通讯作者: E⁃mail：yiru.wang@nju.edu.cn
+收稿日期: 2022-12-15
+基金资助:
+国家自然科学基金.  41930323剑桥大学海外基金会，中国国家留学基金委，美国温那葛林学位论文田野基金，英中教育信托基金，达尔文学院桑坦德基金
+Received: 2022-12-15
+摘要
+通过比较骨骼形态学正确鉴定考古遗址中动物遗存所代表的相关物种的种属，是解读过去人⁃动物⁃环境关系的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布着尺寸重叠、形态极其近似的羊亚科（Caprinae）和羚羊亚科（Antilopinae）的八个不同属种，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（Naemorhedus goral）、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）、原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前时期家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化.在以往对中国西部新石器时代和青铜时代的动物考古研究中，研究人员往往未能对这些不同生物分类物种进行准确的鉴定，这可能导致对古代动物资源获取模式的缺乏依据的假设.本研究基于以往的骨骼形态学研究和对大量现生标本的统计和比较，根据现藏于欧美国家自然历史博物馆和标本库中的大量现生羊亚科和羚羊亚科动物骨骼（每个种属≥27个成年个体），总结出了一系列区分这些不同种属羊亚科和羚羊亚科动物颅后骨的形态学鉴定特征和基本度量数据.盲测实验表明，在现代标本中使用这些解剖标准可以明确地区分肱骨远端的所有类群.将这些鉴定标准应用于青藏高原东北部的史前考古标本，结果表明：在距今4000年前后的齐家文化遗址中，家养绵羊已经传入甘青地区，但是人类仍大量捕猎当地野生羊亚科动物.研究提出，对中国西部青铜时代以及更早阶段遗址中的羊亚科遗存的鉴定和人⁃羊关系的解读应更加谨慎.文中提出的鉴定方法可成为评估中国西部史前遗址人类获取动物资源策略的一个有效工具.
+关键词：
+中国西部
+;
+羊亚科
+;
+羚羊亚科
+;
+骨骼形态
+;
+鉴定标准
+;
+动物考古
+Abstract
+Accurate taxonomic identification of related species from archaeological sites is the basis for correct interpretation of human⁃animal⁃environment relationships in the past. However,the identification of medium⁃sized bovid remains in prehistoric sites is challenging in the vast area of western China,including Guanzhong,northern Shaanxi,Tibetan Plateau,Hexi Corridor,and Xinjiang. In these areas,there distributed nearly ten different species of Caprinae and Antilopinae,which are of highly similar osteomorphology and overlapping size ranges. These taxa include Ovis ammon,Pseudois nayaur,Naemorhedus goral,Capricornis milneedwardsii,Capra ibex sibirica,Procapra sp.,Gazella sp.,and Pantholops hodgsonii. In addition,the introduction of domestic sheep (O. aries) and goats (C. hircus) to the region during prehistory further complicates the identification of these taxa. In previous zooarchaeological studies dealing with Neolithic and Bronze Age faunas from this area,researchers often failed to make accurate taxonomic identifications of the different medium⁃sized bovids,and this may lead to unwarranted assumptions regarding ancient patterns of animal exploitation. Building on previous osteomorphological studies and a statistically significant number of modern comparatives (each taxa ≥27 adults),we outlined a series of morphological identification features and basic metric data to distinguish the postcranial bones of these taxa,enabling the accurate taxonomic classification of eight medium⁃sized wild bovid genera widely distributed across the region. A blind test showed that using these anatomical criteria on modern specimens allowed separating unequivocally all taxa in the case of the distal humerus. Applying these criteria to archaeological specimens from the prehistoric northeast Tibetan Plateau,we discover that domestic sheep have been introduced to the Gansu⁃Qinghai area in a Qijia cultural site around 4000 years ago,while the humans still hunted a large number of local wild Caprine,including blue sheep,goral,and serow,which has often been overlooked in previous studies. Our study suggests more caution should be taken in the identification of Caprinae remains in western Chinese sites and interpretation of the human⁃caprine relationships during and prior to Bronze Age. The identification methods proposed by our study could be a useful tool in the future when assessing the prehistoric animal resources exploitation patterns of humans.
+Keywords：
+western China
+;
+Caprinae
+;
+Antilopinae
+;
+osteomorphology
+;
+diagnostic criteria
+;
+zooarchaeology
+PDF (2773KB)
+元数据
+多维度评价
+相关文章
+导出
+EndNote|
+Ris|
+Bibtex
+收藏本文
+本文引用格式
+王一如, 乔里斯·彼得斯. 中国西部羊亚科和羚羊亚科颅后骨形态鉴定标准和史前人⁃羊关系. 南京大学学报（自然科学）[J], 2023, 59(3):  526-542 doi:10.13232/j.cnki.jnju.2023.03.015
+Wang Yiru, Peters Joris. Identification criteria of posterior cranial osteomorphology of subfamily Caprinae and Antilopinae in western China and prehistoric human⁃Caprinae relationship. Journal of nanjing University[J], 2023, 59(3):  526-542 doi:10.13232/j.cnki.jnju.2023.03.015
+基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］.
+在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断.
+以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］.
+近年来，分子生物学分析在动物考古研究中发挥着越来越重要的作用.目前，分类鉴定可以应用古DNA分析［45］或胶原蛋白肽测序（'ZooMS'）［46］进行.然而，这两种技术不仅比骨骼形态学方法更加昂贵，而且在DNA或胶原蛋白在骨骼中保存不良的情况下也存在局限性［45-47］，而这正是来自干旱地区遗址的史前考古标本的常见问题［48］，如中国西部及邻近中亚地区的情况.此外，分子生物学分析需要对样本进行有损采样，而这对于某些珍贵的考古遗存并不总是可行的.
+本文对中国西部的上述分类群中选定的骨骼部位进行了比较骨骼形态学和基本测量尺度的研究.有关这些物种的生态地理信息在附表中有更详细的说明.
+两个中国西部的野生羊亚科物种——喜马拉雅塔尔羊（Hemitragus jemlahicus）和羚牛（Budorcas taxcolor）不包括在本文的分析范围之内.羚牛比文中涉及的其他中型牛科动物大得多（和水牛体型相似），因此不容易与这里考虑的其他物种混淆.塔尔羊目前仅分布在喜马拉雅山南麓山谷的一小片地带，虽然它们在全新世早中期的分布范围可能更宽阔些，但是其活动范围是在主要受印度季风影响的相当暖湿的环境中，因此与本文研究的其他大部分物种的活动范围并不重叠（除斑羚和鬣羚）.在具体研究中，我们将所有羚羊亚科动物归为一类，并用所能获取的鹅喉羚（Gazella subgutturosa）和蒙古原羚（Procapra gutturosa）标本作为代表，研究它们与中国西部羊亚科物种之间的区别.三个种的斑羚在本文研究的标本中均有包括，且归为一类——我们研究它们与其他分类群间的区别.盘羊（O.ammon）和绵羊（O.aries）则各自单独为一类，这是因为它们分别代表了野生和家养的物种，对史前人类的意义不同.同样地，山羊（Capra hircus）和北山羊（Capra ibex sibirica）虽然同为山羊属，但是各归为一类.
+本研究的主要目的：
+（1）提供一种具有成本效益的骨骼形态学和测量尺度标准来区分考古遗存中的这些物种，使中国西部分布的野生和家养的羊亚科和羚羊亚科动物分类鉴定更加准确，从而更可靠地重建该区域人类与动物相互作用的历史.
+（2）将建立的标准尝试应用于可能最早传入家养羊的甘青史前遗址，测试该方法的可靠性，同时考察此时人和羊的关系.
+1 材料和方法
+为了确定区分八个分群的骨骼形态鉴定特征，我们对保存在英国、欧洲和美国各大博物馆和收藏库中的相关现代骨骼标本进行了分析.所涉及的收藏机构包括：剑桥大学的格兰姆·克拉克动物考古实验室；剑桥大学动物学博物馆；慕尼黑国家人类学和古动物解剖学收藏库；柏林自然历史博物馆；巴黎国立自然历史博物馆；哈雷⁃维滕贝格马丁⁃路德大学“朱利叶斯·库恩”动物学博物馆；美国纽约自然历史博物馆；华盛顿特区史密森国家自然历史博物馆；哈佛大学比较动物学博物馆；芝加哥菲尔德自然历史博物馆.
+对每个分类群，我们至少检视了27个个体（表1），其中大多数野生物种的标本为野外捕获的动物的骨骼，但为了增加样本量，我们也包括了一些从动物园中而来的圈养个体.对于大多数野生物种，我们以相对均匀的比例选取了雌、雄两个性别的标本以研究它们的特征.然而，对于家养绵羊和山羊，我们使用的主要为雌性个体.
+Table 1
+表1
+表1
+本文所用的现代比较标本的数量
+Table 1  The number of modern comparative specimens used in this article
+分类总雄雌成年亚成年幼年肱骨掌骨跖骨岩羊（Pseudois）4215203084292932鬣羚（Capricornis）281172341162223斑羚（Naemorhedus）2810112530243218山羊（C. hircus）326119230191924北山羊（C.i.sibirica）271242241152020瞪羚/原羚（Gazella/Procapra）2917122900291717盘羊（O. ammon）40251325141253333绵羊（O. aries）66272446191332928
+新窗口打开|
+下载CSV
+本文将重点报告考古遗址中最经常遇到的三个骨骼部位的鉴定标准，即肱骨远端、掌骨远端和跖骨远端.当然，其他骨骼部位上也发现了可用于分类的形态鉴定特征，包括桡骨近端、股骨近端、胫骨远端和第一指骨.由于篇幅有限，这些骨骼部位的详细鉴定信息将在后续专辑出版.
+对于所研究的大多数标本，其动物的确切死亡年龄未知.根据骨骺愈合状况，我们将所有标本分为三个年龄段——成年、亚成年和幼年.大多数现代标本属于成年组（即Zeder［49］中F，G级），所有骨骺融合在一起.然而，在 家养绵羊（O. aries）和山羊（C. hircus）中，相当大比例的动物为亚成年个体（即Zeder［49］中C，D，E级），而幼体在所有分类群中的代表性不足.
+已有工作指出，在羊亚科中，动物的性别和野生/圈养状态，对有种属鉴定意义的骨骼形态特征的可见性和可靠性几乎没有影响，而幼年个体则可能表现出形态变异［14，23，34］.因此，我们的研究侧重于骨骺完全融合的成年和亚成年个体标本，以确定主要的形态学鉴定标准.幼年和骨骺未融合的亚成年的特征仅被简要介绍.
+在本文研究的物种中，绵羊（O. aries）和山羊（C. hircus）已有了最深入的研究.它们有Boessneck et al［13］制定的完善鉴定标准.因此我们使用这些标准和慕尼黑国家人类学和古动物解剖学收藏库中的现代标本作为起点，为岩羊（Pseudois）、盘羊（O. ammon）、原羚（Procapra）和瞪羚（Gazella）制定骨骼形态学鉴定标准.以这些现代标本为基础，我们对以前发表的标准进行了重新评估，并发展出一些新的鉴定标准.然后我们利用收藏于美国和欧洲的其他博物馆和收藏库中的标本进一步测试和完善这些鉴定特征.在此过程中，我们还发展了另外三个羊亚科物种的鉴定标准，即斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和北山羊（Capra ibex sibirica）.在检视馆藏标本期间，我们对关键标本特征进行拍照.后图中以线图和简短说明的形式列出了标准.此外，基于Buitenhuis［50］和Gillis et al［39］的方法，我们开发了一个评分系统来评估种属内的形态可变性：在每个标准中定义了2~3个比较评分级别（见下文）.在附图1~3中，我们提供了显示每个骨骼部位典型特征的照片.
+图1
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图1
+所研究动物种属的比较骨学测量：(a)肱骨滑车的最大宽度（BT），（b）掌骨远端的宽度(Bd），（c）跖骨远端的宽度（Bd）
+每幅图中最上、最下的虚线表示大、中、小三者之间的界限；掌骨和跖骨图中间的虚线表示野生盘羊（O.ammon）与家养绵羊（O.aries）的分界.P=岩羊（Pseudois），Ch=山羊（C.hircus），Oa=盘羊（O. ammon），O=绵羊（O.aries），N=斑羚（Naemorhedus sp.），Cpc=鬣羚（Capricornis sp.），Prc=原羚属（Procapra sp.），G=瞪羚属（Gazella sp.），Cis=北山羊（C.i.sibirica）；测量是根据von den Driesch［51］对骨骺完全愈合的标本所制定的标准进行的.
+Fig.1
+Comparative osteological measurements of the species studied：(a) the maximum width of the humeral trochlea (BT),(b) the width of the distal metacarpal (Bd),(c) the width of the distal metatarsal (Bd)
+图2
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图2
+肱骨远端，区分所研究的不同物种的骨骼形态鉴定标准
+图上的数字1~4是指标准1~4.
+Fig.2
+Distal humerus,osteomorphological identification criteria for distinguishing the different species studied
+图3
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图3
+肱骨远端——形态特征的可变性
+百分比条表示在每个分类单元中观察到的个体分数的相对频率
+Fig.3
+Distal humerus——variability of morphological characteristics
+除了使用评分系统评估的特征外，我们还标注了前人发现的一些标准，可以有效区分绵羊/盘羊属（Ovis sp.）、山羊属（Capra sp.）和羚羊亚科（Antilopinae）（见下文），虽然它们对本文涉及的其他物种没有用.
+关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标.
+在将这些发展出的鉴定标准应用于青藏高原东北部铜器时代遗址的考古标本之前，我们首先通过盲测实验对这些形态特征和度量标准的可用性和可靠性进行了评估.该测试由慕尼黑大学古解剖学研究所的四名本科一年级学生和八名较有经验的骨学研究人员进行.
+2 结果
+2.1　尺寸测量区分
+图1总结了本研究中考虑的三个骨骼部位的结果.尽管我们也测量了野生物种中圈养个体的骨骼，但我们的研究中仅包括非圈养个体的大小变化，因为圈养通常会导致哺乳动物的体型发生变化［60-61］.所研究的种属在每个骨骼部位上也表现出一定程度的性别二态性，但这并不影响通过形态进行种属鉴定.此外，在目前的数据中，没有发现不同年龄段的可测量样本之间存在显著差异.
+如肱骨远端所示（图1a），大多数分类群的BT的范围在25~40 mm变化.三个种属——盘羊（O. ammon）、鬣羚属（Capricornis sp.）和北山羊（Capra ibex sibirica）的标本表现出更大的尺寸，它们大多数的BT都大于39.5 mm.一个种属，即瞪羚的尺寸较小——它们大多数都小于25 mm.因此，这些大小阈值可用于种属鉴定分类.
+在掌骨中观察到的模式（图1b）与肱骨上的类似.绝大多数的鬣羚属（Capricornis sp.）、盘羊（O. ammon）和北山羊（C. i. sibirica）的Bd大于33 mm，而低于20 mm的则是瞪羚属（Gazella sp.）.此外，我们注意到盘羊（O. ammon）和绵羊（O. aries）的过渡是29.5 mm.然而，绵羊（O. aries）的测量分析只包括未改良的品种，我们特意排除了用于肉类的现代品种，因为现代肉羊可以达到相当大的体重，并与野生盘羊（O. ammon）尺寸重叠.因此，此处提出的大小阈值适用于对来自考古遗址的标本进行分类鉴定，而与现代的改良品种不同.
+与掌骨和肱骨一样，跖骨的尺寸阈值也有助于识别远端宽度在32.5 mm以上的鬣羚和盘羊，以及在22.0 mm以下的瞪羚（图1c）.盘羊（O. ammon）和绵羊（O. aries）的分界值似乎是29.5 mm，与掌骨中的一样.同样，高度改良的现代家养绵羊品种也被排除在这个研究外.
+2.2　肱骨的形态学标准
+标准1（见图2）被发现是区分岩羊属（Pseudois sp.）与其他羊亚科和羚羊亚科物种最有效的方法.该标准由两个要素组成，一是肱骨远端滑车外侧关节面上边缘的倾斜度，二是其横向延伸的程度.然而，评分系统只评估了滑车上边缘的倾斜度（图3），而未评估其横向延伸的程度.大部分岩羊属（Pseudois sp.）和北山羊（C. i. sibirica）个体的肱骨远端滑车的外关节面上边缘总是较为水平的，并进一步横向延伸（92.3%），而在山羊（C. hircus）中，大部分个体中（82.6%）这个边缘是更为倾斜的，而在大部分（83.7%）的绵羊（O. aries）和羚羊亚科（Antilopinae）（94.4%）中，这个边是水平的，但是其横向延伸的程度则较少（图2）.
+将斑羚属（Naemorhedus sp.）和鬣羚属（Capricornis sp.）与其他种属区分开来的最佳方法是将标准2与标准4（图2）结合使用.大部分的鬣羚属（Capricornis sp.）（87.5%）和斑羚属（Naemorhedus sp.）（89.5%）的肱骨远端滑车外部下边缘比矢状沟的下边缘更靠近近端.此外，在三分之一（33%）的斑羚属（Naemorhedus sp.）和四分之一（25%）的鬣羚属（Capricornis sp.）标本上，我们观察到了滑车上孔，这是另外一个鉴别这两个种属的有用特征.
+标准3（图2），即肱骨远端滑车矢状脊的倾斜度，也可用于将岩羊属（Pseudois sp.）（75%中等，25%倾斜）与盘羊属（Ovis sp.）（在O. aries和O. ammon中74.4%~92%为垂直）和山羊（C. hircus）（50%垂直，43.8%中等）分开.此外，此矢状脊在58.8%的斑羚属（Naemorhedus sp.）和93.7%的鬣羚属（Capricornis sp.）中非常突出，因此适合鉴定这两个种属.在北山羊（C. i. sibirica）上，这个脊非常倾斜（100%倾斜），可用于将其与同样尺寸较大的盘羊（O. ammon）区分开来.
+除上述标准外，还发现远端内侧转角的特征可有效分离盘羊/绵羊属（Ovis sp.）、山羊属（Capra sp.）和羚羊亚科（Antilopinae）（图4A）.此特征在山羊属（Capra sp.）上是一个斜角，在绵羊/盘羊属（Ovis sp.）上是一个圆钝的直角［13，23］，并且在羚羊亚科（Antilopinae）上比在绵羊（O. aries）上发展得更强烈［26］.此外，远端外侧面是将绵羊/盘羊属（Ovis sp.）和山羊属（Capra sp.）分开的另一个有用部位（图4B）.正如已经阐述的那样［13，23］，绵羊/盘羊属（Ovis sp.）外侧髁上的凹坑宽而浅，而山羊（C. hircus）中的轮廓分明且深，所观察的北山羊（C. i. sibirica）的这个凹坑同样较深.我们观察到，家养绵羊的特征也适用于其野生近缘种盘羊（O. ammon）.
+图4
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图4
+山羊、绵羊和羚羊在肱骨远端上的形态特征
+A——远端内侧：（a）绵羊/盘羊属（Ovis sp.）；（b）山羊（Capra hircus）（源自文献［23］Fig.1）；（c）羚羊（Antilopinae）（源自文献［26］中Fig.4D）. B——远端外侧：（a）绵羊/盘羊属（Ovis sp.）；（b）山羊属（Capra sp.）（源自文献［23］中Fig.1）.
+Fig.4
+Morphological characteristics of Ovis,Capra,and Antilipinae on distal humerus
+未融合的肱骨远端上缺乏对种属进行可靠鉴定的标准.
+2.3　炮骨（掌骨和跖骨）的形态学标准
+掌骨（图5~6）和跖骨（图7~8）的第一个标准对于区分山羊属（Capra sp.）与其他中等大小的牛科种属最有用.我们研究中的大多数山羊（C. hircus）标本（72.7%）和北山羊（C.i.sibirica）的特征是髁突远端边缘倾斜且陡峭.对山羊的观察结果与之前的描述一致［13，23］.在其他中等大小的羊亚科（岩羊属（Pseudois sp.）、绵羊/盘羊属（Ovis sp.）和斑羚属（Naemorhedus sp.））中，髁突远端边缘是较为水平的而非倾斜的.
+图5
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图5
+掌骨远端,区分所研究的不同物种的骨骼形态鉴定标准
+图上的数字1~4是指标准1~4
+Fig.5
+Distal metacarpus,the osteomorphological identification criteria for distinguishing the different species studied
+图6
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图6
+掌骨远端——形态特征的可变性
+百分比条表示在每个分类单元中观察到的个体分数的相对频率
+Fig.6
+Distal metacarpus——variability of morphological characteristics
+图7
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图7
+跖骨远端，区分所研究的不同物种的骨骼形态鉴定标准
+图上的数字1~4是指标准1~4
+Fig.7
+Distal metatarsal,the osteomorphological identification criteria for distinguishing the different species studied
+图8
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图8
+跖骨远端——形态特征的可变性
+百分比条表示在每个分类单元中观察到的个体分数的相对频率
+Fig.8
+Distal metatarsal——variability of morphological characteristics
+掌骨和跖骨的第二个标准对于将羚羊亚科（Antilopinae）与羊亚科（Caprinae）分开是有效的.瞪羚（100%）的特征是髁突背侧呈一个长（近端⁃远端）而窄（内侧⁃外侧）的矩形.相比之下，大多数山羊属（Capra sp.）（63%~91%）、绵羊/盘羊属（Ovis sp.）（95.8%~100%）、斑羚属（Naemorhedus sp.）（100%）、鬣羚属（Capricornis sp.）（100%）都表现出相对短而宽的髁突.此外，该标准对于区分岩羊与绵羊/盘羊和山羊很有用，因为大多数岩羊标本（74%）在这个特征中处于中等，而大多数绵羊/盘羊（95.8%~100%）和山羊（91%）表现出短而宽的形状.
+关于掌骨的第三个标准也可用于区分羚羊亚科（Antilopinae）.在100%的瞪羚属（Gazella sp.）/原羚属（Procapra sp.）标本中，描绘外侧髁背轴部分的背外侧边缘的路线是竖直的，而在其他种属中，包括山羊属（Capra sp.）（68.2%~100%中等）、岩羊属（Pseudois sp.）（73.9%中等，21.7%倾斜）、鬣羚属（Capricornis sp.）（78.9%倾斜，21.1%中等）和斑羚属（Naemorhedus sp.）（75%中等，25%倾斜），这个边缘趋势更倾斜.然而，在盘羊（O. ammon）中，70.8%的标本的背外侧边缘是竖直的.
+在掌骨和跖骨上描述的第四个标准对于将斑羚属（Naemorhedus sp.）和鬣羚属（Capricornis sp.）与其他羊亚科（Caprinae）物种分开是有效的.超过80%的斑羚属（Naemorhedus sp.）和鬣羚属（Capricornis sp.）的掌骨以及超过90%的跖骨的特征是髁突相应部分的远端边缘轻微的缩进.在其他物种上，这里大多是较深或者至少中度的缩进.不过，绵羊在这个特征上与大小相当的斑羚有一定程度的重叠.
+骨骺远端未愈合的未成年个体的标本上，表现出与骨骺愈合的标本相似的形态特征.
+2.4　盲测
+我们使用慕尼黑国家人类学和古动物解剖学收藏库（SAPM）中的现代比较标本对上述鉴定标准进行盲测.用于盲测的包括以下种属的现代标本：绵羊（O. aries）、山羊（C. hircus）、盘羊（O. ammon）、岩羊（P. nayaur）、瞪羚属（Gazella sp.）、原羚属（Procapra sp.）.具有不同程度骨学经验的分析员参与了测试.他们获得了本文2.1~2.3节中介绍的形态学标准，并被要求将标本分配到七个分类群之一：盘羊（O. ammon）、岩羊（P. nayaur）、绵羊（O. aries）、山羊（C. hircus）、斑羚属（Naemorhedus sp.）、鬣羚属（Capricornis sp.）、羚羊亚科（Antilopinae）.尽管他们还被要求根据每个标准为每个标本打分，但测试者直接使用形态特征对标本进行分类，而没有应用下面描述的概率方法.
+从表2中可以看出，六名已经熟悉了绵羊（O. aries）和山羊（C. hircus）形态标准（Boessneck et al［13］）的研究人员可以使用上述标准成功识别所有现代肱骨标本.然而，四名缺乏骨学经验的第一学期学生在对标本进行分类时遇到了较多困难（失败率为33%~66.7%）.
+Table 2
+表2
+表2
+盲测结果
+Table 2  Blind test results
+部位测试者被正确分类的岩羊百分比被正确分类的山羊百分比（%）被正确分类的羚羊百分比（%）被正确分类的盘羊百分比（%）被正确分类的绵羊百分比（%）总体正确鉴定百分比（%）肱骨4位学生100%0~100%0~50%0~100%033.3%~66.7%6位研究者100%100%100%100%100%100%掌骨8位研究者0~100%0~100%50%~100%0~75%0~100%25.0%~93.8%研究者 8100%100%100%75%100%93.8%总体正确率15.6%68.8%93.8%15.6%43.8%45.3%跖骨8位研究者0~75%0~100%50%~100%0~100%50%~100%43.8%~87.5%研究者 875%100%100%100%50%87.5%总体正确率40.6%75.0%93.8%31.3%87.5%61.7%
+新窗口打开|
+下载CSV
+与肱骨相比，炮骨远端的鉴定被证明不那么简单.从表2中可以看出，测试者对远端掌骨的总体正确识别率在25.0%~93.8%，而在远端跖骨上的总体正确识别率在43.8%~87.5%.尽管所有参与者对家养绵羊和山羊的形态都有一定的了解，但他们中的大多数人都混淆了岩羊（P. nayaur）和盘羊（O. ammon）的标本，且对绵羊（O. aries）和山羊（C. hircus）的正确识别率也不高.相比之下，羚羊亚科（Antilopinae）的掌骨和跖骨均被大多数测试者正确识别，其正确识别率均为93.8%.
+导致这种情况的部分原因是用于测试的盘羊（O. ammon）标本并非直接取自野外，而是体型较小的动物园个体，因此很难通过测量大小与岩羊（P. nayaur）、绵羊（O. aries）和山羊（C. hircus）分开.此外，绵羊（O. aries）、盘羊（O. ammon）和岩羊（P. nayaur）的炮骨在形态上又极其接近.这就解释了正确分类这些样本的困难.
+3 考古应用
+我们将上述标准应用于位于青藏高原东北部及邻近地区的新石器时代至青铜时代几个遗址的中型牛科动物遗存的鉴定中［3］，其中之一的遗址是位于青海东北部大通河流域的金禅口（36°55'12''N，102°32'24'''E，2309masl），年代为3721~4146 cal BP［62］，即青铜时代早期.最初鉴定这批动物遗存的研究人员［63］将归类为中型牛科动物的骨骼遗存交给笔者进行进一步细致鉴定.这批骨骼的基本保存状况都较好.笔者对每一件标本都根据上文描述的多个形态标准进行了综合鉴定.
+对于肱骨远端的分类，标本的大小和前四个形态学标准1~4是决定是否进一步鉴定并考虑后两个标准的决定性因素，即内侧和外侧关节面的形态.例如，对于标本A919和A1028，斑羚属（Naemorhedus sp.）是唯一在大小和形态标准1~4上匹配的种属，故鉴定在此最终确定（表3）.然而，如果在这五个步骤后鉴定状态仍不清楚，则必须考虑最后两个标准，如标本A1061的情况，它被确定为绵羊（O. aries）.总之，逐步鉴定法较为适合识别肱骨远端.
+Table 3
+表3
+表3
+青铜时代金禅口遗址肱骨远端的种属分类鉴定
+Table 3  Species classification and identification of distal humerus at Jinchankou site in Bronze Age
+标本号尺寸(BT)标准1标准2 &标准4标准3远端近中边缘远端远中边缘鉴定结果A1061O,P,Ch,N,ACh,Oa,O,N,Cpc,AOa,O,P,Ch,ACh,Oa,O,AO,OaO,OaOA919O,P,Ch,N,ACpc,N,Ch,OaN,CpcP,Ch,Cpc,N--NA1028O,P,Ch,N,ACpc,N,Ch,OaN,CpcP,Ch,Oa,O,Cpc,N--N
+标准1~4指的是图2和图3中描述的标准.P=岩羊属（Pseudois sp.），Ch=山羊（C. hircus），A=羚羊亚科（Antilopinae），Oa=盘羊（O. ammon），N=斑羚属（Naemorhedus sp.），Cpc=鬣羚属（Capricornis sp.），O=绵羊(O. aries).
+新窗口打开|
+下载CSV
+与肱骨远端相比，炮骨远端的识别不那么直接，因为形态学标准不那么明确.在金禅口材料中，在对标本A868，A811和A1716进行鉴定时，多达三个可能的分类种属在大小和形态标准上都匹配（表4）.尽管如此，当根据现代标本计算的每个标准的百分比概率（见图7）评估后验概率［64］时，潜在分类群的数量可以进一步缩小.例如，将这种概率方法应用于样本A858，我们计算出将其鉴定为岩羊属（Pseudois sp.）的后验概率为77.9%（即78.3%+74%+73.9%+85.7%除以4——其形态特征在每个标准上所得分数对应为岩羊的概率之平均，见表5），而鉴定为山羊（C. hircus）的后验概率为43.6%（即27.3%+9%+68.2%+70.0%除以4，见表5）.因此，我们认为样本A858为岩羊属（P. nayaur）的可能性更大.通过类似的方法，我们能够将标本A811鉴定为绵羊（O. aries）.
+Table 4
+表4
+表4
+青铜时代金禅口遗址炮骨远端的种属分类鉴定
+Table 4  Species classification and identification of distal metapodials at Jinchankou site in Bronze Age
+部位标本号尺寸 (Bd)标准1标准2标准3标准4鉴定结果掌骨A858O,P,Ch,N,AOa,O,P,Ch,N,A,CpcP,Ch,OaOa,O,P,Ch,N,CpcP,Ch,Oa,O,AP,Ch掌骨A868O,P,Ch,N,AP,Oa,O,Cpc,NP,Ch,Oa,O,Cpc,NOa,O,P,Ch,N,CpcCh,Oa,O,Cpc,N,AO,N跖骨A811O,P,Ch,N,ACh,Oa,O,N,CpcP,Ch,Oa,O,Cpc,NP,Ch,Oa,O,NP,Ch,Oa,O,Cpc,N,AO,Ch,N跖骨A1716O,P,Ch,N,AP,Ch,N,AP,Oa,O,Cpc,NP,Ch,Oa,O,Cpc,N,AP,Ch,Oa,AP
+标准1~4指的是图4~7中描述的标准.P=岩羊属（Pseudois sp.），Ch=山羊（C. hircus），A=羚羊亚科（Antilopinae），Oa=盘羊（O. ammon），N=斑羚属（Naemorhedus sp.），Cpc=鬣羚属（Capricornis sp.）.
+新窗口打开|
+下载CSV
+Table 5
+表5
+表5
+基于标准1~4的样本A858，A868和A811分类的似然和后验概率（阴影区域表示最可能的鉴定分类）
+Table 5  Likelihood and posteriori probability based on criteria 1~4 for the classification of samples A858,A868,and A811 （Shaded areas indicate the most likely identification categories）
+A858标准1：2分标准2：2分标准3：2分标准4：3分后验概率PChPChPChPChPCh78.3%27.3%74%9%73.9%68.2%85.7%70.0%77.9%43.6%A868标准1：1分标准2：3分标准3 ：2分标准4：1分后验概率ONONONONON81.0%50.0%100%100%68.1%75.0%61.5%100%77.7%81.3%A811标准1：1分标准2：3分标准3：3分标准4：2分后验概率OChNOChNOChNOChNOChN80.0%12.5%78.9%88%100%94.7%96%50%15.80%84%12.5%9.1%87.0%43.8%49.6%
+P=岩羊属（Pseudois sp.），Ch=山羊（C. hircus），A=羚羊亚科（Antilopinae），Oa=盘羊（O. ammon），N=斑羚属（Naemorhedus sp.），Cpc=鬣羚属（Capricornis sp.）.
+新窗口打开|
+下载CSV
+这些鉴定结果得到了第二种独立方法——形态测量学的证实［3］.当然，如果该方法得出的两个可能的分类群表现出大致相似的后验概率，如标本A868（表5），则在种属分类上缩小到一个种属将是不可能的.然而，形态测量学表明这个标本最有可能是绵羊（O. aries）［3］.总而言之，在鉴定炮骨时，概率方法对于考古标本的鉴定更有效.
+根据我们对金禅口遗存的研究，发现该遗址共98件可鉴定的中型牛科动物标本中，全部为羊亚科，而没有羚羊亚科的标本（图9）.在羊亚科中，一半略多（51%）为野生的，其中岩羊属（Pseudois sp.）占21%，斑羚属（Naemorhedus sp.）占9%，鬣羚属（Capricornis sp.）占2%.剩下近一半（49%）为家养的，其中主要为绵羊（Ovis aries），占39%，山羊则很少，仅占5%.这些结果说明，该遗址人类在引入了家养绵羊和山羊的同时，仍然狩猎大量的本地野生羊亚科动物.这个研究提示我们，甘青地区及周边的全新世中晚期遗址中，虽然在距今4000年前后已有家养绵羊、山羊传入，但是人类对本地野生羊的狩猎仍然持续，甚至在整个动物资源开发利用中比对家养羊的利用占比更大，而这是以往研究中所忽视的.
+图9
+新窗口打开|
+下载原图ZIP|
+生成PPT
+图9
+金禅口遗址的羊亚科动物遗存种属组成（NISP=98）
+Fig.9
+The species and genera composition of Subfamily Caprinae remains in Jinchankou site
+4 讨论与结论
+我们的工作和盲法研究清楚地表明，为了获得最好的鉴定结果，骨骼分析人员应该熟悉前人文章中描述的山羊和绵羊的形态特征，尤其是Boessneck［13］所提出的.如盲测所示，第一学期骨骼学经验较弱的学生难以正确鉴定肱骨标本，而经验丰富的骨学研究者即使第一次使用上述标准也能正确分类所有的种属.此外，为了正确识别掌骨、跖骨，我们建议相关研究者首先使用前人发表的和我们上面提出的标准熟悉现代盘羊（O. ammon）、绵羊（O. aries）、山羊（C. hircus）和岩羊（P. nayaur）的骨骼标本的形态.如表2所示，一些即使已熟悉了绵羊（O. aries）和山羊（C. hircus）形态的测试人员，由于对其他两种羊亚科物种，即岩羊（P. nayaur）和盘羊（O. ammon）之间的相似性不够熟悉，而面临区分所有中等大小牛科动物的跖骨的问题，但当研究人员已经熟悉了这些物种的现代标本的骨骼形态时，则可使用本文中建立的标准，高度可信地识别这些类群.
+正如对青铜时代的金禅口遗址的考古标本的鉴定工作所示，最晚在距今4000年前后，家养绵羊已经引入甘青地区，而家养山羊的引入规模还较小.然而，由于本地野生羊亚科资源丰富，在所有人类利用的羊亚科物种中，野生羊仍占一半略多的地位.也就是说，在当时东西方文化交流的背景下，家养羊的规模与野生羊的规模已基本持平，但是对野生羊的捕猎仍是当时动物资源利用的重要组成部分.这一结果也与该遗址总体动物遗存的鉴定结果相符——在所有的可鉴定标本中，大部分为当地的野生物种［3］.这也暗示着，尽管家养绵羊和山羊已在距今4000年前后引入甘青地区，在广泛分布着野生羊的中国西部的广大区域内，狩猎野羊以获取肉食等资源的行为仍占较大比重，而这种情况一直持续到青铜时代甚至更晚.
+另一方面，距今4000年前后家养绵羊和山羊的总体规模已基本与野生羊持平，则暗示家养羊的养殖和管理此时已经具有一定规模，因此该地最早引入家养羊的时间应该比4000年前更早.对于甘青地区而言，则需要继续考察马家窑或者宗日文化时期的相关证据.然而，对于这个证据的确认，我们必须谨慎地鉴定家养绵羊、山羊，以及当地分布的相关繁多羊亚科和羚羊亚科种属，因为它们都有可能在当时被人类利用，而不能把凡是类似羊的动物遗存统归为是传入的家养绵羊.在评估中国西部史前遗址人类有关获取动物资源的生存策略时，可以使用本文中提出的方法对史前动物遗存进行仔细分析.
+由于篇幅有限，这里只详细讨论了三个骨骼部位，但其他骨骼部位的形态鉴定标准和完整的测量尺寸即将以专辑的形式发表.尽管考古标本中往往可以被应用于识别到物种水平的骨骼相当有限，但我们仍然可以利用所有材料推断出相对物种频率，因为这种限制也同样地影响着其他大小相似的物种.因此，诸如生存策略、家养绵羊与山羊传播的时空分布、历史动物地理学和古生态学等相关问题仍然可以通过本文提出的方法得到充分讨论.展望未来，我们需要进一步提高甄别这些密切相关种属的骨骼形态的准确度，例如通过使用形态测量学［34，65］和几何形态测量学［35，66］等方法.此外，结合基于质谱的动物考古（ZooMs）和古DNA等分子生物分析也是验证考古遗址中生物分类正确性的另一有效方法.
+附表
+附表
+本文涉及的野生羊亚科和羚羊亚科分布情况
+属名种名别名生态和地理分布（包括近期历史分布）羊亚科（SubfamilyCaprinae）盘羊属（Ovis）盘羊（Ovis ammon）羱羊，大角羊分布在海拔高达5000 m以上的山地地带，包括青藏高原和新疆大部分山麓地带，东至山西北部和内蒙古中部，北至南西伯利亚，西至哈萨克斯坦东部，南至尼泊尔和印度北部山羊属（Capra）北山羊（Capra ibex sibirica）羱羊，大角羊在新疆、西藏、内蒙古、甘肃等亚洲内陆干旱的山地区域，海拔500~5000 m以上均有分布岩羊属（Pseudois）岩羊（Pseudois nayaur）石羊分布在海拔3500~5500 m的青藏高原、甘肃、内蒙古和四川西部.一些种群分布在海拔~2600 m的长江河谷斑羚属（Naemorhedus）红斑羚（Naemorhedus baileyi）青羊分布在西藏东南部、云南西北部，海拔2000~4500 m的森林、灌丛和草甸中国斑羚（Naemorhedus griseus）栖息地的生态环境和其他斑羚类似.从中国中部延伸到印度东北部、缅甸西部、泰国东北、孟加拉东部喜马拉雅斑羚（Naemorhedus goral）分布在喜马拉雅山脉，海拔900~4000 m的森林和灌木丛覆盖的山地，包括不丹、印度、尼泊尔、中国境内鬣羚属（Capricornis）中国鬣羚（Capricornis milneedwardsii）苏门羚遍及经喜马拉雅山脉到中南半岛的中国中部和东南部，海拔200~4000 m的崎岖陡峭多岩石的丘陵地区以及低山山麓和热带雨林塔尔羊属（Hemitragus）喜马拉雅塔尔羊（Hemitragus jemlahicus）长毛羊，塔尔羊分布在从海拔750~5000 m的喜马拉雅山脉南侧的一条狭窄地带，为树木繁茂的丘陵和山坡羚羊亚科（SubfamilyAntilopinae）瞪羚属（Gazella）鹅喉羚（Gazella subgutturosa）黄羊遍布从阿拉伯半岛至中国西北部及蒙古南部的广大区域，栖息在海拔1000~3500 m的沙漠、草原，及高山草原原羚属（Procapra）蒙古原羚（Procapra gutturosa）黄羊广泛分布于中亚草原带、中国北方，海拔800~1000 m的干燥的草原地带普氏原羚（Procapra przewalskii）黄羊分布在青海湖周边，海拔1000~3000 m的半干旱草原地带；历史上也分布在内蒙古、宁夏、山西藏原羚（Procapra picticaudata）黄羊分布在青藏高原大部分地区，海拔3000~5750 m的高山草甸和草原地带藏羚属（Pantholops）藏羚羊（Pantholops hodgsonii）黄羊分布在青藏高原海拔3250~5500 m的环境为开阔的高山和沙漠草原地带
+新窗口打开|
+下载CSV
+参考文献
+View Option
+原文顺序
+文献年度倒序
+文中引用次数倒序
+被引期刊影响因子
+[1]
+傅罗文,袁靖,李水城. 论中国甘青地区新石器时代家养动物的来源及特征考古,2009(5)：80-86.
+[本文引用: 2]
+Flad R, Yuan J, Li S C. On the source and features of the Neolithic domestic animals in the Gansu and Qinghai region,Chinese Archaeology,2009(5)：80-86.
+[本文引用: 2]
+[2]
+罗运兵. 关中地区史前动物考古研究的几个问题考古与文物,2009(5)：89-94.
+Luo Y B. A few problems of the zooarchaeological research in Guanzhong PlainArchaeology and Cultural Relics,2009（5)：89-94.
+[3]
+Wang Y. Identifying the beginnings of sheep husbandry in Western China. Ph.D. Dissertation. Cambridge,UK：University of Cambridge,2017.
+[本文引用: 6]
+[4]
+Flad R K, Yuan J, Li S C. Zooarcheological evidence for animal domestication in northwest ChinaDevelopments in Quaternary Sciences,2007(9)：167-203.
+[本文引用: 2]
+[5]
+袁靖. 中国古代家养动物的动物考古学研究第四纪研究,2010,30(2)：298-306.
+[本文引用: 1]
+Yuan J. Zooarchaeological study on the domestic animals in ancient ChinaQuaternary Sciences,2010,30(2)：298-306.
+[本文引用: 1]
+[6]
+中国科学院考古研究所甘肃工作队. 甘肃永靖大何庄遗址发掘报告考古学报，1974(2)：29-62.
+[本文引用: 1]
+The Kansu Archaeology Team,IAAS. Excavation of the remains of chicha culture atta⁃ho⁃chuang in Yung⁃ching county,Kansu Province,Acta Archaeologica Sinica,1974(2)：29-62.
+[本文引用: 1]
+[7]
+中国科学院考古研究所甘肃工作队. 甘肃永靖县秦魏家齐家文化墓地考古学报,1975(2)：57-96.
+The Kansu Archaeology Team,IAAS. Excavation of a chicha culture cemetery at ch'in⁃wei⁃chia in Yung⁃ching county,Kansu Province of Qinweijia,Yongjing,GansuActa Archaeologica Sinica,1975(2)：57-96.
+[8]
+中国社会科学院考古研究所. 师赵村与西山坪. 北京：中国大百科全书出版社,1999:350.
+Institute of Archaeology,Chinese Academy of Social Sciences. Shizhaocun and Xishanping. Beijing：Encyclopedia of China Publishing House,1999：350.
+[9]
+中国社会科学院考古研究所. 甘肃武山傅家门史前文化遗址发掘简报考古,1995(4)：289-296.
+Institute of Archaeology,Chinese Academy of Social Sciences. A brief report of prehistorical cultural Fujiamen Site,GansuArchaeology,1995(4),289-296.
+[10]
+青海省考古队. 青海民和核桃庄马家窑类型第一号墓葬文物,1979(9)：29-32.
+[11]
+谢端琚,赵信. 武山傅家门遗址的发掘与研究∥考古学集刊,中国社会科学院考古研究所. 北京：科学出版社，2006：380-458.
+[本文引用: 1]
+Xie D J, Zhao X. Excavation of Fujiamen site,Wushan∥Archaeology Bulletin,Institute of Archaeology,Chinese Academy of Social Sciences. Beijing：Science Press,2006：380-458.
+[本文引用: 1]
+[12]
+Boessneck J. Osteological differences between sheep (Ovis aries Linné) and goat (Capra hircus Linné)∥Brothwell D,Higgs E. Science in archaeology. The 2nd Edition. London,UK：Thames & Hudson,1969：331-358.
+[本文引用: 1]
+[13]
+Boessneck J, Müller H H, Teichert M. Osteologische unterscheidungsmerkmale zwischen Schaf (Ovis aries Linné) und Ziege (Capra hircus Linné)Kühn⁃Archiv,1964,78：1-129.
+[本文引用: 6]
+[14]
+Clutton⁃Brock J, Dennis⁃Bryan K, Armitage P L,et al. Osteology of the Soay sheepBulletin of the British Museum,Zoology,1990,56(1)：1-56.
+[本文引用: 2]
+[15]
+Fernandez H. Ostéologie comparée des petits ruminants Eurasiatiques sauvages et domestiques (genres Rupicapra,Ovis,Capra et Capreolus)：Diagnose différentielle du squelette appendiculaire. Ph.D. Dissertation. Geneva,Switzerland：University of Geneva,2001.
+[本文引用: 1]
+[16]
+Gromova V. Osteologicheskie otlichiia rodov Capra (kozly) i Ovis (barany)；rukovodstvo dlia opredeleniia iskopaemykh ostatkov [osteological differences of the genera Capra (goat) and Ovis (sheep),a handbook for the determination of fossil remains]Akademiia Nauk SSSR. Trudy Komissii Po Izucheniiu Chetvertichnogo Perioda,1953,10(1)：3-122.
+[17]
+Gudea A, Stan F. The discriminative macroscopical identification of the bones of sheep (Ovis aries),goat (Capra hircus) and roe deer (Capreollus capreollus)：1Elements of the forelimb skeleton. Bulletin UASMV. Veterinary Medicine,2011,68(1)：171-178.
+[18]
+Gudea A, Stan F. The discriminative macroscopical identification of the bones of sheep (Ovis aries),goat (Capra hircus) and roe deer (Capreollus capreollus)：2Elements of the hindlimb skeleton. Bulletin UASMV. Veterinary Medicine,2012,69(1-2)：107-114.
+[19]
+Kratochvil Z. Species criteria on the distal section of the tibia in Ovis ammon fAries L. and Capra aegagrus f. hircus L. Acta Veterinaria Brno,1969,38：483-490.
+[20]
+Prummel W, Frisch H J. A guide for the distinction of species,sex and body side in bones of sheep and goatJournal of Archaeological Science,1986,13(6)：567-577.
+[21]
+Schramm Z. Morphological differences of some goat and sheep bonesRoczniki Wycszej Szkoły Rolniczej W Poznaniu,1967,36：107-133.
+[22]
+Zedda M, Palombo M R, Brits D,et al. Differences in femoral morphology between sheep (Ovis aries) and goat (Capra hircus)：Macroscopic and microscopic observationsZoomorphology,2017,136(1)：145-158.
+[本文引用: 1]
+[23]
+Zeder M A, Lapham H A. Assessing the reliability of criteria used to identify postcranial bones in sheep,Ovis,and goats,Capra Journal of Archaeological Science,2010,37(11)：2887-2905.
+[本文引用: 7]
+[24]
+Gabler K O. Osteologische Unterscheidungsmerkmale zwischen mähnenspringer (Ammotragus lervia),Hausschaf (Ovis aries) und Hausziege (Capra hircus). Ph.D. Dissertation. Munich,Germany：Ludwig⁃Maximilians⁃Universität München,1985.
+[本文引用: 1]
+[25]
+Götze G. Die osteologie des blauschafes,Pseudois nayaur (Hodgson,1833). PhD Dissertation. Munich,Germany：Ludwig⁃Maximilians⁃Universität München,1998.
+[26]
+Helmer D, Rocheteau M. Atlas du Squelette Appendiculaire Des Principaux Genres Holocènes De Petits Ruminants Du Nord De La Méditerranée Et Du Proche⁃Orient (Capra,Ovis,Rupicapra,Capreolus,Gazella). APDCA：Juan⁃les⁃Pins,1994.
+[本文引用: 2]
+[27]
+Hildebrand M. Skeletal differences between deer,sheep,and goatsCalifornia Fish and Game,1955,41(4)：327-346.
+[28]
+Peters J. Osteomorphological features of the appendicular skeleton of gazelles,genus Gazella blainville 1816,bohor reedbuck,Redunca redunca (Pallas,1767),and bushbuck,Tragelaphus scriptus (Pallas,1766). Anatomia,Histologia,Embryologia,1989,18(2)：97-113.
+[本文引用: 1]
+[29]
+Davis S J M. Measurements of a group of adult female Shetland sheep skeletons from a single flock：A baseline for zooarchaeologistsJournal of Archaeological Science,1996,23(4)：593-612.
+[本文引用: 1]
+[30]
+Davis S J M. The effect of castration and age on the development of the Shetland sheep skeleton and a metric comparison between bones of males,females and castratesJournal of Archaeological Science,2000,27(5),373-390.
+[31]
+Payne S. A metrical distinction between sheep and goat metacarpals∥Dimbleby G W. The domesti⁃cation and exploitation of plants and animals. New York,USA：Routledge,2008：295-305.
+[32]
+Popkin P R W, Baker P, Worley F,et al. The Sheep Project (1)：Determining skeletal growth,timing of epiphy seal fusion and morphometric variation in unimproved Shetland sheep of known age,sex,castration status and nutritionJournal of Archaeological Science,2012,39(6)：1775-1792.
+[本文引用: 1]
+[33]
+Rowley⁃Conwy P. Improved separation of Neolithic metapodials of sheep (Ovis) and goats (Capra) from Arene Candide cave,Liguria,ItalyJournal of Archaeological Science,1998,25(3)：251-258.
+[34]
+Salvagno L, Albarella U. A morphometric system to distinguish sheep and goat postcranial bonesPLoS One,2017,12(6)：e0178543.
+[本文引用: 2]
+[35]
+Haruda A F. Separating sheep (Ovis aries L.) and goats (Capra hircus L.) using geometric morpho⁃metric methods：An investigation of astragalus morphology from Late and Final Bronze Age central Asian contexts. International Journal of Osteo⁃archaeology,2017,27(4)：551-562.
+[本文引用: 1]
+[36]
+Haruda A F, Varfolomeev V, Goriachev A,et al. A new zooarchaeological application for geometric morphometric methods：Distinguishing Ovis aries morphotypes to address connectivity and mobility of prehistoric Central Asian pastoralistsJournal of Archaeological Science,2019(107)：50-57.
+[37]
+Pöllath N, Schafberg R, Peters J. Astragalar morphology：Approaching the cultural trajectories of wild and domestic sheep applying geometric morphometricsJournal of Archaeological Science：Reports,2019(23)：810-821.
+[本文引用: 1]
+[38]
+Balasse M, Ambrose S H. Distinguishing sheep and goats using dental morphology and stable carbon isotopes in C4 grassland environmentsJournal of Archaeological Science,2005,32(5)：691-702.
+[本文引用: 1]
+[39]
+Gillis R, Chaix L, Vigne J D. An assessment of morphological criteria for discriminating sheep and goat mandibles on a large prehistoric archaeological assemblage (Kerma,Sudan)Journal of Archaeological Science,2011,38(9)：2324-2339.
+[本文引用: 1]
+[40]
+Halstead P, Collins P, Isaakidou V. Sorting the sheep from the goats：Morphological distinctions between the mandibles and mandibular teeth of adult Ovis and Capra Journal of Archaeological Science,2002,29(5)：545-553.
+[41]
+Helmer D. Discrimination des Genres Ovis et Capra à l'aide desprémolaires inférieures 3 et 4 et interprétation des âges D'abattage：l'exemple de Dikili Tash (Grèce)Anthropozoologica,2000(31)：29-38.
+[42]
+Teeth Hillson S.. The 2nd Edition. Cambridge,UK：Cambridge University Press，2005.
+[43]
+Payne S. Morphological distinctions between the mandibular teeth of young sheep,Ovis,and goats,Capra Journal of Archaeological Science,1985,12(2)：139-147.
+[44]
+Zeder M A, Pilaar S E. Assessing the reliability of criteria used to identify mandibles and mandibular teeth in sheep,Ovis,and goats,Capra Journal of Archaeological Science,2010,37(2)：225-242.
+[本文引用: 1]
+[45]
+Dodson J, Dodson E, Banati R,et al. Oldest directly dated remains of sheep in ChinaScientific Reports,2014(4)：7170.
+[本文引用: 2]
+[46]
+Buckley M, Whitcher Kansa S W, Howard S,et al. Distinguishing between archaeological sheep and goat bones using a single collagen peptideJournal of Archaeological Science,2010,37(1)：13-20.
+[本文引用: 1]
+[47]
+Rizzi E, Lari M, Gigli E,et al. Ancient DNA studies：New perspectives on old samplesGenetics,Selection,Evolution,2012,44(1)：21.
+[本文引用: 1]
+[48]
+Bollongino R, Tresset A, Vigne J D. Environment and excavation：Pre⁃lab impacts on ancient DNA analysesComptes Rendus Palevol,2008,7(2-3)：91-98.
+[本文引用: 1]
+[49]
+Zeder M A. Reconciling rates of long bone fusion and tooth eruption and wear in sheep (Ovis) and goat (Capra)∥Ruscillo D,Recent advances in ageing and sexing animal bones,Proceedings of the 9th Conference of the International Council of Archaeozoology. Oxford,UK：Oxbow Press,2006：87-118.
+[本文引用: 2]
+[50]
+Buitenhuis H. A quantitative approach to species determination of Ovicapridae∥Buitenhuis H,Uerpmann H P. Archaeozoology of the near east Ⅱ. Proceedings of the 2nd Symposium on the Archaeozoology of Southwestern Asia and Adjacent Areas. Leiden,Netherlands：Backhuys Publishers,1995：140-155.
+[本文引用: 1]
+[51]
+von den Driesch A. A guide to the measurement of animal bones from archaeological sites：As developed by the institut für palaeoanatomie,domestikationsforschung und geschichte der tiermedizin of the university of munich. Cambridge,USA：Harvard University,Peabody Museum of Archaeology and Ethnology,1976.
+[本文引用: 2]
+[52]
+Bergmann C. Über die Verhältnisse der wärmeökonomie der thiere zu ihrer größeGöttinger Studien,1847,3(1)：595-708.
+[本文引用: 1]
+[53]
+Mayr E. Geographical character gradients and climatic adaptationEvolution,1956,10(1)：105-108.
+[54]
+Mayr E. Animal species and evolution. Cambridge,USA：Harvard University Press,1963.
+[本文引用: 1]
+[55]
+Sykes A R. Manipulating host immunity to improve nematode parasite control⁃quo vadit Parasite Immunology,2008,30(2)：71-77.
+[本文引用: 1]
+[56]
+Koch P L. Clinal geographic variation in mammals：Implications for the study of chronoclinesPaleobiology,1986,12(3)：269-281.
+[本文引用: 1]
+[57]
+Hildebrand M, Goslow G E Jr. Analysis of vertebrate structure. The 5th Edition. New York,USA：John Wiley & Sons,2001.
+[本文引用: 1]
+[58]
+Peters J, Buitenhuis H, Grupe G,et al. The long and winding road：Ungulate exploitation and domesti⁃cation in early Neolithic Anatolia (10000-7000 CAL BC)∥The origins and spread of domestic animals in southwest Asia and Europe. New York,USA：Routledge,2013：83-114.
+[本文引用: 1]
+[59]
+Jungers W L, Falsetti A B, Wall C E. Shape,relative size,and size⁃adjustments in morphometricsAmerican Journal of Physical Anthropology,1995,38(S21)：137-161.
+[本文引用: 1]
+[60]
+O'Reagan H J, Kitchener A C. The effects of captivity on the morphology of captive,domesticated and feral mammalsMammal Review,2005,35(3-4)：215-230.
+[本文引用: 1]
+[61]
+Peters J, Arbuckle B S, Pöllath N. Subsistence and beyond：Animals in Neolithic Anatolia∥Özdoğan M,Başgelen N,Kuniholm P. The neolithic in turkey,Vol. 6,10500-5200 BC：Environment,settlement, flora,fauna,dating,symbols of belief,with views from the north,south,east,and west. Istanbul：Archaeology and Art Publications,2014：135-203.
+[本文引用: 1]
+[62]
+杨颖. 河湟地区金蝉口和李家坪齐家文化遗址植物大遗存分析. 硕士学位论文. 兰州：兰州大学,2014.
+[本文引用: 1]
+Yang Y. Analysis of charred plant seeds at Jinchankou site and Lijiaping site during Qijia culture period in the Hehuang region. China. Master's Dissertation. Lanzhou,China：Lanzhou University,2014.
+[本文引用: 1]
+[63]
+李志鹏,任乐乐,梁官锦. 金禅口遗址出土动物遗存及其先民的动物资源开发中国文物报. 2014-07-04（第7版）.
+[本文引用: 1]
+[64]
+Wolfhagen J, Price M D. A probabilistic model for distinguishing between sheep and goat postcranial remainsJournal of Archaeological Science,2017(12)：625-631.
+[本文引用: 1]
+[65]
+Davis S J M. A metrical distinction between sheep and goat astragali∥Serjeantson D,Rowley⁃Conwy P,Halstead P. Economic zooarchaeology：Studies in hunting,herding,and early agriculture. Oxford,UK：Oxbow Books,2017：50-82.
+[本文引用: 1]
+[66]
+Pöllath N, Alibert P, Schafberg R,et al. Striking new paths⁃Distinguishing ancient Ovis orientalis from its modern domestic descendant (Karakul breed) applying geometric and traditional morphometric approaches to the astragalus∥Archaeozoology of the near East Ⅻ：Proceedings of the 12th international symposium of the ICAZ archaeozoology of southwest Asia and adjacent areas working group,groningen institute of archaeology,June 14-15,2015. Groningen,Netherlands：University of Groningen,2018(12)：207-225.
+[本文引用: 1]
+论中国甘青地区新石器时代家养动物的来源及特征
+2
+2009
+... 基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］. ...
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+On the source and features of the Neolithic domestic animals in the Gansu and Qinghai region
+2
+2009
+... 基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］. ...
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+关中地区史前动物考古研究的几个问题
+0
+2009
+A few problems of the zooarchaeological research in Guanzhong Plain
+0
+2009
+6
+2017
+... 基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］. ...
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+... 我们将上述标准应用于位于青藏高原东北部及邻近地区的新石器时代至青铜时代几个遗址的中型牛科动物遗存的鉴定中［3］，其中之一的遗址是位于青海东北部大通河流域的金禅口（36°55'12''N，102°32'24'''E，2309masl），年代为3721~4146 cal BP［62］，即青铜时代早期.最初鉴定这批动物遗存的研究人员［63］将归类为中型牛科动物的骨骼遗存交给笔者进行进一步细致鉴定.这批骨骼的基本保存状况都较好.笔者对每一件标本都根据上文描述的多个形态标准进行了综合鉴定. ...
+... 这些鉴定结果得到了第二种独立方法——形态测量学的证实［3］.当然，如果该方法得出的两个可能的分类群表现出大致相似的后验概率，如标本A868（表5），则在种属分类上缩小到一个种属将是不可能的.然而，形态测量学表明这个标本最有可能是绵羊（O. aries）［3］.总而言之，在鉴定炮骨时，概率方法对于考古标本的鉴定更有效. ...
+... ［3］.总而言之，在鉴定炮骨时，概率方法对于考古标本的鉴定更有效. ...
+... 正如对青铜时代的金禅口遗址的考古标本的鉴定工作所示，最晚在距今4000年前后，家养绵羊已经引入甘青地区，而家养山羊的引入规模还较小.然而，由于本地野生羊亚科资源丰富，在所有人类利用的羊亚科物种中，野生羊仍占一半略多的地位.也就是说，在当时东西方文化交流的背景下，家养羊的规模与野生羊的规模已基本持平，但是对野生羊的捕猎仍是当时动物资源利用的重要组成部分.这一结果也与该遗址总体动物遗存的鉴定结果相符——在所有的可鉴定标本中，大部分为当地的野生物种［3］.这也暗示着，尽管家养绵羊和山羊已在距今4000年前后引入甘青地区，在广泛分布着野生羊的中国西部的广大区域内，狩猎野羊以获取肉食等资源的行为仍占较大比重，而这种情况一直持续到青铜时代甚至更晚. ...
+Zooarcheological evidence for animal domestication in northwest China
+2
+2007
+... 基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］. ...
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+中国古代家养动物的动物考古学研究
+1
+2010
+... 基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］. ...
+Zooarchaeological study on the domestic animals in ancient China
+1
+2010
+... 基于形态特征对考古遗址中动物遗骸的正确分类鉴定是进一步动物考古分析研究工作的基础.然而，在中国西部，对史前遗址中的中型牛科动物遗存的鉴定是具有挑战性的，因为这个地区分布有包括羊亚科（Caprinae）和羚羊亚科（Antilopinae）在内的很多中型牛科物种［1-3］，即盘羊（Ovis ammon）、岩羊（Pseudois nayaur）、斑羚（包括红斑羚（Naemorhedus baileyi）和中国斑羚（Naemorhedus griseus））、鬣羚（Capricornis milneedwardsii）、北山羊（Capra ibex sibirica）和羚羊亚科的三个属——原羚（Procapra sp.）、瞪羚（Gazella sp.）和藏羚（Pantholops sp.）.此外，史前家养绵羊（O. aries）和山羊（C. hircus）在该地区的引入，使对这些形态相似的物种的鉴定进一步复杂化［4-5］. ...
+甘肃永靖大何庄遗址发掘报告
+1
+1974
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+Excavation of the remains of chicha culture atta?ho?chuang in Yung?ching county
+1
+1974
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+甘肃永靖县秦魏家齐家文化墓地
+0
+1975
+Excavation of a chicha culture cemetery at ch'in?wei?chia in Yung?ching county,Kansu Province of Qinweijia,Yongjing,Gansu
+0
+1975
+0
+1999
+0
+1999
+甘肃武山傅家门史前文化遗址发掘简报
+0
+1995
+A brief report of prehistorical cultural Fujiamen Site,Gansu
+0
+1995
+青海民和核桃庄马家窑类型第一号墓葬
+0
+1979
+1
+2006
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+Excavation of Fujiamen site,Wushan
+1
+2006
+... 在以往对该地区新石器时代和青铜时代的动物考古研究中，研究人员往往未能对不同生物分类的中型牛物种进行准确的鉴定，而这可能导致对古代动物资源获取模式的缺乏依据的假设.例如，“羊”被报道于青藏高原东北部和毗邻的河西走廊的马家窑文化和四坝文化的墓葬中［6-11］.然而，除了文中“羊”这个字可能暗示着包括野生羊亚科和羚羊亚科的任何物种外，无论是对该物种的定名还是所提供的数据都无法证实该标本的科学生物学分类.因此，尽管根据一些考古学现象，如“羊骨”被埋在马家窑文化的墓葬中并且有的似乎带有人工钻凿痕迹——有学者认为中国西北甘青地区在距今约5600~5000年前可以已经出现了家养绵羊［1，4］，但在缺乏对这些骨骼资料进行确切的科学鉴定的基础上，我们目前仍不能确切地断定家养绵羊和山羊于何时、何地最早引入中国.是否可以假设在新石器时代晚期到青铜时代中国西部遗址中所采集到的“羊”的残骸都代表了传入的家养绵羊，是需要非常谨慎的.对考古遗存中羊亚科及与其形态相近的羚羊亚科动物残骸的不确切鉴定，有可能导致对中国史前人类从狩猎野生羊亚科动物到开始发展牧羊业的历史过程的错误判断. ...
+1
+1969
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+Osteologische unterscheidungsmerkmale zwischen Schaf (Ovis aries Linné) und Ziege (Capra hircus Linné)
+6
+1964
+... 在本文研究的物种中，绵羊（O. aries）和山羊（C. hircus）已有了最深入的研究.它们有Boessneck et al［13］制定的完善鉴定标准.因此我们使用这些标准和慕尼黑国家人类学和古动物解剖学收藏库中的现代标本作为起点，为岩羊（Pseudois）、盘羊（O. ammon）、原羚（Procapra）和瞪羚（Gazella）制定骨骼形态学鉴定标准.以这些现代标本为基础，我们对以前发表的标准进行了重新评估，并发展出一些新的鉴定标准.然后我们利用收藏于美国和欧洲的其他博物馆和收藏库中的标本进一步测试和完善这些鉴定特征.在此过程中，我们还发展了另外三个羊亚科物种的鉴定标准，即斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和北山羊（Capra ibex sibirica）.在检视馆藏标本期间，我们对关键标本特征进行拍照.后图中以线图和简短说明的形式列出了标准.此外，基于Buitenhuis［50］和Gillis et al［39］的方法，我们开发了一个评分系统来评估种属内的形态可变性：在每个标准中定义了2~3个比较评分级别（见下文）.在附图1~3中，我们提供了显示每个骨骼部位典型特征的照片. ...
+... 除上述标准外，还发现远端内侧转角的特征可有效分离盘羊/绵羊属（Ovis sp.）、山羊属（Capra sp.）和羚羊亚科（Antilopinae）（图4A）.此特征在山羊属（Capra sp.）上是一个斜角，在绵羊/盘羊属（Ovis sp.）上是一个圆钝的直角［13，23］，并且在羚羊亚科（Antilopinae）上比在绵羊（O. aries）上发展得更强烈［26］.此外，远端外侧面是将绵羊/盘羊属（Ovis sp.）和山羊属（Capra sp.）分开的另一个有用部位（图4B）.正如已经阐述的那样［13，23］，绵羊/盘羊属（Ovis sp.）外侧髁上的凹坑宽而浅，而山羊（C. hircus）中的轮廓分明且深，所观察的北山羊（C. i. sibirica）的这个凹坑同样较深.我们观察到，家养绵羊的特征也适用于其野生近缘种盘羊（O. ammon）. ...
+... ［13，23］，绵羊/盘羊属（Ovis sp.）外侧髁上的凹坑宽而浅，而山羊（C. hircus）中的轮廓分明且深，所观察的北山羊（C. i. sibirica）的这个凹坑同样较深.我们观察到，家养绵羊的特征也适用于其野生近缘种盘羊（O. ammon）. ...
+... 掌骨（图5~6）和跖骨（图7~8）的第一个标准对于区分山羊属（Capra sp.）与其他中等大小的牛科种属最有用.我们研究中的大多数山羊（C. hircus）标本（72.7%）和北山羊（C.i.sibirica）的特征是髁突远端边缘倾斜且陡峭.对山羊的观察结果与之前的描述一致［13，23］.在其他中等大小的羊亚科（岩羊属（Pseudois sp.）、绵羊/盘羊属（Ovis sp.）和斑羚属（Naemorhedus sp.））中，髁突远端边缘是较为水平的而非倾斜的. ...
+... 从表2中可以看出，六名已经熟悉了绵羊（O. aries）和山羊（C. hircus）形态标准（Boessneck et al［13］）的研究人员可以使用上述标准成功识别所有现代肱骨标本.然而，四名缺乏骨学经验的第一学期学生在对标本进行分类时遇到了较多困难（失败率为33%~66.7%）. ...
+... 我们的工作和盲法研究清楚地表明，为了获得最好的鉴定结果，骨骼分析人员应该熟悉前人文章中描述的山羊和绵羊的形态特征，尤其是Boessneck［13］所提出的.如盲测所示，第一学期骨骼学经验较弱的学生难以正确鉴定肱骨标本，而经验丰富的骨学研究者即使第一次使用上述标准也能正确分类所有的种属.此外，为了正确识别掌骨、跖骨，我们建议相关研究者首先使用前人发表的和我们上面提出的标准熟悉现代盘羊（O. ammon）、绵羊（O. aries）、山羊（C. hircus）和岩羊（P. nayaur）的骨骼标本的形态.如表2所示，一些即使已熟悉了绵羊（O. aries）和山羊（C. hircus）形态的测试人员，由于对其他两种羊亚科物种，即岩羊（P. nayaur）和盘羊（O. ammon）之间的相似性不够熟悉，而面临区分所有中等大小牛科动物的跖骨的问题，但当研究人员已经熟悉了这些物种的现代标本的骨骼形态时，则可使用本文中建立的标准，高度可信地识别这些类群. ...
+Osteology of the Soay sheep
+2
+1990
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+... 已有工作指出，在羊亚科中，动物的性别和野生/圈养状态，对有种属鉴定意义的骨骼形态特征的可见性和可靠性几乎没有影响，而幼年个体则可能表现出形态变异［14，23，34］.因此，我们的研究侧重于骨骺完全融合的成年和亚成年个体标本，以确定主要的形态学鉴定标准.幼年和骨骺未融合的亚成年的特征仅被简要介绍. ...
+1
+2001
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+Osteologicheskie otlichiia rodov Capra (kozly) i Ovis (barany)；rukovodstvo dlia opredeleniia iskopaemykh ostatkov [osteological differences of the genera Capra (goat) and Ovis (sheep),a handbook for the determination of fossil remains]
+0
+1953
+The discriminative macroscopical identification of the bones of sheep (Ovis aries),goat (Capra hircus) and roe deer (Capreollus capreollus)：1
+0
+2011
+The discriminative macroscopical identification of the bones of sheep (Ovis aries),goat (Capra hircus) and roe deer (Capreollus capreollus)：2
+0
+2012
+Species criteria on the distal section of the tibia in Ovis ammon f
+0
+1969
+A guide for the distinction of species,sex and body side in bones of sheep and goat
+0
+1986
+Morphological differences of some goat and sheep bones
+0
+1967
+Differences in femoral morphology between sheep (Ovis aries) and goat (Capra hircus)：Macroscopic and microscopic observations
+1
+2017
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+Assessing the reliability of criteria used to identify postcranial bones in sheep,Ovis,and goats,Capra
+7
+2010
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+... 已有工作指出，在羊亚科中，动物的性别和野生/圈养状态，对有种属鉴定意义的骨骼形态特征的可见性和可靠性几乎没有影响，而幼年个体则可能表现出形态变异［14，23，34］.因此，我们的研究侧重于骨骺完全融合的成年和亚成年个体标本，以确定主要的形态学鉴定标准.幼年和骨骺未融合的亚成年的特征仅被简要介绍. ...
+... 除上述标准外，还发现远端内侧转角的特征可有效分离盘羊/绵羊属（Ovis sp.）、山羊属（Capra sp.）和羚羊亚科（Antilopinae）（图4A）.此特征在山羊属（Capra sp.）上是一个斜角，在绵羊/盘羊属（Ovis sp.）上是一个圆钝的直角［13，23］，并且在羚羊亚科（Antilopinae）上比在绵羊（O. aries）上发展得更强烈［26］.此外，远端外侧面是将绵羊/盘羊属（Ovis sp.）和山羊属（Capra sp.）分开的另一个有用部位（图4B）.正如已经阐述的那样［13，23］，绵羊/盘羊属（Ovis sp.）外侧髁上的凹坑宽而浅，而山羊（C. hircus）中的轮廓分明且深，所观察的北山羊（C. i. sibirica）的这个凹坑同样较深.我们观察到，家养绵羊的特征也适用于其野生近缘种盘羊（O. ammon）. ...
+... ，23］，绵羊/盘羊属（Ovis sp.）外侧髁上的凹坑宽而浅，而山羊（C. hircus）中的轮廓分明且深，所观察的北山羊（C. i. sibirica）的这个凹坑同样较深.我们观察到，家养绵羊的特征也适用于其野生近缘种盘羊（O. ammon）. ...
+... A——远端内侧：（a）绵羊/盘羊属（Ovis sp.）；（b）山羊（Capra hircus）（源自文献［23］Fig.1）；（c）羚羊（Antilopinae）（源自文献［26］中Fig.4D）. B——远端外侧：（a）绵羊/盘羊属（Ovis sp.）；（b）山羊属（Capra sp.）（源自文献［23］中Fig.1）. ...
+...  sp.）（源自文献［23］中Fig.1）. ...
+... 掌骨（图5~6）和跖骨（图7~8）的第一个标准对于区分山羊属（Capra sp.）与其他中等大小的牛科种属最有用.我们研究中的大多数山羊（C. hircus）标本（72.7%）和北山羊（C.i.sibirica）的特征是髁突远端边缘倾斜且陡峭.对山羊的观察结果与之前的描述一致［13，23］.在其他中等大小的羊亚科（岩羊属（Pseudois sp.）、绵羊/盘羊属（Ovis sp.）和斑羚属（Naemorhedus sp.））中，髁突远端边缘是较为水平的而非倾斜的. ...
+1
+1985
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+0
+1998
+2
+1994
+... 除上述标准外，还发现远端内侧转角的特征可有效分离盘羊/绵羊属（Ovis sp.）、山羊属（Capra sp.）和羚羊亚科（Antilopinae）（图4A）.此特征在山羊属（Capra sp.）上是一个斜角，在绵羊/盘羊属（Ovis sp.）上是一个圆钝的直角［13，23］，并且在羚羊亚科（Antilopinae）上比在绵羊（O. aries）上发展得更强烈［26］.此外，远端外侧面是将绵羊/盘羊属（Ovis sp.）和山羊属（Capra sp.）分开的另一个有用部位（图4B）.正如已经阐述的那样［13，23］，绵羊/盘羊属（Ovis sp.）外侧髁上的凹坑宽而浅，而山羊（C. hircus）中的轮廓分明且深，所观察的北山羊（C. i. sibirica）的这个凹坑同样较深.我们观察到，家养绵羊的特征也适用于其野生近缘种盘羊（O. ammon）. ...
+... A——远端内侧：（a）绵羊/盘羊属（Ovis sp.）；（b）山羊（Capra hircus）（源自文献［23］Fig.1）；（c）羚羊（Antilopinae）（源自文献［26］中Fig.4D）. B——远端外侧：（a）绵羊/盘羊属（Ovis sp.）；（b）山羊属（Capra sp.）（源自文献［23］中Fig.1）. ...
+Skeletal differences between deer,sheep,and goats
+0
+1955
+Osteomorphological features of the appendicular skeleton of gazelles,genus Gazella blainville
+1
+1816
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+Measurements of a group of adult female Shetland sheep skeletons from a single flock：A baseline for zooarchaeologists
+1
+1996
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+The effect of castration and age on the development of the Shetland sheep skeleton and a metric comparison between bones of males,females and castrates
+0
+2000
+A metrical distinction between sheep and goat metacarpals
+0
+2008
+The Sheep Project (1)：Determining skeletal growth,timing of epiphy seal fusion and morphometric variation in unimproved Shetland sheep of known age,sex,castration status and nutrition
+1
+2012
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+Improved separation of Neolithic metapodials of sheep (Ovis) and goats (Capra) from Arene Candide cave,Liguria,Italy
+0
+1998
+A morphometric system to distinguish sheep and goat postcranial bones
+2
+2017
+... 已有工作指出，在羊亚科中，动物的性别和野生/圈养状态，对有种属鉴定意义的骨骼形态特征的可见性和可靠性几乎没有影响，而幼年个体则可能表现出形态变异［14，23，34］.因此，我们的研究侧重于骨骺完全融合的成年和亚成年个体标本，以确定主要的形态学鉴定标准.幼年和骨骺未融合的亚成年的特征仅被简要介绍. ...
+... 由于篇幅有限，这里只详细讨论了三个骨骼部位，但其他骨骼部位的形态鉴定标准和完整的测量尺寸即将以专辑的形式发表.尽管考古标本中往往可以被应用于识别到物种水平的骨骼相当有限，但我们仍然可以利用所有材料推断出相对物种频率，因为这种限制也同样地影响着其他大小相似的物种.因此，诸如生存策略、家养绵羊与山羊传播的时空分布、历史动物地理学和古生态学等相关问题仍然可以通过本文提出的方法得到充分讨论.展望未来，我们需要进一步提高甄别这些密切相关种属的骨骼形态的准确度，例如通过使用形态测量学［34，65］和几何形态测量学［35，66］等方法.此外，结合基于质谱的动物考古（ZooMs）和古DNA等分子生物分析也是验证考古遗址中生物分类正确性的另一有效方法. ...
+1
+2017
+... 由于篇幅有限，这里只详细讨论了三个骨骼部位，但其他骨骼部位的形态鉴定标准和完整的测量尺寸即将以专辑的形式发表.尽管考古标本中往往可以被应用于识别到物种水平的骨骼相当有限，但我们仍然可以利用所有材料推断出相对物种频率，因为这种限制也同样地影响着其他大小相似的物种.因此，诸如生存策略、家养绵羊与山羊传播的时空分布、历史动物地理学和古生态学等相关问题仍然可以通过本文提出的方法得到充分讨论.展望未来，我们需要进一步提高甄别这些密切相关种属的骨骼形态的准确度，例如通过使用形态测量学［34，65］和几何形态测量学［35，66］等方法.此外，结合基于质谱的动物考古（ZooMs）和古DNA等分子生物分析也是验证考古遗址中生物分类正确性的另一有效方法. ...
+A new zooarchaeological application for geometric morphometric methods：Distinguishing Ovis aries morphotypes to address connectivity and mobility of prehistoric Central Asian pastoralists
+0
+2019
+Astragalar morphology：Approaching the cultural trajectories of wild and domestic sheep applying geometric morphometrics
+1
+2019
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+Distinguishing sheep and goats using dental morphology and stable carbon isotopes in C4 grassland environments
+1
+2005
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+An assessment of morphological criteria for discriminating sheep and goat mandibles on a large prehistoric archaeological assemblage (Kerma,Sudan)
+1
+2011
+... 在本文研究的物种中，绵羊（O. aries）和山羊（C. hircus）已有了最深入的研究.它们有Boessneck et al［13］制定的完善鉴定标准.因此我们使用这些标准和慕尼黑国家人类学和古动物解剖学收藏库中的现代标本作为起点，为岩羊（Pseudois）、盘羊（O. ammon）、原羚（Procapra）和瞪羚（Gazella）制定骨骼形态学鉴定标准.以这些现代标本为基础，我们对以前发表的标准进行了重新评估，并发展出一些新的鉴定标准.然后我们利用收藏于美国和欧洲的其他博物馆和收藏库中的标本进一步测试和完善这些鉴定特征.在此过程中，我们还发展了另外三个羊亚科物种的鉴定标准，即斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和北山羊（Capra ibex sibirica）.在检视馆藏标本期间，我们对关键标本特征进行拍照.后图中以线图和简短说明的形式列出了标准.此外，基于Buitenhuis［50］和Gillis et al［39］的方法，我们开发了一个评分系统来评估种属内的形态可变性：在每个标准中定义了2~3个比较评分级别（见下文）.在附图1~3中，我们提供了显示每个骨骼部位典型特征的照片. ...
+Sorting the sheep from the goats：Morphological distinctions between the mandibles and mandibular teeth of adult Ovis and Capra
+0
+2002
+Discrimination des Genres Ovis et Capra à l'aide desprémolaires inférieures 3 et 4 et interprétation des ages D'abattage：l'exemple de Dikili Tash (Grèce)
+0
+2000
+0
+2005
+Morphological distinctions between the mandibular teeth of young sheep,Ovis,and goats,Capra
+0
+1985
+Assessing the reliability of criteria used to identify mandibles and mandibular teeth in sheep,Ovis,and goats,Capra
+1
+2010
+... 以前关于羊亚科动物的比较骨骼形态学研究主要集中在区分家养绵羊（O. aries）和家养山羊（C. hircus）［12-22］.前人所描述的鉴定标准的可靠性已用不同的材料进行了检验［14，23］，但这些标本主要来自于欧洲和近东地区的骨骼材料.此外，这两个驯养物种和其他小型反刍动物，例如髯羊（Ammotragus sp.）、臆羚（Rupicapra sp.）、狍（Capreolus sp.）、岩羊（Pseudois sp.）和瞪羚（Gazella sp.）的骨骼形态比较的区别特征也已得到了研究［15，24-28］.骨骼形态测量分析以及几何形态测量学也已被应用于区分古代和现代的野生和家养绵羊、山羊谱系［29-37］.通过比较形态的方法区分绵羊、山羊和其他小型反刍动物的牙齿，也已开展了广泛的工作［38-44］.然而，对于在中国西部广泛分布的中型牛科物种，如斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和盘羊（O. ammon）等，学界尚未有对其颅后骨骼形态的详细的研究.利用比较骨骼形态方法对中国西部分布的羊亚科和羚羊亚科物种进行系统分类的研究尚缺乏［3］. ...
+Oldest directly dated remains of sheep in China
+2
+2014
+... 近年来，分子生物学分析在动物考古研究中发挥着越来越重要的作用.目前，分类鉴定可以应用古DNA分析［45］或胶原蛋白肽测序（'ZooMS'）［46］进行.然而，这两种技术不仅比骨骼形态学方法更加昂贵，而且在DNA或胶原蛋白在骨骼中保存不良的情况下也存在局限性［45-47］，而这正是来自干旱地区遗址的史前考古标本的常见问题［48］，如中国西部及邻近中亚地区的情况.此外，分子生物学分析需要对样本进行有损采样，而这对于某些珍贵的考古遗存并不总是可行的. ...
+... ［45-47］，而这正是来自干旱地区遗址的史前考古标本的常见问题［48］，如中国西部及邻近中亚地区的情况.此外，分子生物学分析需要对样本进行有损采样，而这对于某些珍贵的考古遗存并不总是可行的. ...
+Distinguishing between archaeological sheep and goat bones using a single collagen peptide
+1
+2010
+... 近年来，分子生物学分析在动物考古研究中发挥着越来越重要的作用.目前，分类鉴定可以应用古DNA分析［45］或胶原蛋白肽测序（'ZooMS'）［46］进行.然而，这两种技术不仅比骨骼形态学方法更加昂贵，而且在DNA或胶原蛋白在骨骼中保存不良的情况下也存在局限性［45-47］，而这正是来自干旱地区遗址的史前考古标本的常见问题［48］，如中国西部及邻近中亚地区的情况.此外，分子生物学分析需要对样本进行有损采样，而这对于某些珍贵的考古遗存并不总是可行的. ...
+Ancient DNA studies：New perspectives on old samples
+1
+2012
+... 近年来，分子生物学分析在动物考古研究中发挥着越来越重要的作用.目前，分类鉴定可以应用古DNA分析［45］或胶原蛋白肽测序（'ZooMS'）［46］进行.然而，这两种技术不仅比骨骼形态学方法更加昂贵，而且在DNA或胶原蛋白在骨骼中保存不良的情况下也存在局限性［45-47］，而这正是来自干旱地区遗址的史前考古标本的常见问题［48］，如中国西部及邻近中亚地区的情况.此外，分子生物学分析需要对样本进行有损采样，而这对于某些珍贵的考古遗存并不总是可行的. ...
+Environment and excavation：Pre?lab impacts on ancient DNA analyses
+1
+2008
+... 近年来，分子生物学分析在动物考古研究中发挥着越来越重要的作用.目前，分类鉴定可以应用古DNA分析［45］或胶原蛋白肽测序（'ZooMS'）［46］进行.然而，这两种技术不仅比骨骼形态学方法更加昂贵，而且在DNA或胶原蛋白在骨骼中保存不良的情况下也存在局限性［45-47］，而这正是来自干旱地区遗址的史前考古标本的常见问题［48］，如中国西部及邻近中亚地区的情况.此外，分子生物学分析需要对样本进行有损采样，而这对于某些珍贵的考古遗存并不总是可行的. ...
+2
+2006
+... 对于所研究的大多数标本，其动物的确切死亡年龄未知.根据骨骺愈合状况，我们将所有标本分为三个年龄段——成年、亚成年和幼年.大多数现代标本属于成年组（即Zeder［49］中F，G级），所有骨骺融合在一起.然而，在 家养绵羊（O. aries）和山羊（C. hircus）中，相当大比例的动物为亚成年个体（即Zeder［49］中C，D，E级），而幼体在所有分类群中的代表性不足. ...
+... ［49］中C，D，E级），而幼体在所有分类群中的代表性不足. ...
+A quantitative approach to species determination of Ovicapridae
+1
+1995
+... 在本文研究的物种中，绵羊（O. aries）和山羊（C. hircus）已有了最深入的研究.它们有Boessneck et al［13］制定的完善鉴定标准.因此我们使用这些标准和慕尼黑国家人类学和古动物解剖学收藏库中的现代标本作为起点，为岩羊（Pseudois）、盘羊（O. ammon）、原羚（Procapra）和瞪羚（Gazella）制定骨骼形态学鉴定标准.以这些现代标本为基础，我们对以前发表的标准进行了重新评估，并发展出一些新的鉴定标准.然后我们利用收藏于美国和欧洲的其他博物馆和收藏库中的标本进一步测试和完善这些鉴定特征.在此过程中，我们还发展了另外三个羊亚科物种的鉴定标准，即斑羚（Naemorhedus sp.）、鬣羚（Capricornis sp.）和北山羊（Capra ibex sibirica）.在检视馆藏标本期间，我们对关键标本特征进行拍照.后图中以线图和简短说明的形式列出了标准.此外，基于Buitenhuis［50］和Gillis et al［39］的方法，我们开发了一个评分系统来评估种属内的形态可变性：在每个标准中定义了2~3个比较评分级别（见下文）.在附图1~3中，我们提供了显示每个骨骼部位典型特征的照片. ...
+2
+1976
+... 每幅图中最上、最下的虚线表示大、中、小三者之间的界限；掌骨和跖骨图中间的虚线表示野生盘羊（O.ammon）与家养绵羊（O.aries）的分界.P=岩羊（Pseudois），Ch=山羊（C.hircus），Oa=盘羊（O. ammon），O=绵羊（O.aries），N=斑羚（Naemorhedus sp.），Cpc=鬣羚（Capricornis sp.），Prc=原羚属（Procapra sp.），G=瞪羚属（Gazella sp.），Cis=北山羊（C.i.sibirica）；测量是根据von den Driesch［51］对骨骺完全愈合的标本所制定的标准进行的. ...
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+über die Verh?ltnisse der w?rme?konomie der thiere zu ihrer gr??e
+1
+1847
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+Geographical character gradients and climatic adaptation
+0
+1956
+1
+1963
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+Manipulating host immunity to improve nematode parasite control?quo vadit
+1
+2008
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+Clinal geographic variation in mammals：Implications for the study of chronoclines
+1
+1986
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+1
+2001
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+1
+2013
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+Shape,relative size,and size?adjustments in morphometrics
+1
+1995
+... 关于标本的度量差异，基于Bergmann［51］的测量方法，我们对完全愈合的标本的肱骨远端滑车宽度（BT）与掌骨和跖骨的远端宽度（Bd）进行了测量，尺寸精确到0.1 mm.生物体的尺寸会受到各种参数的影响，包括与温度和纬度相关的地理和环境变化［52-54］、年龄、性别、激素、营养和疾病［32，55］，并且时变生物群落的大小也可能受到百万年尺度上与气候相关的生态群演化的影响［56］.然而，遗传基因对脊椎动物体型有基本的限制［57］.在全新世，与驯化行为中人为施加的影响相比，气候变化对有蹄类动物体型的影响可能是相当有限的［58］.尽管如此，使用骨骼尺寸大小对古代骨遗骸进行分类的确需要非常谨慎［59］.在对这些物种进行分类鉴定时，我们建议首先通过骨骼尺寸大小，从中等大小的牛科动物遗存中分拣出像鬣羚（Capricornis）这样的大型物种和羚羊（Gazella和Procapra）这样的小型物种，并排除圈养动物的测量数据.此外，骨骼形态特征应作为对标本分类鉴定的主要标准，而骨骼尺寸大小作为次要指标. ...
+The effects of captivity on the morphology of captive,domesticated and feral mammals
+1
+2005
+... 图1总结了本研究中考虑的三个骨骼部位的结果.尽管我们也测量了野生物种中圈养个体的骨骼，但我们的研究中仅包括非圈养个体的大小变化，因为圈养通常会导致哺乳动物的体型发生变化［60-61］.所研究的种属在每个骨骼部位上也表现出一定程度的性别二态性，但这并不影响通过形态进行种属鉴定.此外，在目前的数据中，没有发现不同年龄段的可测量样本之间存在显著差异. ...
+Subsistence and beyond
+1
+2014
+... 图1总结了本研究中考虑的三个骨骼部位的结果.尽管我们也测量了野生物种中圈养个体的骨骼，但我们的研究中仅包括非圈养个体的大小变化，因为圈养通常会导致哺乳动物的体型发生变化［60-61］.所研究的种属在每个骨骼部位上也表现出一定程度的性别二态性，但这并不影响通过形态进行种属鉴定.此外，在目前的数据中，没有发现不同年龄段的可测量样本之间存在显著差异. ...
+1
+2014
+... 我们将上述标准应用于位于青藏高原东北部及邻近地区的新石器时代至青铜时代几个遗址的中型牛科动物遗存的鉴定中［3］，其中之一的遗址是位于青海东北部大通河流域的金禅口（36°55'12''N，102°32'24'''E，2309masl），年代为3721~4146 cal BP［62］，即青铜时代早期.最初鉴定这批动物遗存的研究人员［63］将归类为中型牛科动物的骨骼遗存交给笔者进行进一步细致鉴定.这批骨骼的基本保存状况都较好.笔者对每一件标本都根据上文描述的多个形态标准进行了综合鉴定. ...
+1
+2014
+... 我们将上述标准应用于位于青藏高原东北部及邻近地区的新石器时代至青铜时代几个遗址的中型牛科动物遗存的鉴定中［3］，其中之一的遗址是位于青海东北部大通河流域的金禅口（36°55'12''N，102°32'24'''E，2309masl），年代为3721~4146 cal BP［62］，即青铜时代早期.最初鉴定这批动物遗存的研究人员［63］将归类为中型牛科动物的骨骼遗存交给笔者进行进一步细致鉴定.这批骨骼的基本保存状况都较好.笔者对每一件标本都根据上文描述的多个形态标准进行了综合鉴定. ...
+金禅口遗址出土动物遗存及其先民的动物资源开发
+1
+... 我们将上述标准应用于位于青藏高原东北部及邻近地区的新石器时代至青铜时代几个遗址的中型牛科动物遗存的鉴定中［3］，其中之一的遗址是位于青海东北部大通河流域的金禅口（36°55'12''N，102°32'24'''E，2309masl），年代为3721~4146 cal BP［62］，即青铜时代早期.最初鉴定这批动物遗存的研究人员［63］将归类为中型牛科动物的骨骼遗存交给笔者进行进一步细致鉴定.这批骨骼的基本保存状况都较好.笔者对每一件标本都根据上文描述的多个形态标准进行了综合鉴定. ...
+A probabilistic model for distinguishing between sheep and goat postcranial remains
+1
+2017
+... 与肱骨远端相比，炮骨远端的识别不那么直接，因为形态学标准不那么明确.在金禅口材料中，在对标本A868，A811和A1716进行鉴定时，多达三个可能的分类种属在大小和形态标准上都匹配（表4）.尽管如此，当根据现代标本计算的每个标准的百分比概率（见图7）评估后验概率［64］时，潜在分类群的数量可以进一步缩小.例如，将这种概率方法应用于样本A858，我们计算出将其鉴定为岩羊属（Pseudois sp.）的后验概率为77.9%（即78.3%+74%+73.9%+85.7%除以4——其形态特征在每个标准上所得分数对应为岩羊的概率之平均，见表5），而鉴定为山羊（C. hircus）的后验概率为43.6%（即27.3%+9%+68.2%+70.0%除以4，见表5）.因此，我们认为样本A858为岩羊属（P. nayaur）的可能性更大.通过类似的方法，我们能够将标本A811鉴定为绵羊（O. aries）. ...
+1
+2017
+... 由于篇幅有限，这里只详细讨论了三个骨骼部位，但其他骨骼部位的形态鉴定标准和完整的测量尺寸即将以专辑的形式发表.尽管考古标本中往往可以被应用于识别到物种水平的骨骼相当有限，但我们仍然可以利用所有材料推断出相对物种频率，因为这种限制也同样地影响着其他大小相似的物种.因此，诸如生存策略、家养绵羊与山羊传播的时空分布、历史动物地理学和古生态学等相关问题仍然可以通过本文提出的方法得到充分讨论.展望未来，我们需要进一步提高甄别这些密切相关种属的骨骼形态的准确度，例如通过使用形态测量学［34，65］和几何形态测量学［35，66］等方法.此外，结合基于质谱的动物考古（ZooMs）和古DNA等分子生物分析也是验证考古遗址中生物分类正确性的另一有效方法. ...
+Striking new paths?Distinguishing ancient Ovis orientalis from its modern domestic descendant (Karakul breed) applying geometric and traditional morphometric approaches to the astragalus
+1
+... 由于篇幅有限，这里只详细讨论了三个骨骼部位，但其他骨骼部位的形态鉴定标准和完整的测量尺寸即将以专辑的形式发表.尽管考古标本中往往可以被应用于识别到物种水平的骨骼相当有限，但我们仍然可以利用所有材料推断出相对物种频率，因为这种限制也同样地影响着其他大小相似的物种.因此，诸如生存策略、家养绵羊与山羊传播的时空分布、历史动物地理学和古生态学等相关问题仍然可以通过本文提出的方法得到充分讨论.展望未来，我们需要进一步提高甄别这些密切相关种属的骨骼形态的准确度，例如通过使用形态测量学［34，65］和几何形态测量学［35，66］等方法.此外，结合基于质谱的动物考古（ZooMs）和古DNA等分子生物分析也是验证考古遗址中生物分类正确性的另一有效方法. ...
+/
+〈
+〉
+版权所有 © 《南京大学学报(自然科学版)》编辑部
+地址：江苏省南京市鼓楼区汉口路22号　 技术支持：北京玛格泰克科技发展有限公司

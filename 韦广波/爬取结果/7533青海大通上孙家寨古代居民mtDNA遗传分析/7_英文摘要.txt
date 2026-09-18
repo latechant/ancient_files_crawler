@@ -1,0 +1,28 @@
+# 青海大通上孙家寨古代居民mtDNA遗传分析
+# 章节：英文摘要 (Abstract)
+# 印刷页：218–218（PDF 第15–15页）
+# 文字来源：PDF内嵌文字层（PyMuPDF提取，未OCR）
+
+Genetic Analysis of People Who Lived in Shangsunjiazhai, Datong Qinghai
+as Revealed by Mitochondrial DNA
+ZHANG Peng-yin
+1,2, XU Zhi
+1,2, XU Bo-song
+1,2, HAN Kang-xin
+3,
+ZHOU Hui
+4, JIN Li
+1,2, TAN Jing-ze
+1,2
+(1. MOE Key Laboratory of Contemporary Anthropology, Fudan University, Shanghai 200433;
+2. Shanghai Society of Anthropology, Shanghai 200433;   3. The Institute of Archaeology, Chinese Academy of Social Science,
+Beijing 100710;  4. College of Life Science, Jilin University, Changchun 130012)
+Abstract: Ancient DNA analysis has been used to reveal the ethnic origins of ancient
+human remains. In this paper, we analyzed 59 human teeth excavated from two sites near
+Shangsunjiazhai, Datong in Qinghai, dated between 3000/3300 and 2000 years before present.
+The polymorphisms in the first hypervariable region and coding regions of mitochondrial DNA
+were analyzed using cloning sequencing and RFLP. Results were compared with 1833 mtDNA
+profiles from 34 contemporary populations and two ancient northwestern Chinese populations
+at both population and individual levels. Our results showed that people who lived in these two
+different periods were not the same ethnic population.
+Keywords:  Ancient DNA; mtDNA; Kayue Culture; Ancient Qiang

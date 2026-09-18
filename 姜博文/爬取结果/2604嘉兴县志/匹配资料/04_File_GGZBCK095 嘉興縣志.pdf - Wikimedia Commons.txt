@@ -1,0 +1,20 @@
+题名：《嘉兴县志》
+来源：https://commons.wikimedia.org/wiki/File%3AGGZBCK095_%E5%98%89%E8%88%88%E7%B8%A3%E5%BF%97.pdf
+类型：匹配来源文本，可能含目录、引用或相关资料
+
+Summary[edit]
+嘉興縣志 三十六卷 首二卷 淸 司能任 修 屠本仁 纂 嘉慶六年刊本
+(   )
+Title
+嘉興縣志 三十六卷 首二卷 淸 司能任 修 屠本仁 纂 嘉慶六年刊本
+Source
+故宮珍本叢刊
+Licensing[edit]
+This file is in the public domain because it is a mere mechanical scan or photocopy of a public domain original, or – from the available evidence – is so similar to such a scan or photocopy that no copyright protection can be expected to arise. The original itself is in the public domain for the following reason:
+Public domainPublic domainfalsefalse
+This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer.
+This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1931.
+This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.
+https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse
+This tag is designed for use where there may be a need to assert that any enhancements (eg brightness, contrast, colour-matching, sharpening) are in themselves insufficiently creative to generate a new copyright.  It can be used where it is unknown whether any enhancements have been made, as well as when the enhancements are clear but insufficient.  For known raw unenhanced scans you can use an appropriate {{PD-old}} tag instead. For usage, see Commons:When to use the PD-scan tag.
+Note: This tag applies to scans and photocopies only. For photographs of public domain originals taken from afar, {{PD-Art}} may be applicable. See Commons:When to use the PD-Art tag.
