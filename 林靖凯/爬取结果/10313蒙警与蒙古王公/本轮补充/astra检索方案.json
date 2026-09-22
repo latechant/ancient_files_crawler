@@ -1,0 +1,38 @@
+{
+  "seq": 10313,
+  "title": "《蒙警与蒙古王公》",
+  "item_type": "报刊文章或政治论述条目",
+  "keywords": [
+    "蒙警与蒙古王公",
+    "蒙警",
+    "蒙古王公",
+    "蒙古警察",
+    "蒙警與蒙古王公",
+    "蒙藏政治"
+  ],
+  "aliases": [
+    "蒙古警察与王公",
+    "蒙古警务与王公",
+    "蒙疆警政"
+  ],
+  "mother_works": [
+    "民国报刊",
+    "蒙藏委员会公报",
+    "蒙古问题资料汇编",
+    "近代边疆政治文献"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E8%92%99%E8%AD%A6%E8%88%87%E8%92%99%E5%8F%A4%E7%8E%8B%E5%85%AC",
+      "why": "以繁体原题检索报刊、政论及蒙藏事务资料转录。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E8%92%99%E8%AD%A6%E8%88%87%E8%92%99%E5%8F%A4%E7%8E%8B%E5%85%AC&title=Special:MediaSearch&type=image",
+      "why": "检索旧报刊和蒙藏委员会相关影像资料。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未确认刊名、作者、年份或卷期，不能认定为独立著作。"
+}

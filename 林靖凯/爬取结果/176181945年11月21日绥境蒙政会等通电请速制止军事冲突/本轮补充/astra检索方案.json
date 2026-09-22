@@ -1,0 +1,39 @@
+{
+  "seq": 17618,
+  "title": "《1945年11月21日绥境蒙政会等通电请速制止军事冲突》",
+  "item_type": "1945年报刊电讯或政治文电",
+  "keywords": [
+    "1945年11月21日",
+    "绥境蒙政会",
+    "通电",
+    "制止军事冲突",
+    "绥境蒙政会通电",
+    "蒙政会"
+  ],
+  "aliases": [
+    "绥境蒙政会等通电",
+    "请速制止军事冲突通电",
+    "绥境蒙古政治委员会通电"
+  ],
+  "mother_works": [
+    "绥远日报",
+    "解放日报",
+    "新华日报",
+    "晋绥边区报刊",
+    "1945年内蒙古自治运动史料"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/w/index.php?search=%E7%BB%A5%E5%A2%83%E8%92%99%E6%94%BF%E4%BC%9A%20%E9%80%9A%E7%94%B5&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2",
+      "why": "检索公开转录的解放区报刊和内蒙古自治运动文献",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E7%BB%A5%E5%A2%83%E8%92%99%E6%94%BF%E4%BC%9A&title=Special:MediaSearch&type=image",
+      "why": "检索通电、报刊剪报和历史文献影像",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到该日期对应的具体报刊版面或档案影印页。应同时检索“绥境蒙政会”“绥远蒙政会”“蒙政会等”“军事冲突”等异名。"
+}

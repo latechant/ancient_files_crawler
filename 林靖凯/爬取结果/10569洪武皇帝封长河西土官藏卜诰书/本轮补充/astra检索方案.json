@@ -1,0 +1,39 @@
+{
+  "seq": 10569,
+  "title": "《洪武皇帝封长河西土官藏卜诰书》",
+  "item_type": "诰书或历史文献中的子项",
+  "keywords": [
+    "洪武皇帝封长河西土官藏卜诰书",
+    "长河西土官",
+    "藏卜",
+    "诰书",
+    "洪武封藏卜",
+    "長河西土官"
+  ],
+  "aliases": [
+    "明太祖封长河西土官诰书",
+    "封长河西土官藏卜制书",
+    "藏卜诰"
+  ],
+  "mother_works": [
+    "《明太祖实录》",
+    "《皇明诏令》",
+    "《明会典》",
+    "西番土官封授文书",
+    "明代诰敕汇编"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E9%95%BF%E6%B2%B3%E8%A5%BF%E5%9C%9F%E5%AE%98%E8%97%8F%E5%8D%9C",
+      "why": "检索“长河西”“土官”“藏卜”在明代实录、诏令及西番史料中的原文。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E9%95%BF%E6%B2%B3%E8%A5%BF%E5%9C%9F%E5%AE%98&title=Special:MediaSearch&type=image",
+      "why": "检索明代诰敕、实录及地方志扫描件。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "可能是《明太祖实录》或诰敕汇编中的单篇文书，未找到可核验的具体卷次或章节页。"
+}

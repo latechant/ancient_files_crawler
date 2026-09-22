@@ -1,0 +1,39 @@
+{
+  "seq": 17746,
+  "title": "《1948年4月25日黄河春讯水淹良田包头县二百顷地不能耕》",
+  "item_type": "1948年报刊灾情短讯",
+  "keywords": [
+    "1948年4月25日",
+    "黄河春讯",
+    "水淹良田",
+    "包头县二百顷地不能耕",
+    "包头县",
+    "黄河水灾"
+  ],
+  "aliases": [
+    "黄河春汛水淹包头良田",
+    "包头县二百顷地不能耕",
+    "黄河春讯包头县水灾"
+  ],
+  "mother_works": [
+    "绥远日报",
+    "晋绥日报",
+    "人民日报",
+    "解放日报",
+    "1948年黄河水灾报刊资料"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/w/index.php?search=%E9%BB%84%E6%B2%B3%E6%98%A5%E8%AE%AF%20%E5%8C%85%E5%A4%B4%E5%8E%BF&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2",
+      "why": "检索公开报刊和灾情史料转录",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E5%8C%85%E5%A4%B4%E5%8E%BF%20%E9%BB%84%E6%B2%B3%20%E6%B0%B4%E7%81%BE&title=Special:MediaSearch&type=image",
+      "why": "检索报刊剪报、地方志扫描件及历史图片",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到具体刊名、版次或可核验全文。题名中的“春讯”也可能是“春汛”或OCR误读，应检索“黄河春汛”“包头县”“二百顷”“不能耕”。"
+}

@@ -1,0 +1,39 @@
+{
+  "seq": 19539,
+  "title": "《唐平坝马场八弧花鸟纹铜镜》",
+  "item_type": "考古发掘报告或文物图录中的器物条目",
+  "keywords": [
+    "唐平坝马场",
+    "平坝马场",
+    "八弧花鸟纹铜镜",
+    "八弧花鸟紋銅鏡",
+    "唐代花鸟纹铜镜",
+    "贵州唐墓铜镜",
+    "平坝出土铜镜"
+  ],
+  "aliases": [
+    "唐平坝马场出土八弧花鸟纹铜镜",
+    "平坝马场唐墓铜镜",
+    "八弧花鸟镜"
+  ],
+  "mother_works": [
+    "贵州省文物考古研究所考古发掘报告",
+    "贵州省志·文物志",
+    "安顺市志或平坝县志",
+    "中国出土铜镜全集"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://www.google.com/search?q=%22%E5%B9%B3%E5%9D%9D%E9%A9%AC%E5%9C%BA%22+%22%E5%85%AB%E5%BC%A7%E8%8A%B1%E9%B8%9F%E7%BA%B9%E9%93%9C%E9%95%9C%22",
+      "why": "检索器物原始出处、发掘报告和图录页码。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E5%85%AB%E5%BC%A7%E8%8A%B1%E9%B8%9F%E7%BA%B9%E9%93%9C%E9%95%9C&title=Special%3AMediaSearch&type=image",
+      "why": "检索铜镜照片、博物馆展签和图录图像。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "名称很可能是文物图录的单项标题，需以藏品编号、墓葬名称或发掘年份定位。"
+}

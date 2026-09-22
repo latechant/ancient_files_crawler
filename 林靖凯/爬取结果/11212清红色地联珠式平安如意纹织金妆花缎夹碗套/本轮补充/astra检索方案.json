@@ -1,0 +1,38 @@
+{
+  "seq": 11212,
+  "title": "《清红色地联珠式平安如意纹织金妆花缎夹碗套》",
+  "item_type": "清代宫廷织绣或服饰类藏品条目",
+  "keywords": [
+    "红色地联珠式平安如意纹织金妆花缎夹碗套",
+    "红色地联珠纹",
+    "平安如意纹",
+    "织金妆花缎",
+    "夹碗套",
+    "清代织金"
+  ],
+  "aliases": [
+    "红地织金妆花缎夹碗套",
+    "联珠式平安如意纹碗套",
+    "清宫织金缎碗套"
+  ],
+  "mother_works": [
+    "故宫博物院藏清代织绣",
+    "清宫内务府造办处档案",
+    "清代宫廷织绣图录",
+    "中国丝绸博物馆藏品目录"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E7%BB%87%E9%87%91%E5%A6%86%E8%8A%B1%E7%BC%8E&title=Special:MediaSearch&type=image",
+      "why": "检索织金妆花缎、清宫织物及相关藏品影像。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E7%BB%87%E9%87%91%E5%A6%86%E8%8A%B1%E7%BC%8E",
+      "why": "反查清宫档案、器物图录及织绣文献中的名称。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "名称高度像博物馆藏品数据库的单件著录，未找到公开藏品编号、馆藏机构或图录页。"
+}

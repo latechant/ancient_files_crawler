@@ -1,0 +1,37 @@
+{
+  "seq": 11084,
+  "title": "《斗花团花纹碗（雍正）》",
+  "item_type": "清代宫廷瓷器藏品条目",
+  "keywords": [
+    "斗花团花纹碗",
+    "斗彩团花纹碗",
+    "雍正碗",
+    "雍正斗彩",
+    "清宫瓷器",
+    "鬥花團花紋碗"
+  ],
+  "aliases": [
+    "斗彩团花纹碗",
+    "雍正斗彩团花碗",
+    "雍正款团花纹碗"
+  ],
+  "mother_works": [
+    "故宫博物院藏清雍正瓷器",
+    "《故宫博物院藏文物珍品全集·五彩·斗彩》",
+    "清宫旧藏瓷器图录"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E9%9B%8D%E6%AD%A3%E6%96%97%E5%BD%A9%E7%A2%97&title=Special:MediaSearch&type=image",
+      "why": "检索雍正斗彩碗的公开器物图像及馆藏说明。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E9%9B%8D%E6%AD%A3%E6%96%97%E5%BD%A9",
+      "why": "检索清宫器物图录或相关古籍中的雍正斗彩器物记载。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到与该精确器名对应的公开藏品页面、器物编号或图录卷页。"
+}

@@ -1,0 +1,39 @@
+{
+  "seq": 10057,
+  "title": "《署盖平县相关公文》",
+  "item_type": "档案或地方行政公文，非独立书籍",
+  "keywords": [
+    "署盖平县",
+    "署理盖平县",
+    "盖平县公文",
+    "盖平縣",
+    "奉天盖平县",
+    "盖平县知县",
+    "林靖凯"
+  ],
+  "aliases": [
+    "署理盖平县公文",
+    "盖平县相关公文",
+    "盖平縣署牘"
+  ],
+  "mother_works": [
+    "清代奉天府档案",
+    "盖平县志",
+    "奉天省政府档案",
+    "东北地区地方档案汇编"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E7%9B%96%E5%B9%B3%E5%8E%BF",
+      "why": "检索盖平县、盖平縣及地方志相关章节，可能发现公文出处或转录。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E7%9B%96%E5%B9%B3%E5%8E%BF&title=Special:MediaSearch&type=image",
+      "why": "检索盖平县档案、地方志扫描件及档案影像。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未确认具体档案馆、档号、年代或所属汇编，不能据题名定位全文。"
+}

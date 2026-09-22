@@ -1,0 +1,38 @@
+{
+  "seq": 16978,
+  "title": "《蒙荒案卷（办理札萨克图蒙荒案卷）为分移开局日期由》",
+  "item_type": "清代档案公文，可能为理藩院或盟旗档案子项",
+  "keywords": [
+    "蒙荒案卷",
+    "办理札萨克图蒙荒案卷",
+    "札萨克图蒙荒",
+    "分移开局日期由",
+    "札萨克图",
+    "蒙荒"
+  ],
+  "aliases": [
+    "办理札萨克图蒙荒案卷",
+    "札萨克图蒙荒案",
+    "蒙荒案"
+  ],
+  "mother_works": [
+    "清代理藩院档案",
+    "内蒙古历史档案",
+    "哲里木盟或昭乌达盟盟旗档案汇编",
+    "清代蒙旗垦务、蒙荒档案"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E8%92%99%E8%8D%92%E6%A1%88%E5%8D%B7&title=Special:MediaSearch&type=image",
+      "why": "检索可能上传的档案影像或档案汇编扫描页",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://zh.wikisource.org/w/index.php?search=%E8%92%99%E8%8D%92%E6%A1%88%E5%8D%B7&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2",
+      "why": "检索公开转录的清代档案、奏折和政书",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到可核验的具体卷册、档号或全文页。应以“札萨克图”“蒙荒”“开局日期”“分移”为字段，在理藩院档案和盟旗档案目录中查找。"
+}

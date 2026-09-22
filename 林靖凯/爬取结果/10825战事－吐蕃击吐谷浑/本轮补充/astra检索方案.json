@@ -1,0 +1,37 @@
+{
+  "seq": 10825,
+  "title": "《战事－吐蕃击吐谷浑》",
+  "item_type": "古代史书中的事件条目",
+  "keywords": [
+    "吐蕃击吐谷浑",
+    "吐蕃攻吐谷浑",
+    "吐谷浑",
+    "吐蕃与吐谷浑战事",
+    "吐蕃擊吐谷渾"
+  ],
+  "aliases": [
+    "吐蕃攻灭吐谷浑",
+    "吐谷浑战事",
+    "吐蕃侵吐谷浑"
+  ],
+  "mother_works": [
+    "《资治通鉴》唐纪",
+    "《旧唐书·吐蕃传》",
+    "《新唐书·吐蕃传》",
+    "《册府元龟》"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E5%90%90%E8%95%83%E5%87%BB%E5%90%90%E8%B0%B7%E6%B8%BE",
+      "why": "检索《资治通鉴》及两唐书中吐蕃进攻吐谷浑的具体纪年和传记章节。",
+      "likely_fulltext": true
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E5%90%90%E8%B0%B7%E6%B8%BE",
+      "why": "按吐谷浑名称反查史书章节、异体字和相关战事记载。",
+      "likely_fulltext": true
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "找到明确母题线索，但未确认该标题对应的具体编纂者、卷次或独立页面。"
+}

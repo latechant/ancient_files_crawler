@@ -1,0 +1,39 @@
+{
+  "seq": 18002,
+  "title": "《巩固民族团结》",
+  "item_type": "政治宣传文章或报告，可能为报刊、会议材料或文集子项",
+  "keywords": [
+    "巩固民族团结",
+    "巩固民族團結",
+    "民族团结",
+    "民族團結",
+    "林靖凯",
+    "林靖凱",
+    "少数民族工作",
+    "少數民族工作"
+  ],
+  "aliases": [
+    "巩固和加强民族团结",
+    "巩固民族团结问题",
+    "关于巩固民族团结的报告"
+  ],
+  "mother_works": [
+    "中华人民共和国成立初期民族政策文件汇编",
+    "民族工作文献选编",
+    "地方党政报刊或民族事务档案汇编"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://www.google.com/search?q=%22%E5%B7%A9%E5%9B%BA%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93%22+%E6%9E%97%E9%9D%96%E5%87%AF",
+      "why": "检验题名、作者及异体字组合；目前未确认到具体卷期或全文页。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E5%B7%A9%E5%9B%BA%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93&title=Special%3AMediaSearch&type=image",
+      "why": "检索可能的报刊、档案扫描件或历史图片。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "题名过于通用，缺少年份、发表机关和载体，暂不能定位为独立著作。"
+}

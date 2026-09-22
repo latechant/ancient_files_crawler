@@ -1,0 +1,38 @@
+{
+  "seq": 17874,
+  "title": "《建筑边防铁路之提议》",
+  "item_type": "近代报刊政论、建议或铁路计划文",
+  "keywords": [
+    "建筑边防铁路之提议",
+    "建筑边防铁路",
+    "边防铁路提议",
+    "边防铁路",
+    "铁路与边防"
+  ],
+  "aliases": [
+    "建筑边防铁路提议",
+    "边防铁路之建议",
+    "边防铁路计划"
+  ],
+  "mother_works": [
+    "清末民初铁路史料",
+    "《东方杂志》",
+    "《申报》",
+    "《铁路官报》",
+    "近代中国边防与铁路论著"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/w/index.php?search=%E5%BB%BA%E7%AD%91%E8%BE%B9%E9%98%B2%E9%93%81%E8%B7%AF&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2",
+      "why": "检索近代报刊和铁路政论的公开转录",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E8%BE%B9%E9%98%B2%E9%93%81%E8%B7%AF&title=Special:MediaSearch&type=image",
+      "why": "检索近代铁路计划、报刊影印及地图资料",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到作者、刊名、年月和具体页面。应按“边防铁路”“塞外铁路”“西北铁路”“蒙疆铁路”等近代异名检索《东方杂志》及清末民初报刊目录；若为现代整理本，只能核查书目与馆藏。"
+}

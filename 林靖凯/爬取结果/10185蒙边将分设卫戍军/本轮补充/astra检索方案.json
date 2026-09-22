@@ -1,0 +1,38 @@
+{
+  "seq": 10185,
+  "title": "《蒙边将分设卫戍军》",
+  "item_type": "报刊文章或时政资料条目",
+  "keywords": [
+    "蒙边将分设卫戍军",
+    "蒙边卫戍军",
+    "蒙古边防",
+    "卫戍军",
+    "蒙边军制",
+    "蒙邊將分設衛戍軍"
+  ],
+  "aliases": [
+    "蒙边设置卫戍军",
+    "蒙古边地卫戍军",
+    "蒙边驻军"
+  ],
+  "mother_works": [
+    "民国报刊",
+    "政府公报",
+    "陆军部公报",
+    "蒙藏事务档案汇编"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E8%92%99%E8%BE%B9%E5%8D%AB%E6%88%8D%E5%86%9B",
+      "why": "检索“蒙边”“卫戍军”相关政府公报、报刊及史料转录。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E8%92%99%E8%BE%B9%E5%8D%AB%E6%88%8D%E5%86%9B&title=Special:MediaSearch&type=image",
+      "why": "检索民国公报、报刊扫描件和军政档案影像。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "题名更像报刊标题或公报摘录，缺少刊名、日期、版次，未找到具体期号或全文页。"
+}

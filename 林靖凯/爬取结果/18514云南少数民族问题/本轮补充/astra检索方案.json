@@ -1,0 +1,38 @@
+{
+  "seq": 18514,
+  "title": "《云南少数民族问题》",
+  "item_type": "民族问题研究文章、报告或内部资料",
+  "keywords": [
+    "云南少数民族问题",
+    "雲南少數民族問題",
+    "云南民族问题",
+    "云南民族工作",
+    "林靖凯",
+    "林靖凱",
+    "云南少数民族"
+  ],
+  "aliases": [
+    "云南民族问题研究",
+    "关于云南少数民族问题",
+    "云南省民族问题"
+  ],
+  "mother_works": [
+    "云南民族工作文献汇编",
+    "中华人民共和国民族政策文献",
+    "云南地方党政报刊及民族事务档案"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://www.google.com/search?q=%22%E4%BA%91%E5%8D%97%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98%22+%E6%9E%97%E9%9D%96%E5%87%AF",
+      "why": "检验题名与作者组合及近似题名。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E4%BA%91%E5%8D%97%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98&title=Special%3AMediaSearch&type=image",
+      "why": "检索历史报刊、会议文件和扫描资料。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "题名属于高度概括性的专题名，尚无年份、作者职务、出版机关或载体信息。"
+}

@@ -1,0 +1,39 @@
+{
+  "seq": 19283,
+  "title": "《“通贵州至乌撒驿道”纪功摩崖》",
+  "item_type": "摩崖石刻释文或地方文物条目",
+  "keywords": [
+    "通贵州至乌撒驿道",
+    "通貴州至烏撒驛道",
+    "乌撒驿道",
+    "烏撒驛道",
+    "纪功摩崖",
+    "紀功摩崖",
+    "贵州摩崖石刻"
+  ],
+  "aliases": [
+    "通贵州至乌撒道纪功碑",
+    "通贵州至乌撒驿道摩崖",
+    "乌撒道摩崖"
+  ],
+  "mother_works": [
+    "贵州省志·文物志",
+    "毕节地区志或威宁、赫章、纳雍地方志",
+    "贵州历代碑刻集",
+    "西南交通史或驿道石刻资料"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://www.google.com/search?q=%22%E9%80%9A%E8%B4%B5%E5%B7%9E%E8%87%B3%E4%B9%8C%E6%92%92%E9%A9%BF%E9%81%93%22",
+      "why": "按引文原貌检索石刻释文、地方志和文物名录。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E4%B9%8C%E6%92%92%E9%A9%BF%E9%81%93&title=Special%3AMediaSearch&type=image",
+      "why": "检索摩崖照片、碑刻拓片及相关地图资料。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "应先确定摩崖所在县和年代，再查相应县志、文物普查资料及碑刻录文。"
+}

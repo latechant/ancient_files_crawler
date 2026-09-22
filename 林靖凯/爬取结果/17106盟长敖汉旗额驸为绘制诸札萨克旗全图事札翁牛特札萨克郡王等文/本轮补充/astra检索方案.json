@@ -1,0 +1,38 @@
+{
+  "seq": 17106,
+  "title": "《盟长敖汉旗额驸为绘制诸札萨克旗全图事札翁牛特札萨克郡王等文》",
+  "item_type": "清代盟旗往来公文，可能为札、咨或移会",
+  "keywords": [
+    "盟长敖汉旗额驸",
+    "绘制诸札萨克旗全图",
+    "翁牛特札萨克郡王",
+    "札萨克旗全图",
+    "敖汉旗额驸",
+    "诸札萨克旗全图"
+  ],
+  "aliases": [
+    "绘制诸札萨克旗全图事札",
+    "诸札萨克旗全图",
+    "翁牛特札萨克郡王文"
+  ],
+  "mother_works": [
+    "清代理藩院档案",
+    "昭乌达盟盟长衙门档案",
+    "内蒙古盟旗档案汇编",
+    "清代蒙古舆图、旗界图档案"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E6%9C%AD%E8%90%A8%E5%85%8B%E6%97%97%E5%85%A8%E5%9B%BE&title=Special:MediaSearch&type=image",
+      "why": "检索札萨克旗地图及相关档案影像",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://zh.wikisource.org/w/index.php?search=%E7%BF%81%E7%89%9B%E7%89%B9%E6%9C%AD%E8%90%A8%E5%85%8B%E9%83%A1%E7%8E%8B&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2",
+      "why": "检索翁牛特札萨克、盟旗政书和清代公文转录",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到具体档案页或档号。可按“敖汉旗额驸”“盟长”“翁牛特”“全图”“札萨克”组合检索昭乌达盟档案目录及清代蒙古舆图目录。"
+}

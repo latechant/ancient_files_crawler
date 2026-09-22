@@ -1,0 +1,38 @@
+{
+  "seq": 11340,
+  "title": "《寿字纹葫芦形银质酒壶》",
+  "item_type": "金属器或博物馆藏品条目",
+  "keywords": [
+    "寿字纹葫芦形银质酒壶",
+    "寿字纹银酒壶",
+    "葫芦形银壶",
+    "银质酒壶",
+    "寿字纹银壶",
+    "壽字紋葫蘆形銀質酒壺"
+  ],
+  "aliases": [
+    "寿字纹葫芦银壶",
+    "葫芦形寿字纹银酒壶",
+    "银质葫芦形酒壶"
+  ],
+  "mother_works": [
+    "清代金银器图录",
+    "故宫博物院藏金银器",
+    "中国国家博物馆藏金银器",
+    "地方博物馆金银器藏品目录"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E8%91%AB%E8%8A%A6%E5%BD%A2%E9%93%B6%E5%A3%B6&title=Special:MediaSearch&type=image",
+      "why": "检索葫芦形银壶及寿字纹金银器的公开图像和藏品信息。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/Special:Search?search=%E5%A3%BD%E5%AD%97%E7%B4%8B%E9%8A%80%E5%A3%BA",
+      "why": "以繁体器名反查器物图录和古籍中的金银器著录。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到精确器名对应的公开馆藏编号、年代、尺寸或图录卷页，不能确认具体藏品。"
+}

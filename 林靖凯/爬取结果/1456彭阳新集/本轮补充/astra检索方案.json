@@ -1,0 +1,40 @@
+{
+  "seq": 1456,
+  "title": "《彭阳新集》",
+  "item_type": "古籍或诗文集，书名、作者和时代均待考",
+  "keywords": [
+    "彭阳新集",
+    "彭陽新集",
+    "新集",
+    "彭阳",
+    "彭陽",
+    "彭阳文集",
+    "彭陽文集"
+  ],
+  "aliases": [
+    "彭阳集",
+    "彭陽集",
+    "彭阳先生新集",
+    "彭阳文集"
+  ],
+  "mother_works": [
+    "历代总集、别集书目",
+    "地方志艺文志及人物传",
+    "《四库全书总目》及续修目录",
+    "敦煌、宋元明清古籍目录"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://www.google.com/search?q=%22%E5%BD%AD%E9%98%B3%E6%96%B0%E9%9B%86%22",
+      "why": "检索书目、题跋、地方志和古籍影印目录。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E5%BD%AD%E9%98%B3%E6%96%B0%E9%9B%86&title=Special%3AMediaSearch&type=image",
+      "why": "检索古籍扫描页、目录页或馆藏图像。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未确认作者、朝代、卷数及版本；可能是亡佚别集或地方志著录书名，不能据题名宣称已有全文。"
+}

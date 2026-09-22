@@ -1,0 +1,39 @@
+{
+  "seq": 17234,
+  "title": "《旗札萨克王为台吉希日拉台田地纠纷事呈盟摄政王爷文》",
+  "item_type": "清代盟旗土地纠纷呈文",
+  "keywords": [
+    "旗札萨克王",
+    "台吉希日拉",
+    "台田地纠纷",
+    "盟摄政王爷",
+    "希日拉",
+    "田地纠纷",
+    "呈文"
+  ],
+  "aliases": [
+    "台吉希日拉田地案",
+    "希日拉台地纠纷",
+    "札萨克王呈盟摄政王爷文"
+  ],
+  "mother_works": [
+    "清代理藩院蒙古旗地案件档案",
+    "盟旗衙门土地纠纷档案",
+    "内蒙古历史档案汇编",
+    "清代蒙古王公文书"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E5%B8%8C%E6%97%A5%E6%8B%89%E7%94%B0%E5%9C%B0%E7%BA%A0%E7%BA%B7&title=Special:MediaSearch&type=image",
+      "why": "检索可能存在的蒙古旗地案件档案影像",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://zh.wikisource.org/w/index.php?search=%E7%90%86%E8%97%A9%E9%99%A2%20%E7%94%B0%E5%9C%B0%20%E8%92%99%E5%8F%A4&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2",
+      "why": "检索公开清代理藩院案件及蒙古土地文书",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未找到具体卷次、档号或全文。人名“希日拉”可能有“喜日拉、希日勒、席日拉”等异写，应结合满文或蒙古文目录复核。"
+}

@@ -1,0 +1,37 @@
+{
+  "seq": 18386,
+  "title": "《大理国铜鎏金铜函》",
+  "item_type": "文物图录或考古报告中的器物条目",
+  "keywords": [
+    "大理国铜鎏金铜函",
+    "大理国鎏金铜函",
+    "大理国铜函",
+    "铜鎏金铜函",
+    "大理国文物",
+    "大理崇圣寺三塔"
+  ],
+  "aliases": [
+    "鎏金铜函",
+    "大理国金铜函",
+    "大理国铜舍利函"
+  ],
+  "mother_works": [
+    "大理国文物图录",
+    "云南省博物馆藏大理国文物",
+    "崇圣寺三塔出土文物考古报告"
+  ],
+  "candidate_urls": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?search=%E5%A4%A7%E7%90%86%E5%9B%BD+%E9%8E%8F%E9%87%91%E9%93%9C%E5%87%BD&title=Special%3AMediaSearch&type=image",
+      "why": "检索博物馆图录图片、展览资料和器物名称异写。",
+      "likely_fulltext": false
+    },
+    {
+      "url": "https://www.google.com/search?q=%22%E5%A4%A7%E7%90%86%E5%9B%BD%E9%8E%8F%E9%87%91%E9%93%9C%E5%87%BD%22",
+      "why": "检索考古图录、博物馆目录及论文中的器物条目。",
+      "likely_fulltext": false
+    }
+  ],
+  "verdict": "未找到",
+  "notes": "未确认该名称对应的独立出版物或公开全文页；应以馆藏编号、出土地和图录页码继续核查。"
+}

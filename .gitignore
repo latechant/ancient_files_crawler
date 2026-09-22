@@ -1,0 +1,6 @@
+_cache/
+pipeline/logs/
+__pycache__/
+*.pyc
+.env
+*.raw.txt
