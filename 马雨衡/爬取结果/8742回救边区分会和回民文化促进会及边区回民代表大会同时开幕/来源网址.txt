@@ -1,2 +1,0 @@
-https://books.google.com/books?q=%22%E8%BE%B9%E5%8C%BA%E5%9B%9E%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%22%20%221940%22
-https://archive.org/advancedsearch.php?q=%22%E6%96%B0%E4%B8%AD%E5%8D%8E%E6%8A%A5%22%20%221940%22%20%22%E5%9B%9E%E6%B0%91%22&fl%5B%5D=identifier,title&rows=50&page=1&output=json
