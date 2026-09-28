@@ -1,3 +1,0 @@
-来源：https://ci.nii.ac.jp/ncid/BN05618094
-结果：未取得该文献正文。
-原因：打开失败：ConnectTimeout: HTTPSConnectionPool(host='ci.nii.ac.jp', port=443): Max retries exceeded with url: /ncid/BN05618094 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F6EAD8DD10>, 'Connection to ci.nii.ac.jp timed out. (connect timeout=30)'))
