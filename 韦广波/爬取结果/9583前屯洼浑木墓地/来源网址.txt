@@ -1,0 +1,45 @@
+编号 9583 题名《前屯、洼浑木墓地》 来源网址记录
+归档日期：2026-10-10（复核 2026-10-12）
+
+一、条目母项出处（认定依据，均可得）
+1. 王增新：《辽宁抚顺市前屯、洼浑木高句丽墓发掘简报》，《考古》1964年第10期（总第89—100期），页529—532。
+2. 国家哲学社会科学文献中心（NCPSSD）《考古》1964年第10期期次页（含该篇题录）：
+   https://m.ncpssd.cn/journal/details?gch=94762X&langType=1&nav=1&num=10&years=1964
+   （该页经 GBK/UTF-8 解析后可见条目："辽宁抚顺市前屯、洼浑木高句丽墓发掘简报 / 王增新 / 考古"，NCPSSD 文献号 id=1002405918）
+3. NCPSSD 全文入口（实测跳转登录页，需登录）：
+   https://www.ncpssd.org/Literature/readurl?id=1002405918
+   https://ncpssd.org/Literature/articleinfo?id=1002405918&type=journalArticle&nav=1&langType=1
+
+二、二手书目录（可佐证母项，但非正文）
+4. 《东亚文库·中国考古集成·东北卷·两晋至隋唐（二）》目录，其中"辽宁抚顺市前屯、洼浑木高句丽墓发掘简报 王增新 311"：
+   https://mtoou.info/jueban/1707331.html
+   https://mtoou.info/jueban/25220.html
+5. 《中国学者高句丽研究文献叙录》（倪军民、耿铁华、杨春吉主编，吉林人民出版社1998）目录，"辽宁抚顺市前屯、洼浑木高句丽墓发掘简报［王增新］328"：
+   https://mtoou.info/jueban/1025913.html
+
+三、综述/工具书引录（可佐证，但仅摘要，非连续正文）
+6. 《中国通史》第五卷（中古时代·三国两晋南北朝）第五节"高句丽城址和墓葬"，注②即本简报（"在抚顺前屯、洼浑木村两处发掘19座②"）：
+   http://szzy.7lue.cn/read/dbcfcd4e6bd9523b6fb82ccb7aeca509/7f58149620085a407c22275341b2f582.md
+   http://szzy.7lue.cn/read/dbcfcd4e6bd9523b6fb82ccb7aeca509/ef14ae2cff7c7d37169bed6beba4f30a.md
+7. 《中国文物考古辞典》"前屯·洼浑木墓葬"条（释文摘要）：
+   http://www.vtrois.com/1739752.html
+   http://www.ctoth.com/dictionary/1740214.html
+8. 卢然《抚顺陶瓷制造自何时开始步入产业化发展阶段？》，玄菟明月网（原抚顺七千年网站），注释[3]标明出处"《考古》（1964年第10期 P529-532）"，并引及"抚顺前屯M13""抚顺洼浑木M2"：
+   http://fs7000.com/news/?12496.html
+9. 魏存成《新中国成立以来高句丽考古的主要发现与研究》，《社会科学战线》2014年第2期，注③引本简报：
+   https://www.51774.com/kaogufaxian/67229.html
+
+四、母项载体（《考古》1964年合订本，仅存实物/扫描请求站，未获公开连续全文）
+10. https://mtoou.info/jueban/1746864.html
+11. https://www.qianqiantushu.com/ebook/2029419.html
+
+五、官方/其他入口实测
+12. 中国考古网 http://www.kaogu.cn/ 、https://www.kaogu.cn/ —— 连接失败（HTTP 000）
+13. 中国社科院考古所 http://kaogu.cssn.cn/ —— 403
+14. CNKI《考古》文章页（猜测URL）实测无该篇正文，CNKI/CQVIP/万方均为付费/需登录。
+15. 注：未使用任何影子图书馆（z-library/libgen/annas-archive 等）。
+
+## 六、【人工下载补充 · 2026-10-13】本次取得正文的来源
+# 由韦广波本人以机构账号登录中国知网(CNKI) https://www.cnki.net/ 手动检索并下载 PDF。
+# 入库文件：辽宁撫顺市前屯、洼渾木高句丽墓发掘简报_王增新.pdf（7 页（正文5页 + 图版2页），1,996,204 字节）
+# 页面水印含 (C)1994-20xx China Academic Journal Electronic Publishing House，为 CNKI 导出件特征。

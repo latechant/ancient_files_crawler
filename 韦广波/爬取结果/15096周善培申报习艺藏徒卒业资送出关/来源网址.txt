@@ -1,0 +1,57 @@
+编号：15096
+题名：周善培申报习艺藏徒卒业资送出关
+归档日期：2026-10-12
+判定：ok = false（未取得该件原文/片段/图版）
+
+【关键来源：目录·出处（含精确档号）】
+1. https://mtoou.info/jueban/778360.html
+   《清末川滇边务档案史料 上》目录页（书目录转录）。本条 0305 号出处所在：
+   "0305 周善培申报习艺藏徒卒业资送出关（宣统元年四月初七日） 333"
+   同页姊妹条："0214 办理四川商务总局周善培详习艺藏徒分别遣回与留厂（光绪三十四年十月初七日） 244"
+   （该书：四川省民族研究所编，北京：中华书局，1989年5月，ISBN 9787101005028）
+   注：该站属"求书/绝版PDF"类型，仅将其目录页用作核对档号；未从其下载任何文件。
+2. https://mtoou.info/jueban/1414037.html  《清末川滇边务档案史料 中》书目页
+3. https://mtoou.info/jueban/1414036.html  《清末川滇边务档案史料 下》书目页
+4. https://book.douban.com/subject/20257971/  豆瓣书目（中华书局1989，ISBN 9787101005028）
+5. https://www.dushu.com/book/10242530/  读书网书目
+
+【论著检索（试"加引号直引"，均无本条直引；仅涉背景/同书他件）】
+6. http://iqh.ruc.edu.cn/old/qdbjmzyj/bj_djrd/2ee68c1f22ee4b228d200dfdd810c75f.htm
+   代维《清季赵尔丰川边藏区经济改革述论》（《民族论坛》2013年第8期）——引用《清末川滇边务
+   档案史料》多处（上/中/下册，页119、567、663-664、746-750、779等），提制革厂、制陶厂、
+   藏族学徒学艺，但未见 0305 号（页333）之引用。
+7. https://xzyj.cbpt.cnki.net/portal/journal/portal/client/paper/340c461dac47a60ba1370ec94a9a3caa
+   林松、康欣平《档案所涉清季赵尔丰川边教育改革及其办学成效》（《西藏研究》2020年第2期）
+8. https://xzyj.cbpt.cnki.net/portal/journal/portal/client/paper/a1c7c49c302c2fa9a1a19c414f3d3a11
+   姚便芳《双语教育：清末川边藏区兴学之关键》（《西藏研究》2011年第1期）
+9. https://xzmz.cbpt.cnki.net/portal/journal/portal/client/paper/0ca567538cfd1f2f0c55231936767b8d
+   阴海燕《清末四川藏文学堂兴办述略》（《西藏民族大学学报》2013）
+10. https://exa.ai/library/publication/tp2z41vczdg
+   李绍先、周杰《清末四川"教育新政"与川边藏区的实业教育》（《职业技术教育》2014）
+11. https://qsyj.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2878
+   刘之杨《习艺入刑与晚清刑罚改革》（《清史研究》2025年第4期）
+12. https://mp.weixin.qq.com/s/WWkIVXogtU8F9bbuWoi80Q
+   戴海斌《辛亥年的周善培》（《读书》2022年第6期）
+13. https://scsqw.cn/scyx/scrw/scszrwz/content_8112 （四川省志·人物志·周善培；
+    载"另建立川省习艺所，可容600人，分内外两厂，内厂收罪犯，外厂收游民"）
+14. http://www.tibetology.ac.cn/2022-08/22/content_42079574.htm
+   田茂旺《中华民族共同体元素的表达：打箭炉商货的类别、技艺与消费》（《西南民族大学学报》2022年第8期）
+
+【四川省档案馆公开资源（仅总述，无该件图版）】
+15. http://tibet.cn/cn/news/yc/202310/t20231014_7501323.html
+    《清代川滇边务大臣衙门档案》(四川省档案馆编，巴蜀书社，2023，68册影印)新书发布报道
+16. https://sichuan.scol.com.cn/ggxw/202310/58992148.html  同上（四川在线）
+17. http://scdfz.sc.gov.cn/whzh/bsjy/content_176741
+    四川省档案馆《一百多年前甘孜娃娃留下的作业》（述川边教育，含制革厂选派30名藏族青年赴成都）
+
+【已试未获全文的入口（备查）】
+- Internet Archive advancedsearch、Google Books API：本运行环境对外网不可达（curl 超时/连接失败），
+  经 web_search 亦无该书命中。
+- 读秀/超星、瀚文民国书库、CADAL：本书为1989年后印本，未见公开全文。
+- mtoou.info "求书/绝版PDF"、qciss.net "小哈图书下载中心"：属下载集散/求书类站点，与禁用之
+  影子图书馆同类，一律未下载。
+- Bing 精确短语 "习艺藏徒卒业资送出关"：无精确命中。百度精确短语：返回安全拦截页。
+- 识典古籍(shidianguji) 检索：无该件。
+
+【说明】以上均为合法公开网页；未使用任何影子图书馆（z-library/libgen/annas-archive 等）；
+未使用 web_fetch（任务禁用）。

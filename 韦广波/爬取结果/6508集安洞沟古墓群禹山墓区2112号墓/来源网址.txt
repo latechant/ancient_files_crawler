@@ -1,0 +1,44 @@
+来源网址.txt
+条目编号：6508
+题名：集安洞沟古墓群禹山墓区2112号墓
+归档日期：2026-10-10
+
+一、题录/摘要来源（确认条目出处，非全文）
+1. 维普期刊中文期刊服务平台 检索结果页（含该条目题录与摘要）：
+   http://vp2.b.xue66.net/Qikan/Search/Index?key=K%3D%E6%B4%9E%E6%B2%9F%E5%8F%A4%E5%A2%93%E7%BE%A4
+   题录：董峰（集安市博物馆），《集安洞沟古墓群禹山墓区2112号墓》，《北方文物》2004年第2期，第29-35页，共7页；分类号 K878.8；被引6次。
+2. "期刊界 All Journals"相似文献页（题录+摘要，署名"集安市博物馆"）：
+   https://history.alljournals.cn/relate_search.aspx?aid=83C0BF34BF712939A97C2ABA6709E087&ctl=13&etl=50&language=2&pcid=B105980C46742988AA264212B4BA36DE578B761D73696550
+3. 皮皮文库（摘要，仅"论文部分内容阅读"）：
+   https://www.ppdoc.com/periodical/28c3a37854f09f035bfaac76d16bcd42.html
+4. 信丰网（摘要，同上，仅部分内容）：
+   https://jxxfw.com/periodical/28c3a37854f09f035bfaac76d16bcd42.html
+5. 集安高句丽文物古迹旅游景区介绍之"2112号墓"（转引摘要）：
+   https://m.meet99.com/jingdian-gaogouliwenwuguji-6165.html
+6. 维基百科"洞沟古墓群"（确认 JYM2112 即禹山2112号墓，属高句丽洞沟古墓群）：
+   https://zh.wikipedia.org/wiki/%E6%B4%9E%E6%B2%9F%E5%8F%A4%E5%A2%93%E7%BE%A4
+
+二、母项（报告集）书目核验来源
+7. 兰台网《吉林集安高句丽墓葬报告集(精)》目录页（确认收录篇目及排序）：
+   http://www.xlantai.com/e2861557.html
+8. 丝绸之路世界遗产网 书籍资料库《吉林集安高句丽墓葬报告集》：
+   http://www.silkroads.org.cn/portal.php?aid=59654&mod=view
+9. 读书网《吉林集安高句丽墓葬报告集》目录：
+   https://www.dushu.com/book/12026813/
+10. 六一书房（日本）《吉林集安高句麗墓葬報告集》：
+    https://www.book61.co.jp/book.php/C03797
+
+三、相关研究（旁证，非本次正文）
+11. 赵俊杰、马健《集安禹山两座高句丽时期积石墓的时代及相关问题》，《考古》2012年第5期，85-91页（题录见维普/All Journals相似文献页，提及 M2112 经1994、2003年两次发掘）。
+12. 王飞峰《关于千秋墓、太王陵和将军坟的几个问题》（学术论文PDF，提及禹山2112号墓出土莲花纹瓦当）：
+    https://www.sinoss.net/uploadfile/2012/0425/20120425105348636.pdf
+
+四、尝试但未取得全文的合法平台
+13. 国家哲学社会科学文献中心（ncpssd 北方文物 期刊主页，过刊仅回溯至2010年，2004年无收录）：
+    https://www.ncpssd.cn/journal/details?gch=98263X&langType=1&nav=1
+14. 《北方文物》官网 过刊浏览（页面为空/JS加载，未取到2004年2期条目）：
+    http://www.beifangww.cn/html/qkdd/2004/02/
+15. 道客巴巴 / 原创力文档 / 豆丁网 / 人人文库 检索页（受JS/WAF限制，未检索到该文可读全文）：
+    https://www.doc88.com/search?q=...  https://max.book118.com/search.html?q=...  等
+
+备注：未使用任何影子图书馆（z-library / z-lib / libgen / annas-archive / lexlib 等），仅访问上述公开合法来源。

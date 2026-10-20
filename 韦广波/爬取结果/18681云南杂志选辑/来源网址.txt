@@ -1,0 +1,30 @@
+来源网址（检索与获取）
+归档日期：2026-10-12
+
+一、题名/脉络检索（web_search 与人工检索）
+- 豆瓣《云南杂志选辑》条目：https://book.douban.com/subject/23780300/
+  （知识产权出版社 2013，《近代史资料专刊》；编者：中国社会科学院近代史研究所《近代史资料》编译室）
+- 缺书网《近代资料专刊：云南杂志选辑》：http://www.queshu.com/book/10936061/
+- 辛亥革命网《云南近代出版史上的光辉篇章——简论辛亥革命时期的〈云南〉杂志》：
+  http://xhgmw.com/m/view.php?aid=28346
+  （说明《云南》杂志为1906年10月15日在日本东京创刊的云南留日学生革命刊物，1906-1911，共23期）
+
+二、条目实际内容获取（抗战文献数据平台，民国期刊影像库）
+- 平台首页：https://www.modernhistory.org.cn
+- 检索接口（POST）：https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+  命中该刊原刊记录：题名「云南」，docType=qk，出版者「云南留学生同乡会云南杂志社」，
+  originalPlace「东京」，出版演变「云南留学生同乡会云南杂志社，19061015-1911」，记录id=175714，
+  fileCode=9999_qk_09005，pageAmount=664。
+- 期刊目录接口（GET）：https://www.modernhistory.org.cn/backend-prod/esBook/findDirectory/9999_qk_09005?uniqTag=9999_qk_09005_0001
+  （uniqTag 0001-0004 分别对应 第四号/第五号/第六号/第九号）
+- 目录内页接口（GET）：https://www.modernhistory.org.cn/backend-prod/esBook/findPageList?directoryId=<id>&fileCode=9999_qk_09005
+- IIIF 影像清单（GET）：https://iiif-json.modernhistory.org.cn/9999_qk_09005/9999_qk_09005_0001/9999_qk_09005_0001.json
+- IIIF 影像服务（GET）：https://iiif.modernhistory.org.cn/iiif/2/9999_qk_09005%2F9999_qk_09005_0001%2F9999_qk_09005_0001_0001.jpg/info.json
+  单页影像按 /full/{宽},/0/default.jpg 取回（例：
+  https://iiif.modernhistory.org.cn/iiif/2/9999_qk_09005%2F9999_qk_09005_0001%2F9999_qk_09005_0001_0001.jpg/full/1774,/0/default.jpg ）
+
+三、其他渠道（未能取得内容）
+- Internet Archive：https://archive.org （archive.org 域名在本机网络不可达，连接超时，未能检索/下载）
+- Wikimedia Commons / CADAL：检索未见该刊影像
+- 《云南杂志选辑》2013年版PDF多为网盘（百度网盘/迅雷）分享页（寻书帮、兰台网、千千图书等），
+  无可直接下载的公开电子版；未使用任何影子图书馆。

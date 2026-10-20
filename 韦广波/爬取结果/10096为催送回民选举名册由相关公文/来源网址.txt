@@ -1,0 +1,54 @@
+# 来源网址清单（条目 10096 《为催送回民选举名册由相关公文》）
+# 归档日期：2026-10-10
+# 结论：ok=false（案卷级概括题名，未取得连续公文原文，亦未定位到公开案卷著录）
+
+## 一、原登记爬取网址
+（无）——原书目清单“爬取网址”栏为“无”。
+
+## 二、精确检索 / 通用检索（题名与核心词，均无本条目原文）
+# 检索式示例：“为催送回民选举名册由”“回民选举名册”“催送回民选举”“回民选举”“为催送……由 名册 案卷”
+# 结果：题名全称零结果；“回民选举名册”亦无任何公开原文命中。
+https://www.bing.com/search?q=%22%E4%B8%BA%E5%82%AC%E9%80%81%E5%9B%9E%E6%B0%91%E9%80%89%E4%B8%BE%E5%90%8D%E5%86%8C%E7%94%B1%22
+https://www.bing.com/search?q=%E5%9B%9E%E6%B0%91%E9%80%89%E4%B8%BE%E5%90%8D%E5%86%8C
+
+## 三、抗战与近代中日关系文献数据平台（modernhistory.org.cn）篇目/书目接口检索
+# 接口：POST https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+# “回民选举名册”“回民选举”“催送回民选举” totalSize=0；“选举名册”仅命中无关报刊/图书（含《江苏省办理国民会议代表选举之概况》《北洋官报》《广东公报》等），无本条。
+https://www.modernhistory.org.cn/
+https://info.modernhistory.org.cn/home/introduction/
+
+## 四、档案目录 / 档案机构线上系统（仅见同主题机关沿革与全宗概述，无本条案卷著录与全文）
+# 国家档案局·全国档案查询利用服务平台（查档须实名注册，文件级全文多不公开）
+https://cxly.saac.gov.cn/
+https://www.saac.gov.cn/daj/qgdacxlyfwptapp/202507/b1810b4388104a2ba7f9df28cc48fdcd.shtml
+# 中国第二历史档案馆（现行查档范围；民国档案查阅须到馆）
+http://shac.net.cn/cdzn/xxcdfw/
+http://www.shac.net.cn/sy_59/gzdt_136/201912/t20191230_4181.html
+# 北京数字档案馆 / 北京市国家综合档案馆开放档案查询系统（目录检索，原文须到馆）
+https://www.bjma.org.cn/
+https://www.bjhr.gov.cn/zt/hrqdag/sjjs/202511/t20251121_4291901.html
+# 甘肃档案信息网·全宗36《国民大会代表甘肃省选举事务所、立法院立法委员甘肃省选举事务所》
+#   机构沿革明载“办理区域、藏民、回民、职业、妇女等选举事宜”；全宗内容含选举表册、候选人/当选人名册、选民数目一览表等。
+https://www.cngsda.net/mgsqda/32149.jhtml
+# 湖北档案信息网·民国档案（国民大会湖北省代表选举事务所相关案卷级目录示例，含“呈、批、电”等公文名册题名）
+https://hbda.gov.cn/searchitem/208_9?page=72
+# 江苏档案信息网·民国国民大会代表、立法院立法委员江苏省选举事务所（馆藏介绍）
+https://www.dajs.gov.cn/art/2022/7/25/art_321_40979.html
+# 贵州省档案馆·国民大会代表立法院立法委员贵州省选举事务所（馆藏介绍）
+https://www.gzdafzxx.cn/ggfw/gzjs/201901/t20190107_52992990.html
+# 广西档案信息网·建国前档案全宗目录（含“广西省选举事务所”等）
+https://www.gxdag.org.cn/show/66/4371
+
+## 五、题名体例佐证 / 背景参考（非本条原文）
+# 中研院“數位典藏與數位學習聯合目錄”——“为……事/由”式档案题名（佐证本条属档案编目体例）
+https://catalog.digitalarchives.tw/item/00/26/64/91.html
+# 全国民国档案通览（全宗级目录工具书，含中国第二历史档案馆及全国各馆全宗信息；本条应属其收录范围的性质）
+http://www.pdf001.com/wenshi/_lishi/4335.html
+# 维吾尔、回民参政与选举名额的学术背景（“内地生活习惯特殊之国民（回民）”17名等）
+http://xueshu.qikanba.com/index.php?a=show&c=index&catid=472&id=90947&m=content
+https://zh.wikipedia.org/wiki/1948%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89
+# 同主题报刊文章目录（《回族历史报刊文选·特刊卷》含《论国大回民代表的选举》《回民与选举》《对回民选举国民代表的意见》等，均为报刊评论，非本公文，未采）
+https://mtoou.info/jueban/2060444.html
+
+## 六、明确排除、未使用的来源（影子图书馆 / 侵权网盘，依硬性约束禁用）
+# Z-Library / LexLib / libgen / annas-archive 等一律未访问、未使用。

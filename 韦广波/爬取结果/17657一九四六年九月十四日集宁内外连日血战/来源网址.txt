@@ -1,0 +1,36 @@
+# 来源网址（本次检索/取图所用）
+# 条目：seq 17657 《1946年9月14日集宁内外连日血战国军冲入占领各高地共军迭增援仍图死守》 出版社：不详
+# 说明：原登记 url_raw = 无。以下为本次实际访问的合法公开来源（抗战文献数据平台 modernhistory.org.cn）及其接口/影像地址，非该条确认出处。
+
+## 一、检索接口（抗战文献数据平台 后端 API）
+POST https://www.modernhistory.org.cn/backend-prod/esBook/findByPage        # 篇目/书目检索（docType=ts/da/bz/qk/tp/yp/sp/ztk/total）
+GET  https://www.modernhistory.org.cn/backend-prod/esBook/findDirectory/{fileCode}        # 某报/刊全部期次(日期目录)
+GET  https://www.modernhistory.org.cn/backend-prod/esBook/findBzDirectory/{fileCode}      # 报纸期次目录
+GET  https://www.modernhistory.org.cn/backend-prod/esBook/findPageList?directoryId=&fileCode=  # 某期页码→影像路径
+GET  https://www.modernhistory.org.cn/backend-prod/esBook/getDocInfo                      # 阅读元数据
+
+## 二、1946-09-14 各报期次页（modernhistory，均非该条题名）
+# 中央日报(南京版)  fileCode=0005_bz_00050002  期次id=87180172 目录码 afeb6fd2c5f54c67880b6be7eec301df 第1924-1933页
+#   https://www.modernhistory.org.cn/backend-prod/esBook/findPageList?directoryId=87180172&fileCode=0005_bz_00050002
+# 中央日报(重庆版)  fileCode=0005_bz_00050001  期次id=88603270 第50303-50306页
+# 益世报(上海版)    fileCode=1905_bz_00000105  期次id=86853506 第273761-273768页
+# 大同日报           fileCode=0008_bz_00000005  1946-09-14 第1-4页
+# 和平日报(上海版,原名扫荡报) fileCode=1905_bz_00000028 期次id=87064244 第55736-55743页
+# 大刚报(汉口版)    fileCode=1905_bz_00000257  期次id=86952614 第1318-1323页
+
+## 三、IIIF 影像地址（Image API 2.0，需对 identifier 做 URL 编码）
+# 例（中央日报南京 1946-09-14 第2版）：
+# https://iiif.modernhistory.org.cn/iiif/2/0005_bz_00050002%2F19460914%2F00001925.jpg/full/3052,/0/default.jpg
+# info.json 例：https://iiif.modernhistory.org.cn/iiif/2/0005_bz_00050002%2F19460914%2F00001925.jpg/info.json
+# 和平日报 1946-09-14 第1版：
+# https://iiif.modernhistory.org.cn/iiif/2/1905_bz_00000028%2F19460914%2F00055736.jpg/full/3052,/0/default.jpg
+# 中央日报重庆 1946-09-14 第2版：
+# https://iiif.modernhistory.org.cn/iiif/2/0005_bz_00050001%2F19460914%2F00050304.jpg/full/3052,/0/default.jpg
+# 益世报上海 1946-09-14 第1版：
+# https://iiif.modernhistory.org.cn/iiif/2/1905_bz_00000105%2F19460914%2F00273761.jpg/full/3052,/0/default.jpg
+
+## 四、检索过的其它渠道（未获该条）
+# 全国报刊索引 https://www.cnbksy.com/  —— HTTP 412 反爬，未取
+# Bing/百度/搜狗/DuckDuckGo/Google 精确短语检索 —— 0 结果（仅返回“大同集宁战役”通论）
+# Google Books / Internet Archive API —— 本环境直连不可达(http=000)
+# 条目登记文件中 url_raw=无（A:/ComputerFuntion/文档位置/Agent/_work/master.csv 第609行）

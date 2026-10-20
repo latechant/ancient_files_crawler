@@ -1,0 +1,52 @@
+# 来源网址（编号 17017）——本次"仿照人工爬取"实际访问/检索的合法公开来源
+# 归档日期：2026-10-12
+# 说明：未取得该奏片原文/片段/影像；以下为检索、核验过程中访问或命中的合法公开来源。
+
+## 一、一史馆免费全文检索库（方法2 核心渠道；结果：本件及"莫莫和吉"均无命中）
+# 检索接口（《清实录》《清会典》全文；逐词核查，注意库内用繁体/异体"卹""犂"）
+https://fhac.com.cn/ess/fulltext.html?kw=%E8%8E%AB%E8%8E%AB%E5%92%8C%E5%90%89&tpl_file=search_fulltexts&p=1   # "莫莫和吉"→0
+https://fhac.com.cn/ess/fulltext.html?kw=%E5%B8%83%E7%89%B9%E5%93%88&tpl_file=search_fulltexts&p=1          # "布特哈"→仅道光朝/会典图8处
+https://fhac.com.cn/ess/fulltext.html?kw=%E5%B8%83%E7%89%B9%E5%93%88%E4%BD%90%E9%A0%98&tpl_file=search_fulltexts&p=1  # "布特哈佐領"→常雲/薩呢布等，非本件
+https://fhac.com.cn/ess/fulltext.html?kw=%E9%87%91%E9%A0%86%E5%A5%8F&tpl_file=search_fulltexts&p=1       # "金順奏"→界务/军费等
+https://fhac.com.cn/ess/fulltext.html?kw=%E9%87%91%E9%A0%86%E7%AD%89%E5%A5%8F&tpl_file=search_fulltexts&p=1 # "金順等奏"→界务/接收伊犁等
+https://fhac.com.cn/ess/fulltext.html?kw=%E8%BB%8D%E7%87%9F%E7%97%85%E6%95%85&tpl_file=search_fulltexts&p=1  # "軍營病故"→安徽/甘肃军营他员
+https://fhac.com.cn/ess/fulltext.html?kw=%E5%BE%9E%E5%84%AA%E8%AD%B0%E5%8D%B9&tpl_file=search_fulltexts&p=1  # "從優議卹"→阵亡/番匪等
+https://fhac.com.cn/ess/fulltext.html?kw=%E4%BC%8A%E7%8A%82%E5%B0%87%E8%BB%8D%E9%87%91%E9%A0%86&tpl_file=search_fulltexts&p=1 # "伊犂將軍金順"→补铸印信等
+# 一史馆主站与馆藏开放说明
+https://fhac.com.cn/index.html  # "线上已开放44个全宗档案目录检索；同时上线《清实录》《清会典》2个全文检索数据库，供利用者免费使用"
+
+## 二、书目/汇编核验（方法3）
+[《光绪朝朱批奏折》书目与内容简介（中国第一历史档案馆编，中华书局1995—1996，全120册，影印本）]
+https://baike.baidu.com/item/%E5%85%89%E7%BB%AA%E6%9C%9D%E6%9C%B1%E6%89%B9%E5%A5%8F%E6%8A%98/12336297
+http://www.ab678.cn/xq06/kw1447.htm   # 该书120册分册目录（军务·人事类：第38辑 七年正月至十一年二月 等）
+[一史馆藏清代满汉文硃批奏摺汇编目录（台北故宫图书文献处建置之康熙、雍正朝目录，蒋经国基金会介绍）]
+http://www.cckf.org/zh/sino/00101
+[《清代新疆满文档案汇编》影印全283册（起雍正八年讫宣统三年）——广西师大社官网]
+http://www.bbtpress.com/bookview/18056.html
+[《清代新疆满文档案汉译汇编（21—30册）——汉译本时间跨度乾隆二十一年至二十三年]
+http://www.bbtpress.com/bookview/24470.html
+[清史数据共享平台（中国人民大学清史研究所）"已刊清史奏疏目录集成"（含《宫中档光绪朝奏折》《光绪朝朱批奏折》目录；"数据导航"页暂留空白，无公开检索入口）]
+http://47.103.109.28/Resource/Catalog
+http://47.103.109.28/DataNavigation/DataNav
+
+## 三、系年/史事考订（方法1、2 旁证；非本件奏片原件）
+[《清史稿·金顺传》（光绪二年调伊犁将军，十一年召还）——维基文库]
+https://zh.wikisource.org/wiki/%E6%B8%85%E5%8F%B2%E7%A8%BF/%E5%8D%B7453
+[金顺（清朝）——维基百科]
+https://zh.wikipedia.org/zh-cn/%E9%87%91%E9%A0%86_(%E6%B8%85%E6%9C%9D)
+[苏钦《关于清代布特哈八旗的几个问题》（中国人民大学清史研究所）——布特哈八旗性质、官兵征调新疆伊犁驻防]
+http://iqh.ruc.edu.cn/old/qdbjmzyj/bj_ztyj/dbbj/b713cf5894da42e7b2a0f81231bd1bd0.htm
+
+## 四、其他检索尝试（均未获本件原文）
+[文脉国学（含《清实录》分卷全文）站内检索："莫莫和吉"→未找到；"布特哈"→相关《清实录》条目皆无本件]
+https://baike.ytso.com/?s=%E8%8E%AB%E8%8E%AB%E5%92%8C%E5%90%89
+https://baike.ytso.com/?s=%E5%B8%83%E7%89%B9%E5%93%88
+[识典古籍（清实录 LS0027 全文，供对照）]
+https://www.shidianguji.com/book/LS0027
+[抗战文献数据平台（可达，无本件满文/汉文档案全文）]
+https://www.modernhistory.org.cn/
+[通用搜索引擎精确检索（无直接命中）]
+https://www.bing.com/search?q=%22%E5%B8%83%E7%89%B9%E5%93%88%E9%95%B6%E9%BB%84%E6%97%97%E4%BD%90%E9%A2%86%E8%8E%AB%E8%8E%AB%E5%92%8C%E5%90%89%22
+https://www.baidu.com/s?wd=%E8%8E%AB%E8%8E%AB%E5%92%8C%E5%90%89
+
+# 合规声明：全程未使用 Z-Library / z-lib / libgen / annas-archive 等影子图书馆或付费侵权网盘。

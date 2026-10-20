@@ -1,0 +1,42 @@
+# 13431《后晋李继忠墓志》 检索来源网址
+# 归档日期：2026-10-10
+
+## 一、墓志著录/目录（确证条目存在及出处）
+1. 国学大师网·墓志数据库（资料由李启椿提供，可检索6万条墓志、88部墓志书籍）
+   检索：李继忠 → 命中 1 条
+   结果：八五八　後晉李繼忠墓誌一一〇二 ｜《2012秦晋豫新出墓志搜佚》第四冊 ｜ 第1102页
+   https://www.guoxuedashi.com/muzhi/?muzhi=%E6%9D%8E%E7%BB%A7%E5%BF%A0
+   （该站已更名“国学大全”，gxdq.com）
+
+2. 仇鹿鸣、夏婧辑校《五代十国墓志汇编》（上海古籍出版社，2022）目录
+   —— 后晋 开运：開運〇一三　李繼忠墓誌　開運三年十二月四日
+   https://www.gdwx.fudan.edu.cn/fd/ea/c4127a458218/page.htm
+   （同一目录另见：读书网 https://www.dushu.com/book/13947966/ ；
+     微信读书 https://weread.qq.com/web/bookDetail/8fe32af0811e7df41g01453e ）
+
+3. 章红梅校注《五代石刻校注》（凤凰出版社，2017）目录
+   —— 148　李继忠墓志　关运三年（九四六）十二月四日
+   https://rendezixun.com/m/product/fangzhi/21189.html
+
+## 二、志主身份与史事（据传世文献，非墓志录文）
+4. 维基百科 李继忠 https://zh.wikipedia.org/wiki/李继忠
+   维基百科 李继俦 https://zh.wikipedia.org/wiki/李继俦
+   维基百科 李继韬 https://zh.wikipedia.org/wiki/李继韬
+   （以上三条均引“据《李继忠墓志》，李嗣昭有八子……”，属墓志内容的二手转述）
+5. 中国哲学书电子化计划（ctext）相关条目 https://ctext.org/datawiki.pl?if=gb&res=2347432
+6. 《旧五代史》卷五十二·唐书列传四（李嗣昭传，附诸子）
+   https://dudianji.com/book/%E6%97%A7%E4%BA%94%E4%BB%A3%E5%8F%B2/%E5%8D%B7%E4%BA%94%E5%8D%81%E4%BA%8C%E3%80%94%E5%94%90%E4%B9%A6%E3%80%95%C2%B7%E5%88%97%E4%BC%A0%E7%AC%AC%E5%9B%9B
+
+## 三、已尝试但未取得录文的来源（记录过程）
+7. 书法资料网 shufaziliao.com（内有“录文”字段，但站内检索需会员）
+   https://www.shufaziliao.com/  （检索接口 /e/search/index.php 返回“游客没有搜索权限”）
+   该站未见《後晉李繼忠墓誌》条目（仅见《後唐李繼墓志》《后唐王俦墓志》《后汉高洪谨墓志》等）。
+8. 书法网 shufawang.cn（同源站，检索同样需会员） https://www.shufawang.cn/
+9. 中国哲学书电子化计划 ctext.org 检索（Cloudflare 人机校验拦截）
+10. 中央研究院历史语言研究所“五代及宋拓片資料庫”（含释文检索栏）
+    https://ihparchive.ihp.sinica.edu.tw/ihpkmc/ihpkm_op?%21%21FUNC240=
+    表单 POST 查询未返回含“李繼忠”的结果。
+11. 浙江大学“中国历代墓志数据库” http://csid.zju.edu.cn/tomb/（前端 SPA，未开放可检索的录文接口）
+12. 新浪博客“紫气堂”《(五代十国)沙陀李氏》一文（含“李继忠墓志铭”图片标题，正文以图版为主）
+    https://blog.sina.com.cn/u/2560433920
+13. 百度百科相关词条（李继墓志、李继忠(抗战老兵)等）——无本志录文

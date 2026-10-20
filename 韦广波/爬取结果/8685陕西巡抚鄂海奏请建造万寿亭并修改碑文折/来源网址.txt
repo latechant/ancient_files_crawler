@@ -1,0 +1,33 @@
+# 编号 8685 《陕西巡抚鄂海奏请建造万寿亭并修改碑文折》 检索来源网址
+# 归档日期：2026-10-10
+# 说明：以下为本轮检索实际访问/依据的合法公开来源；全文未取得。
+
+一、维基文库「清代奏摺」分类（核查有无全文，结论：未收此折）
+https://zh.wikisource.org/wiki/Category:清代奏摺
+（分类共约238个条目，逐一检索“鄂海/万寿亭/碑文/陕西巡抚”均无命中）
+
+二、《康熙朝满文朱批奏折全译》目录预览（确证本折著录条目：第807号）
+https://mtoou.info/jueban/814603.html
+（页面为该书目录预览，含：“807 陕西巡抚鄂海奏请建造万寿亭并修改碑文折 / 康熙四十四年十一月初八日 / 原书第394—395页”）
+
+三、一史馆（中国第一历史档案馆）官方渠道
+https://www.fhac.com.cn/consult.html   （线上资源介绍：宫中全宗朱批奏折59.2万件已开放目录）
+https://www.fhac.com.cn/fulltext/searchs.html   （官方网站全文检索入口）
+https://www.saac.gov.cn/daj/c100166/202101/00d4961ec0af4b819e263bb43a27bc45.shtml
+（国家档案局：一史馆满文朱批奏折等满文全文检索数据库仅在馆内信息化平台开放；官网仅公布目录）
+
+四、台北故宫相关数据库（核对，非本折全文来源）
+https://www.jiansuoke.com/db/01kct  （台北故宫“一史馆藏清代满汉文朱批奏折汇编目录”，康熙朝7416笔，取自《一史馆藏康熙朝汉文朱批奏折汇编》，为汉文折目录）
+https://qingarchives.npm.edu.tw/  （台北故宫清代档案检索系统，收录本院藏品，不含一史馆满文折全文）
+
+五、论著（用于核实背景，均未引录本折第807号原文）
+https://www.fjdh.cn/wumin/2010/07/100518116606.html  杨健《康熙皇帝与西安广仁寺的修建》
+https://shanxifojiao.com.cn/index.php?a=index&aid=534&c=View&m=home  同上
+https://www.dpm.org.cn/Uploads/File/2020/04/22/u5ea005de6a0ee.pdf  常建华《康熙帝敕建西安广仁寺》
+http://iqh.ruc.edu.cn/old/qdhjylyjzx/xszl/lswh/53a3d39e198542fabdd7ea144659b6e5.htm  《长安之旅：康熙帝西巡探讨》
+https://iahs.fudan.edu.cn/info/1163/5972.htm  常建华《西安碑林里的康熙书法》
+
+六、书目/馆藏线索（受版权保护，无合法全文获取渠道）
+https://books.google.com/books/about/康熙朝满文朱批奏折全译.html?id=LecQAQAAMAAJ  （Google Books 书目条目）
+https://www.las.ac.cn/front/book/detail?id=ee5efd621a7b12bcf71fbf6ae87462fa  （中科院文献情报中心书目）
+https://www.xianzhiguan.com/wenxian/14485.html  《康熙朝汉文硃批奏折汇编》介绍（与本满文折非同一书）

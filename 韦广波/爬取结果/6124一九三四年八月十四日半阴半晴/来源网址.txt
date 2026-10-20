@@ -1,0 +1,34 @@
+来源网址.txt
+条目：编号 6124《一九三四年八月十四日  半阴半晴》
+核对日期：2026-10-10
+
+说明：本题为「日记中的某一天」子项，需由母项日记追溯。以下为本次核查访问过的合法公开来源
+（含命中的相关原文，用于排除候选），均未取得该日连续原文。
+
+[排除候选·竺可桢（1934年日记已佚）]
+https://www.zju.edu.cn/2022/0325/c66007a2510818/pagem.htm
+https://www.cngsda.net/dhsz/46301.jhtml
+
+[排除候选·鲁迅日记（1934年=日记二十三）]
+https://zh.wikisource.org/zh-hans/%E9%AD%AF%E8%BF%85%E6%97%A5%E8%A8%98        （仅收至1931年）
+https://www.zhonghuadiancang.com/xueshuzaji/luxunriji/                          （仅至1931年）
+https://www.kepub.net/book/23391/10022?collectionNo=781252                      （有日记二十三，付费，仅1月可见）
+
+[排除候选·朱自清日记（8/14为「晴」）]
+https://www.xuge.org/xdmj/zzq/rj/042.htm
+https://www.xuge.org/xdmj/zzq/rj/index.htm
+
+[排除候选·郁达夫日记（8/14为「晴」）]
+https://m.zhangyue.com/readbook/10872276/27.html
+https://www.chinawriter.com.cn/n1/2026/0401/c404064-40693404.html
+
+[排除候选·《名家日记》选集（不含1934-08-14）]
+https://www.modernhistory.org.cn/backend-prod/esBook/findDetailInfo/0001_ts_31050751?docType=ts
+https://www.modernhistory.org.cn/backend-prod/esBook/findDirectory/0001_ts_31050751?docType=ts
+
+[抗战文献数据平台 全文检索（查「半阴半晴」等=0条）]
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage   (POST)
+
+[其他相关·非母项]
+https://book.douban.com/annotation/140614366/                    （孔德成日记抄，1932年，民国纪年）
+https://www.shidianguji.com/book/7477549966748024842/chapter/1kt99snjwpnnu （染雪盦长安转运日记，清末）

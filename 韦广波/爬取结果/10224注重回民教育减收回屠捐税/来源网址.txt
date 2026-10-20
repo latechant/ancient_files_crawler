@@ -1,0 +1,54 @@
+# 来源网址清单（条目 10224 《注重回民教育减收回屠捐税》）
+# 归档日期：2026-10-10
+# 结论：ok=false（未取得与本条目明确对应的连续原文；题名全称公开零命中，仅有主题相近之他文）
+
+## 一、原登记爬取网址
+（无）——原书目清单出版社栏为"不详"，未见登记爬取网址。
+
+## 二、精确检索 / 通用检索（题名与核心词，均无本条目原文）
+# 检索式示例：“注重回民教育减收回屠捐税”“回屠捐税”“屠捐税”“减收回屠捐税”“注重回民教育”“回屠”“牛羊屠税”
+# 结果：题名全称零命中；Bing 精确短语仅返回“注重/回”等单字字典词条，可证该短语未被索引。
+https://cn.bing.com/search?q=%22%E6%B3%A8%E9%87%8D%E5%9B%9E%E6%B0%91%E6%95%99%E8%82%B2%E5%87%8F%E6%94%B6%E5%9B%9E%E5%B1%A0%E6%8D%90%E7%A8%8E%22
+https://cn.bing.com/search?q=%22%E5%9B%9E%E5%B1%A0%E6%8D%90%E7%A8%8E%22
+https://www.sogou.com/web?query=%E6%B3%A8%E9%87%8D%E5%9B%9E%E6%B0%91%E6%95%99%E8%82%B2%E5%87%8F%E6%94%B6%E5%9B%9E%E5%B1%A0%E6%8D%90%E7%A8%8E
+https://www.baidu.com/s?wd=%E6%B3%A8%E9%87%8D%E5%9B%9E%E6%B0%91%E6%95%99%E8%82%B2%E5%87%8F%E6%94%B6%E5%9B%9E%E5%B1%A0%E6%8D%90%E7%A8%8E
+
+## 三、抗战与近代中日关系文献数据平台（modernhistory.org.cn）书目/篇目接口检索
+# 接口：POST https://www.modernhistory.org.cn/backend-prod/esBook/findByPage （docType=total）
+# “回屠捐税”“屠捐税”“注重回民教育”“牛羊屠税”均 totalSize=0；
+# “屠捐”仅命中广东财政类公报（无关），“回屠”仅6条无关图书；全库无本条目，目录与全文皆无。
+https://www.modernhistory.org.cn/
+https://info.modernhistory.org.cn/home/introduction/
+
+## 四、《回族历史报刊文选》各卷目录核查（均无本条目）
+# 社会卷·公益慈善（完整目录；仅 p158 有相关但不同于本条的《牛羊屠税盈余办清真学校》，作者“正”）
+https://yslbook.com/books/e453f334-99ea-4208-9929-25460547a324
+https://mtoou.info/jueban/2060556.html
+# 教育卷（上）（完整目录；无“屠捐”相关篇目）
+https://mtoou.info/jueban/2060495.html
+https://www.newton.com.tw/wiki/%E5%9B%9E%E6%97%8F%E6%AD%B7%E5%8F%B2%E5%A0%B1%E5%88%8A%E6%96%87%E9%81%B8%C2%B7%E6%95%99%E8%82%B2%E5%8D%B7
+# 教育卷（下册）目录 / 各卷书目
+http://www.queshu.com/book/10863799/
+http://www.xlantai.com/e3537698.html
+# 社会卷·调查（上下）目录
+http://www.7dqq.com/e3390796.html
+http://www.xlantai.com/e3380275.html
+# 特刊卷·上 目录
+https://mtoou.info/jueban/2060547.html
+# 历史卷·第1册 目录
+https://mtoou.info/jueban/2019582.html
+# 经济卷 目录
+https://www.101bt.net/e3641584.html
+# 宗教卷·伊斯兰教研究 上 目录
+https://mtoou.info/jueban/2060546.html
+
+## 五、背景/相关史料（非本条原文，仅作语境参考，未采）
+# 民国回族教育经费（含捐税来源）研究提要（兰州大学学位论文）
+https://exa.ai/library/publication/h4myx0gb55w
+# 民国屠宰税法规背景（1950 政务院通令，非本条目原文）
+https://www.haolvshi.com.cn/flfgk/110199.html
+# 民国广东屠牛、牛皮捐税研究（主题相近但无关）
+http://www.51papers.com/lw/69/18/wz2307324.htm
+
+## 六、明确排除、未使用的来源（影子图书馆 / 侵权网盘，依硬性约束禁用）
+# Z-Library / z-lib / libgen / annas-archive 等一律未访问、未使用。

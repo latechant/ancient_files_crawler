@@ -1,0 +1,54 @@
+# P.T.1297/4 收割青稞雇工契 —— 连续释文（转写）
+# 文书编号：Pelliot tibétain 1297, piece 4（P.T.1297/4）
+# 定名：Contract for hiring a man to reap the harvest of a barley field（雇人收割青稞田之契约）
+# 原件收藏：法国国家图书馆（Bibliothèque nationale de France）
+# 释文来源：Old Tibetan Documents Online (OTDO)，Archives
+#   Wylie 转写页：https://otdo.aa-ken.jp/archives?p=Pt_1297_4
+#   藏文转写页：https://otdo.aa-ken.jp/tibetan/archives?p=Pt_1297_4
+# 抓取时间：2026-10-10
+# 说明：以下转写文本系 OTDO 已刊布之释文原样抄录，未作任何增补或臆改。
+#       方括号 [ ] 内为原件残损、由编者据他证补出之字；[---] 表示缺文。
+
+## 1. OTDO 著录信息（原样）
+Content : Contract for hiring a man to reap the harvest of a barley field.
+Note : Sheet. Badly damaged. Recto, 8 lines with 2 illegible round vermilion seals
+       and a finger-measure containing an inverted line at the bottom. Three additional
+       writings in vermilion are found below ll. 1, 8. Verso, covered with the back-up paper.
+       Cf. Takeuchi (1995: 153-154).
+References : Choix II (pl. 612), Takeuchi (1995: pl. 41).
+       Lalou (1939-1961: III, 5) [P.Translit.],
+       Wang and Chen (1988: 32 in Chinese, 64 in Tibetan) [I.Translit., I.Trans.],
+       Takeuchi (1995: 275-276) [I.Translit., I.Trans.],
+       Takeuchi (2016: 28-30, 300-302) [I.Translit., I.Trans.].
+
+## 2. 转写（Wylie，OTDO 原样）
+(1) $ / / [sta]g gi lo la / / dge slong cang he dz[e]ng gi [---] / [---]
+(2) [---] dge [slong cang] he dzeng la' / [stong] sar sde / / shi pyi shi' gyis / / nas zhing lhu bcu zhig brnga'
+(3) ba'i sla[-] [---] / ston dusu sla ra ba la zhing brnga' [---] thog nas brnga bar bgyis / dus der ma brngaste brngas te
+(4) [---] lo bgyiste bgyis te sha / [pyi] [---] [-rd] na / / 'phral gyi s thog lhu bchu brnga' ba'I yul thang dang sbyard nas ji tsham 'babs
+(5) ban [de] la stsald par bgyis / / phyi shi brgya' la rje blas gyis bskalde bskald de ma mchis par gyur na gong na smos pa bzhin du
+(6) m[ja-] [---] [']jal par byis / / pa'i dpang la / / ^Im lha legs dang / kvag stag [stsa]n dang
+(7) wang g.yu ston dang cang tshe tshe la stsogs pa'i [---] [dang shi] pyi shi smad kyis gyi sug rgya dang sug yig tshad kyis
+(8) [bta]b pas (inverted inverted)
+(ad1) stagi stag gi lo'i dpyid [---] khas len [byis?]
+(ad2) sug rgya dang sug yig tsha stag
+(ad3) [---] dze tse 'ba' wa [---] stag zha[-]
+
+## 3. 转写（藏文，OTDO 原样）
+(1) ༄༅༎ སྟག [sta]g གི་ལོ་ལ༎ དགེ་སློང་ཅང་ཧེ་ ཛེང dz[e]ng གི་ [---] ། [---]
+(2) [---] དགེ་ [ སློང་ཅང ] ཧེ་ཛེང་ལའ། [ སྟོང ] སར་སྡེ༎ ཤི་པྱི་ཤིའ་གྱིས༎ ནས་ཞིང་ལྷུ་བཅུ་ཞིག་བརྔའ་
+(3) བའི་ sla[-] [---] ། སྟོན་སླ་ར་བ་ལ་ཞིང་ཐོག་ནས་བརྔ་བར་བགྱིས། དུས་དེར་མ་ བརྔསྟེ་ བརྔས་ཏེ་
+(4) [---] ལོ་ བགྱིསྟེ་ བགྱིས་ཏེ་ ། [ པྱི ] [---] [-rd] ན༎ འཕྲལ་གྱི་ཐོག་ལྷུ་བཆུ་བརྔའ་བའྀ་ཡུལ་ཐང དང་སྦྱརད ནས་ཇི་ཚམ་འབབས་
+(5) བན་ [ དེ ] ལ་སྩལད་པར་བགྱིས༎ ཕྱི་ཤི་བརྒྱའ་ལ་རྗེ་བླས་གྱིས་ བསྐལྡེ་ བསྐལད་དེ་ མ་མཆིས་པར་གྱུར་ན་གོང་ན་སྨོས་པ་བཞིན་དུ་
+(6) m[ja-] [---] འཇལ [']jal པར་བྱིས༎ པའི་དཔང་ལ༎ ཨཱིམ་ལྷ་ལེགས་དང། ཀྭག་སྟག་ སྩན [stsa]n དང་
+(7) ཝང་གཡུ་སྟོན་དང་ཅང་ཚེ་ཚེ་ལ་སྩོགས་པའི་ [---] [ དང་ཤི ] པྱི་ཤི་སྨད་ཀྱིས་གྱི་སུག་རྒྱ་དང་སུག་ཡིག་ཚད་ཀྱིས་
+(8) བཏབ [bta]b པས (inverted ཤྀ་པྱྀ་ [ ཤྀའི ] སུག་ [ ཡིག ] ཚད (>inverted)
+(ad1) སྟགི་ སྟག་གི་ ལོའི་དཔྱིད་ [---] ཁས་ལེན་ [ བྱིས ?]
+(ad2) སུག་རྒྱ་དང་སུག་ཡིག་ཚ་སྟག་
+(ad3) [---] ཛེ་ཙེ་འབའ་ཝ་ [---] སྟག་ zha[-]
+
+## 4. 汉译出处（未取得全文，仅列书目，供后续获取）
+- 王尧、陈践《敦煌吐蕃文书论文集》，四川民族出版社，1988年。P.T.1297/4收割青稞雇工契，汉译见第31页（藏文释文见第64页）。
+- 王尧、陈践《敦煌古藏文文献探索集》，上海古籍出版社，2008年。目录第“七 P.T.1297/4 收割青稞雇工契”。
+- 王尧《敦煌吐蕃文书P.T.1297号再释——兼谈敦煌地区佛教寺院在缓和社会矛盾中的作用》，《中国藏学》1998年。
+- Takeuchi Tsuguhito（武内绍人）, Old Tibetan Contracts from Central Asia, 1995, pp.275-276.

@@ -1,0 +1,42 @@
+# 来源网址清单（序号 10352 《人类》）
+# 归档日期：2026-10-10
+# 说明：题名过短（仅"人类"二字）且出版方"不详"，以下为本次检索所访问/尝试的来源。
+
+## 一、本条目所在清单（元数据）
+file:///C:/Users/13368/Desktop/TeamMotivation/ancient_files_crawler/韦广波/韦广波爬虫自查结果.xlsx
+（工作表"书目清单"，第551行：韦广波 | 10352 | 《人类》 | 小组编号17 | 组内编号1 | 爬取网址=无 | 是否爬取成果=否 | 出版社=不详 | 出版版别=不详 | 备注=未找到）
+
+## 二、抗战文献数据平台（modernhistory.org.cn）检索接口（已实测可用）
+POST https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+  参数示例：{"docType":"ts","firstFieldName":"title","firstFieldValue":"人类","pageSize":50,"currentPage":1,...}
+  分别对 docType = ts(图书) / qk(期刊) / bz(报纸) / da(档案) / tp(图片) / yp(音频) / sp(视频)
+  以 firstFieldValue = 人类 及 人類 精确检索：
+    - 图书(ts) total=137（均为"人类XX"模糊命中，无一题名恰为"人类"）
+    - 期刊(qk) total=2（仅《国立中央研究院历史语言研究所人类学集刊》）
+    - 报纸(bz)/档案(da)/图片(tp)/音频(yp)/视频(sp) total=0
+  Human total=0
+首页（docType 定义来源，见页内 JS config / docTypeList）
+  https://www.modernhistory.org.cn/
+
+## 三、其他公共书目/全文库（检索或尝试）
+https://book.douban.com/subject/1084604/          # 房龙《人类的故事》
+https://book.douban.com/subject/5910896/
+https://book.kongfz.com/12217/7898276499/         # 孔夫子：林惠祥《文化人类学》商务1934
+https://book.kongfz.com/568234/8054485539/        # 孔夫子：《人类理解研究》商务1936
+https://book.kongfz.com/18380/8285986064/         # 孔夫子：《人类进化观》泰东1921
+https://www.zhonghuadiancang.com/waiguomingzhu/16932/   # 《人类的由来》
+https://cave17.e-dunhuang.com/item/FRA.BNF.Pel@1297@WX.Bo.html  # 数字藏经洞 P.t.1297（核清单同源条目风格）
+https://zh.wikisource.org/w/api.php?action=query&list=search&srsearch=人类   # 维基文库检索，无题名恰为《人类》者
+https://www.shidianguji.com/search?q=人类          # 识典古籍（SPA，未见对应条目）
+https://archive.org/advancedsearch.php?q=title:(人类)   # 网络不可达（连接超时）
+https://catalog.hathitrust.org/Search/Home         # 网络不可达（连接超时）
+http://opac.nlc.cn/F?func=find-b&find_code=WTP&request=人类   # 国家图书馆OPAC，连接超时(000)
+https://find.nlc.cn/search/doSearch?query=人类      # 文津搜索，连接超时(000)
+https://cadal.edu.cn/search?query=人类             # CADAL，302跳转/需登录
+https://book.duxiu.com/search?sw=人类              # 读秀，302跳转/需登录
+http://www.ucdrs.superlib.net/search?...           # 全国图书馆参考咨询联盟，404
+https://www.ncpssd.org/                            # 国家哲学社会科学文献中心（无公开检索接口命中）
+
+## 四、检索用工具
+Cherry web_search（多组中文查询：精确题名"《人类》"、民国图书、期刊篇名、藏文/吐蕃等）
+curl / requests（Bash，UTF-8）

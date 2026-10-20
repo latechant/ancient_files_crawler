@@ -1,0 +1,34 @@
+条目编号：5740
+条目题名：行书屏
+归档日期：2026-10-10
+
+一、主来源（著录文字 + 作品图版）
+  国立故宫博物院（台北）数字典藏 — 清陳奕禧行書十二屏　軸
+  藏品详情页：https://digitalarchive.npm.gov.tw/Collection/Detail/19207?dep=P
+  详情页(另一域名)：https://digitalarchive.npm.gov.tw/Collection/Detail?id=19207&dep=P
+  IIIF Manifest：https://digitalarchive.npm.gov.tw/Integrate/GetJson?cid=19207&dept=P
+  IIIF 图档服务（本次环境不可达，HTTP=000）：https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000370N000000001PAA/info.json
+  图档下载接口（本次实际使用，12 幅全屏）：
+    https://digitalarchive.npm.gov.tw/Image/GetImage?imageId=<id>&randomCode=<code>
+    imageId=432140 第01屏；432144 第02屏；432148 第03屏；432152 第04屏；432156 第05屏；
+    432160 第06屏；432164 第07屏；432168 第08屏；432172 第09屏；432176 第10屏；
+    432180 第11屏；432184 第12屏。
+  （每屏另有 PAB/PAC/PAD 三幅局部图，共 48 个 IIIF canvas；本目录仅取每屏 PAA 全屏图。）
+
+二、检索/佐证来源（用于判定"行书屏"为泛称）
+  1. 故宫博物院（北京）郑燮行书诗轴
+     https://www.dpm.org.cn/collection/handwriting/234254.html
+  2. 故宫博物院（北京）陈邦彦行书七绝诗轴
+     https://www.dpm.org.cn/collection/handwriting/229005.html
+  3. 故宫博物院（北京）王铎行书临帖轴
+     https://www.dpm.org.cn/collection/handwriting/231320.html
+  4. 国立故宫博物院（台北）清郭尚先行草四屏　軸
+     https://digitalarchive.npm.gov.tw/Collection/Detail/27228?dep=P
+  5. 浙江省博物馆藏 行书屏四幅（李宗翰、吴锡麒、陈希祖等）
+     https://www.32196.com/scp/shuhua/beitiejianshang/201512/123773.html
+  6. 上海博物馆藏 伊秉绶《行书节临唐宋人书四条屏》
+     https://www.shufawang.cn/mbzp/d7698ab826758662b5f4d57db646047f.html
+
+三、说明
+  未使用任何影子图书馆（z-library / libgen / annas-archive 等）来源。
+  所有来源均为博物馆官方站点或公开书法资料站点。

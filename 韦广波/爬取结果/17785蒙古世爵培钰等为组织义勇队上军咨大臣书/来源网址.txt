@@ -1,0 +1,31 @@
+条目：17785《蒙古世爵培钰等为组织义勇队上军咨大臣书》
+检索日期：2026-10-12
+说明：本件原文/片段/影像均未取得（ok=false）。以下为本次实际访问/检索过的网址。
+
+【搜索引擎（题名精确检索 + 核心词检索）】
+https://cn.bing.com/search?q=%E8%92%99%E5%8F%A4%E4%B8%96%E7%88%B5%E5%9F%B9%E9%92%B0%E7%AD%89%E4%B8%BA%E7%BB%84%E7%BB%87%E4%B9%89%E5%8B%87%E9%98%9F%E4%B8%8A%E5%86%9B%E5%92%A8%E5%A4%A7%E8%87%A3%E4%B9%A6
+https://m.baidu.com/s?word=%E8%92%99%E5%8F%A4%E4%B8%96%E7%88%B5%E5%9F%B9%E9%92%B0%E7%AD%89%E4%B8%BA%E7%BB%84%E7%BB%87%E4%B9%89%E5%8B%87%E9%98%9F%E4%B8%8A%E5%86%9B%E5%92%A8%E5%A4%A7%E8%87%A3%E4%B9%A6
+https://www.baidu.com/s?wd=%E5%9F%B9%E9%92%B0+%E4%B9%89%E5%8B%87%E9%98%9F+%E5%86%9B%E5%92%A8
+https://www.so.com/s?q=%E8%92%99%E5%8F%A4%E4%B8%96%E7%88%B5+%E5%9F%B9%E9%92%B0+%E4%B9%89%E5%8B%87%E9%98%9F
+https://www.sogou.com/web?query=%E8%92%99%E5%8F%A4%E4%B8%96%E7%88%B5%E5%9F%B9%E9%92%B0%E7%AD%89%E4%B8%BA%E7%BB%84%E7%BB%87%E4%B9%89%E5%8B%87%E9%98%9F%E4%B8%8A%E5%86%9B%E5%92%A8%E5%A4%A7%E8%87%A3%E4%B9%A6
+（Baidu 桌面版/搜狗/Yandex 返回反爬页或无响应；Bing 与 360 仅有通用/背景结果，无本件）
+
+【专题数据库/文献平台】
+抗战文献数据平台：https://www.modernhistory.org.cn/backend-prod/esBook/findByPage （POST keyword=培钰/义勇队/军咨大臣/蒙古世爵，均无本件）
+中国第一历史档案馆：https://fhac.com.cn/ess/fulltext.html ；https://fhac.com.cn/search_fulltext.html （匿名全文检索返回“没有搜索到数据”，目录检索需登录）
+全国图书馆参考咨询联盟/读秀：http://book.ucdrs.superlib.net/search?... （跳转登录，无法匿名查全文）
+汉籍/维基文库（含《宣统政纪》全文）：https://zh.wikisource.org/w/api.php （insource:"培钰" 仅命中今人判决书；insource:"义勇队" insource:"军咨" 命中 0，故《宣统政纪》无本件）
+国家图书馆文津搜索：http://find.nlc.cn/ （检索接口不可匿名调用）
+识典古籍：https://www.shidianguji.com/search （纯前端 SPA，无公开检索接口）
+万方：https://s.wanfangdata.com.cn/paper?q=... （SPA，未获结果）
+国学大师：https://www.guoxuedashi.net/
+掌桥科研：https://www.zhangqiaokeyan.com/
+
+【未能访问（网络不可达/被拒）】
+https://archive.org （Internet Archive，连接超时）
+https://www.google.com ；https://books.google.com ；https://ctext.org （被阻断）
+
+【仅检索到“转述/背景”类内容（非本件原文，供备查）】
+https://zh.wikipedia.org/wiki/%E8%B2%A2%E6%A1%91%E8%AB%BE%E7%88%BE%E5%B8%83
+http://www.abslw.com/22/abs2523522.html （《清末在京蒙古王公政治团体及其主要活动研究》摘要）
+https://www.wangyefu.cn/zhuanji/203/

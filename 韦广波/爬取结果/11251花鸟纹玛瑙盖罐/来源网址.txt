@@ -1,0 +1,44 @@
+# 来源网址清单（条目 11251 《花鸟纹玛瑙盖罐》）
+# 归档日期：2026-10-10
+# 结论：ok=false（泛称文物名；存在≥2件同类器物，不能唯一对应；无公开权威著录与可下载图版）
+
+## 一、原登记爬取网址
+（无）——原书目清单“爬取网址”栏为“无”（出版社“不详”）。
+
+## 二、精确检索 / 通用检索（题名与核心词）
+# 检索式示例：“花鸟纹玛瑙盖罐”“镂雕花鸟纹玛瑙盖罐”“玛瑙盖罐 花鸟纹 清代 馆藏”“玛瑙 盖罐 花鸟 故宫博物院”等
+https://www.sina.cn/weibo/detail/5352446365797034.html        # 候选A：江西省博物馆官方微博（清·镂雕花鸟纹玛瑙盖罐）
+https://www.huitu.com/photo/show/20230305/173501292235.html   # 候选A 图片素材（汇图网，付费，非公开图版）
+https://www.huitu.com/photo/show/20230305/173501292236.html   # 候选A 图片素材（汇图网，付费，非公开图版）
+
+## 三、候选器件来源
+# 候选B：西藏博物馆“明清瓷器/玉器精品展”观众相册中“133 花鸟纹玛瑙盖罐 清.jpg”
+https://limkiwi22.pixnet.net/albums/304243938
+# 候选B：古董博客“玉泽藏地”板块藏品列表（列“花鸟纹玛瑙盖罐”）
+https://www.antiquekeeper.ca/?p=110067
+
+## 四、权威馆藏公开页核查（故宫 / 台北故宫 / 国博 / 公共典藏）
+# 故宫博物院官网（在线藏品检索：玛瑙器为花插类，无玛瑙花鸟纹盖罐）
+https://www.dpm.org.cn/
+https://www.dpm.org.cn/collection/jade/249573.html            # 翠雕花鸟纹花插（旁证：故宫花鸟纹器为花插，非盖罐）
+https://www.dpm.org.cn/collection/jade/232475.html            # 红白玛瑙蝙蝠桃树花插（旁证：故宫玛瑙器为花插）
+# 台北故宫数字典藏（“青花花鸟纹盖罐”为瓷器，非玛瑙）
+https://digitalarchive.npm.gov.tw/Collection/Detail/22662?dep=U
+# 江西省博物馆官网（SPA；数据接口 /api/queryArchivesList 需 AES 动态 token，脚本请求返回 401，未取到藏品详情页）
+https://www.jxmuseum.cn/
+https://www.jxmuseum.cn/api/
+# 纽约大都会博物馆（同名英译器物为青花瓷器，非玛瑙）
+https://www.metmuseum.org/art/collection/search/46008
+# 剑桥菲茨威廉博物馆（Jar OC.10 & A-1938，青花瓷器，非玛瑙）
+https://data.fitzmuseum.cam.ac.uk/id/object/99077
+
+## 五、背景 / 佐证（非本条唯一对应著录）
+# 官方“江西博物馆十大镇馆之宝”名单（不含本器；佐证候选A“镇馆之宝”系民间说法）
+https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/j3u3t6/stories/WS648449e4a310dbde06d22c8b.html
+# 游记将其列为“镇馆之宝：清·镂雕花鸟纹玛瑙盖罐”（民间来源）
+https://www.meipian.cn/3us0rkf8
+# 西藏博物馆瓷珍特展报道（背景，未提玛瑙盖罐）
+http://www.ctibet.org.cn/xzwh/201404/t20140402_2262240.htm
+
+## 六、明确排除、未使用的来源（影子图书馆 / 侵权网盘，依硬性约束禁用）
+# z-library / z-lib / libgen / annas-archive 等一律未访问、未使用。

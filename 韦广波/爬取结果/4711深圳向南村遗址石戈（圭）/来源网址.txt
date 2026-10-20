@@ -1,0 +1,57 @@
+# 4711 深圳向南村遗址石戈（圭） —— 来源网址（归档日期 2026-10-10，UTF-8）
+
+== 一、母项题录与付费聚合站（仅题录/首段，未取得全文） ==
+1. https://www.ppdoc.com/periodical/93a81a555a8a878d481141867c29acc0.html
+   皮皮文库：《深圳市南山向南村遗址的发掘》，来源标注“考古”，仅开放首段+英文摘要，下载需VIP。（抓取返回502）
+2. https://jxxfw.com/periodical/93a81a555a8a878d481141867c29acc0.html
+   信丰网（镜像站点）：同文，仅开放首段+英文摘要，下载需VIP。
+
+== 二、母项版本学信息（确定刊名/年期/页码） ==
+3. http://www.queshu.com/book/15043549/
+   缺书网：《广东文物考古三十年》（广东省文物局 等编，暨南大学出版社，2009.8，608页，ISBN 9787811352177）目录，其中有《深圳市南山向南村遗址的发掘》。
+4. https://www.sinoss.net/uploadfile/2013/0415/20130415021806478.pdf
+   段天璟《珠江三角洲二里头文化时期遗存的辨识与性质》（《边疆考古研究》第12辑），注释[41]完整给出母项出处：深圳市文管会办公室、深圳市博物馆、南山区文管会办公室《深圳市南山向南村遗址的发掘》，《考古》1997（6）。
+5. https://hk.crntt.com/crn-webapp/cbspub/secDetail.jsp?bookid=21327&secid=21477
+   朱非素《试论石峡遗址与珠江三角洲古文化的关系》，注释[25]亦引《深圳市南山向南村遗址的发掘》，《考古》1997年6期。
+
+== 三、博物馆官网藏品库（已查，无本条器物） ==
+6. https://www.shenzhenmuseum.com/collection
+   深圳博物馆“藏品总目”。
+7. https://www.shenzhenmuseum.com/webCollection/list1?lmType=L0304&pageNo=1&pageSize=500&platform=0&classCode=C010103&isAll=1
+   深圳博物馆藏品接口：深圳历史文化 272 件，石器仅见 石锛/石斧/石凿/石箭镞/石拍/刻槽石器 等，无“石戈”“圭”“向南村”字样。
+8. https://www.shenzhenmuseum.com/webCollection/list1?lmType=L0303&pageNo=1&pageSize=2000&platform=0&isAll=1
+   深圳博物馆藏品接口：古代艺术 250 件，仅见铜戈（夔龙纹铜戈、“八年阳城令”铜戈），无向南村石戈。
+9. https://www.nanshanmuseum.com/
+   南山博物馆官网，线上典藏类目为 珐琅/铁器/钱币/陶瓷/竹木器/铜器/书画/杂项，无石器类，未收录向南村石器。
+
+== 四、地方志/文博公开资料（含“戈”的间接记述，非正文） ==
+10. http://szbaike.com/humanity/relic/ruins/2023-05-22/6141.html
+    深圳百科转《南山掌故》（周保民）：向南村遗址“出土石器64件……器类有锛、戈、镞、环、网坠、杵等”。
+11. https://travel.shenchuang.com/20190813/1500893.shtml
+    深圳之窗：向南村遗址“石器有锛、戈、镞、环、网坠等，其中有双肩、有段石器”。
+12. http://www.tcmap.com.cn/landscape/86/xiangnancunyizhi.html
+    中国旅游地图网：同上表述。
+13. https://www.szns.gov.cn/mlns/whns/nsgs/content/post_12587909.html
+    深圳市南山区政府《先民遗足》：向南村遗址1996年发掘，出土石器64件、骨器12件。
+14. https://ep.ycwb.com/epaper/ycwb/h5/html5/2025-06/27/content_2983_713910.htm
+    羊城晚报（刘锁强《何以岭南》）：论及“商代早中期……石戈在岭南发现的数量更多”，系石戈礼器背景，非本条目原文。
+15. http://wwj.wlt.fujian.gov.cn/wwzy/bmww/202312/t20231212_6329934.htm
+    福建省文物局《八闽文物·商代石器》：他馆商代石戈著录样例（用于比对“石戈著录”体例）。
+16. https://pssxiv.cn/abs/202609.02748
+    郭静云《商文明铜戈的器型来源与功能演化》：论“戈”“圭”同源，可解释本条“(圭)”异名的来源背景。
+
+== 五、经检索但无结果 / 受限 ==
+17. https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=向南村 深圳 —— totalhits=0
+18. zh.wikipedia.org 检索“向南村遗址” —— 无对应条目
+19. cn.bing.com 精确检索“深圳向南村遗址石戈/南山向南村遗址石戈” —— 无匹配
+20. 百度学术、道客巴巴检索 —— 无该报告全文
+
+== 六、受硬性约束排除（影子图书馆，未使用、未下载） ==
+- https://lexlib.fi/book/DkMVZlDZ9v/《广东文物考古三十年》 （z-lib 系镜像，禁用）
+- https://lexlib.fi/book/xkQlqAqvWZ/《深圳7000年 深圳出土文物图录》 （z-lib 系镜像，禁用）
+- www.7dqq.com、www.xlantai.com 等网盘/电子书下载页（提供上述书的影子图书馆下载，禁用）
+
+## 六、【人工下载补充 · 2026-10-13】本次取得正文的来源
+# 由韦广波本人以机构账号登录中国知网(CNKI) https://www.cnki.net/ 手动检索并下载 PDF。
+# 入库文件：深圳市南山向南村遗址的发掘_叶杨.pdf（14 页（正文10页 + 图版4页），4,082,600 字节）
+# 页面水印含 (C)1994-20xx China Academic Journal Electronic Publishing House，为 CNKI 导出件特征。

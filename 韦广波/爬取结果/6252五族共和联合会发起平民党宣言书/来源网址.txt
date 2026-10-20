@@ -1,0 +1,29 @@
+# 条目 6252《五族共和联合会发起平民党宣言书》——实际使用/尝试的 URL（逐行）
+# 说明：本机为中国大陆网络环境。判定为该宣言书正文仅存于纸本/扫描期刊（《北京档案史料》），无可免费取得的合法全文。
+
+## 方法1 直接题名检索（搜索引擎 / 通用检索工具）
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage   （POST：keyword="平民党" → totalSize=7；"五族共和联合会" → 3；"平民党宣言书" → 0；"五族共和联合会发起平民党" → 0；"促进种族同化" → 0。该库仅篇目/目录级检索，无本题）
+
+## 方法2 母项追溯（本题的关键线索，题录已精确命中）
+https://zjsh.cbpt.cnki.net/portal/journal/portal/client/paper/4fff6f03eb64a71da08473b58c0a551c
+   （黄兴涛《现代“中华民族”观念形成的历史考察》，载《浙江社会科学》2002年第1期；其注文明确：北京市档案馆藏有该档案原件，见“刘苏选编《五大民族共和联合会章程》及《平民党宣言书暨暂行章程》，载《北京档案史料》1992年第1期和第3期”）
+https://xnzs.cbpt.cnki.net/portal/journal/portal/client/paper/f02e2aba1feb93a30e159ce9b6d398b5
+   （郑大华《论20世纪20年代国家主义者的“大中华民族”观》，载《西南民族大学学报》2021年第8期；参考文献第[18]条：“平民党宣言书暨暂行章程[J].北京档案史料,1992(3)”）
+https://www.qb5.io/xs-171128/du-18.html
+   （黄兴涛《重塑中华：近代中国中华民族观念研究》第二章“五族共和论”；记五大民族共和联合会（即五族共和联合会）1913年6月29日发起成立平民党，党纲第一条“促进种族同化”）
+https://www.fx361.com/page/2011/1123/4526746.shtml
+https://www.ppdoc.com/periodical/b7693f0b660e6c05163e7a4a2c17f487.html
+   （《北京档案史料》2011年第3辑《辛亥革命后的北京》内容概要：该书重印民初政团原始档案，明确含“平民党”及“五大民族共和联合会”的章程、名册与京师警察厅记录）
+https://www.wenxian.cc/post-2677.html
+   （《北京档案史料》59册扫描PDF书目，均为付费/需登录；1992年各期不在列，更难得）
+http://hrczh.cass.cn/sxqy/zl/202502/t20250228_5852198.shtml   （俞祖华《清末民国时期中华民族大家庭观念的发展》，相关背景）
+
+## 方法3 公开来源排查（均无本题正文）
+https://babel.hathitrust.org/   （HathiTrust 全文检索：无结果/受限）
+https://archive.org/advancedsearch.php?q=五族共和联合会   （Internet Archive：无结果）
+https://www.googleapis.com/books/v1/volumes?q=五族共和联合会   （Google Books API：无返回/配额受限）
+https://cadal.edu.cn/   （CADAL：检索需登录）
+http://www.ucdrs.superlib.net/   （全国图书馆参考咨询联盟：需登录）
+https://www.cnbksy.com/   （全国报刊索引：HTTP 412 反爬/需登录）
+http://find.nlc.cn/   （国家图书馆·文津搜索：逐项核过，无以此题名立目的民国单行本）
+https://taofangshou.com/product/70.html   （1992年《北京档案史料》第1期探微，仅营销文案，无正文）

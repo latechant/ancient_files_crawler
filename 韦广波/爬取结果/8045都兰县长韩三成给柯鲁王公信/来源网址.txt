@@ -1,0 +1,28 @@
+2026-10-10  编号8045《都兰县长韩三成给柯鲁王公信》检索来源网址清单
+
+一、目标件原文检索（题名/核心词，均未命中该件连续原文）
+（web_search，多组精确词：都兰县长韩三成 / 柯鲁王公 / 都兰 柯鲁沟 韩三成 信 等，无公开原文）
+https://www.qinghai.gov.cn/dmqh/system/2016/01/18/010198187.shtml   《青海民国时期文档选要——刘平收藏书札要录》出版报道（民国青海信札，1932—1936），疑与本件同类，未见目录内容
+
+二、"柯鲁王公"身份核实（柯鲁沟旗札萨克世系）
+https://zh.wikipedia.org/wiki/%E5%92%8C%E7%A2%A9%E7%89%B9%E5%8C%97%E5%B7%A6%E7%BF%BC%E6%97%97   和硕特北左翼旗（俗称柯鲁沟贝子旗），末任札萨克郡王索诺木旺济勒（1929—1949任，1960病故）
+https://zhwk.kkwiki.win/wiki/%E5%92%8C%E7%A2%A9%E7%89%B9%E5%8C%97%E5%8F%B3%E6%9C%AB%E6%97%97   和硕特北右末旗（俗称柯鲁沟札萨旗），索南丹主（卒1936）、阿格雅（1938—）
+https://zh.wikisource.org/zh-hans/%E6%B8%85%E5%8F%B2%E7%A8%BF/%E5%8D%B7211   清史稿·藩部世表三（青海和硕特各旗世系原始依据）
+https://baike.so.com/doc/8780741-9104790.html   和硕特北左翼旗（360百科）
+https://www.sohu.com/a/323397514_508040   青海蒙古族柴达木八旗由来（含柯鲁沟旗王公世系）
+http://www.delingha.gov.cn/info/1472/61238.htm   柯鲁柯镇政府（柯鲁沟扎萨旗驻牧地今德令哈市柯鲁柯镇）
+
+三、都兰县沿革与历任县长背景
+https://www.thepaper.cn/newsDetail_forward_30552389   国博馆刊：1929年都兰县治考察（首任县长王振纲、次任梁炳麟）
+https://haixi.gov.cn/mlhx/xsjj/dlx.htm   都兰县历史沿革（海西州政府）
+https://mtoou.info/jueban/1667750.html   《青海省民国时期县长名录》（青海省档案馆编，1987）目录预览，含都兰县部分
+
+四、档案目录类检索（疑为著录来源）
+https://book.douban.com/subject/1314578/   青海省档案馆所存西藏和藏事档案史料目录(1724-1949)，中国藏学出版社2002
+https://www.dushu.com/book/10391361/   同上
+
+五、同名"韩三成"史料（马家军骑兵旅长，非都兰县长）
+https://houhaiwang.com/library/chapter/24755/44.html   《西北马家军阀史》第44章：1937年高台战役"马彪、马朴、韩起禄、韩三成四个骑兵旅"
+https://www.jiuquan.cc/77502.html   中国工农红军西路军纪念馆（同载"韩三成4个骑兵旅"）
+
+检索工具：Cherry web_search；本地 fetch_text.py / curl（modernhistory.org.cn 需鉴权返回401；Google Books API、Internet Archive、CADAL、Bing/Baidu/DuckDuckGo 经 curl 不可用或被拦截）。

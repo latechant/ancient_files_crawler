@@ -3,3 +3,20 @@ http://www.tibetology.ac.cn/2023-11/03/content_42579485.htm
 http://m.tibet.cn/cn/religion/201801/t20180125_5398923.html
 https://www.cntangka.com/article.php?id=933
 https://zh.wikipedia.org/wiki/释迦也失
+
+# ── 以下为 2026-10-10 核查本轮实际访问/尝试的 URL ──
+# 中国西藏网（含图版，缂丝唐卡）
+http://media.tibet.cn/09zcfj/zjys/201404/t20140404_1986345.htm
+http://media.tibet.cn/09zcfj/zcyyj/yj/201405/t20140521_1996760.htm
+http://www.tibet.cn/cn/cloud/xszqkk/zgxz/2010/3/201712/t20171219_5276356.html
+# 中国西藏新闻网（缂丝唐卡，转自《中国西藏》2010年第3期）
+https://www.xzxw.com/lyrw/2015-03/21/content_1288023.html
+# 河南博物院 2011“圣地西藏”展精品文物：大慈法王唐卡（刺绣，161×108cm，西藏博物馆藏）
+https://www.chnmus.net/zt/sdxz/template/home/chnmus/temp/2011tibetinha/show.jsp@mid=20110708332335.htm
+# 故宫博物院藏品说明（“唐卡亦称布画”定义；非本条实物，仅用于门类辨析）
+https://www.dpm.org.cn/collection/religion/230988.html
+# Wikimedia Commons 检索（“大慈法王”图片检索，无结果）
+https://commons.wikimedia.org/w/index.php?search=%E5%A4%A7%E6%85%88%E6%B3%95%E7%8E%8B&title=Special:MediaSearch&type=image
+
+# 检索结论：未发现“布画（彩绘布本/绢本）大慈法王释迦益西唐卡”实物或其公开著录；
+# 现存同类实物均为缂丝（罗布林卡藏，109×64cm）或刺绣（西藏博物馆藏，161×108cm），非布画。

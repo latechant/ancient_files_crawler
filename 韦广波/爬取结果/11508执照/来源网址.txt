@@ -1,0 +1,60 @@
+# 来源网址清单（条目 11508 《执照》）
+# 归档日期：2026-10-10
+# 结论：ok=false（题名为通用文书类名，无法唯一对应；未取得与本条目明确对应的连续正文）
+
+## 一、原登记信息
+（无）——原书目清单"爬取网址"栏为"无"，"模拟人工爬取"栏为空。
+
+## 二、抗战文献数据平台（modernhistory.org.cn）篇目/书目接口检索
+# 接口：POST https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+# firstFieldName=title, firstFieldValue=执照 → totalSize=3，均非独立篇目，为"含执照"之章程；
+# keyword=执照（ts/qk/da 等）→ 皆为政报/法令汇编/公报，无题为《执照》者。
+https://www.modernhistory.org.cn/
+# 命中示例（均非《执照》独立条目）：
+https://www.modernhistory.org.cn/  # id 209229/209283《上海公共租界发给各项执照章程》；id 199197《谘议局章程 附选举章程 选举投票权 当选执照格式》
+
+## 三、国家图书馆 OPAC（题名检索，未获对应条目）
+http://opac.nlc.cn/F?func=find-b&find_code=WTP&request=%E6%89%A7%E7%85%A7&local_base=NLC01
+
+## 四、同名/近名"执照"文书候选（分属不同汇编/全宗/藏馆，均非本条）
+# 《容美土司史料汇编》目录含"兵部执照"（湖北容美土司，清）
+https://mtoou.info/jueban/1599633.html
+# 甘肃卓尼土司：洮州着逊簇世袭指挥副千户衙门《执照》（民国23年，兵马田地）
+http://www.zhuoni.gov.cn/info/1155/34759.htm
+# 《西藏社会历史藏文档案资料译文集》目录（含"……颁发之执照""封文执照""免差执照"等）
+https://mtoou.info/jueban/665252.html
+# 贵州《清水江文书》"执照"再探（土地管业/纳粮/验枪/吸户/禁烟/捐票/纳户/屠宰税/陆军部/选民执照）
+https://www.lw33.cn/article/17019fc0bc0b2b077e3addb9.html
+# 《卫藏通志》卷十二（"执照/照票/执票/免役执照/通行护照"制度）
+https://www.shidianguji.com/book/CADAL02085546/chapter/1lb93q9pqipl6
+# 《钦定藏内善后章程》（"发给执照/免役执照"等条文，维基文库）
+https://zh.wikisource.org/zh-hans/%E6%AC%BD%E5%AE%9A%E8%97%8F%E5%85%A7%E5%96%84%E5%BE%8C%E7%AB%A0%E7%A8%8B
+# 歙县博物馆"吏部执照"（徽商）
+https://exa.ai/library/publication/b0s1vgzznj4
+# 扬州博物馆盐商李桓芳"执照"（光绪十一年）
+https://exa.ai/library/publication/y34lrjjcppm
+# 福建南安《土地管业执照》（民国34年）
+http://www.ydxx.net/show/209/1862.html
+# 民国"持枪执照"（河北无极县，民国十四年）
+https://www.ppdoc.com/periodical/de20524cc1ed13829ce5aeab4b01b1d3.html
+
+## 五、档案/汇编目录（用于比对，非本条原文）
+# 《清代西藏地方档案文献选编》（全8册）简介
+http://www.tibetology.ac.cn/2021-11/12/content_41706853.htm
+# 中国第一历史档案馆所存西藏和藏事档案目录（满藏文部分）
+https://www.dushu.com/book/11317258/
+# 全国各地档案馆所藏清代档案基本情况调查报告（含执照、度牒、契约等类）
+http://iqh.ruc.edu.cn/old/qdshsyj/glygs/ff68a2d80ff844519a5bb210dfe5f163.htm
+
+## 六、本环境不可达 / 被拦截的补充来源（未能用于核对）
+# 维基文库 API：连接超时（ReadTimeout）
+https://zh.wikisource.org/w/api.php?action=query&list=search&srsearch=%E6%89%A7%E7%85%A7&format=json
+# 中国哲学书电子化计划（ctext）：连接超时
+https://ctext.org/searchbooks.pl?if=gb&searchu=%E6%89%A7%E7%85%A7
+# Internet Archive advancedsearch：连接超时
+https://archive.org/advancedsearch.php?q=title%3A%28%E6%89%A7%E7%85%A7%29&output=json
+# 识典古籍站内检索接口：403 Blocked by ArgusSecurityPlugin
+https://www.shidianguji.com/
+
+## 七、明确排除、未使用的来源（影子图书馆 / 侵权来源，依硬性约束禁用）
+# Z-Library / z-lib / libgen / annas-archive 等一律未访问、未使用。

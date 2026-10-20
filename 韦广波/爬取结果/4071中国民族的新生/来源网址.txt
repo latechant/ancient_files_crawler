@@ -1,0 +1,60 @@
+# 4071 《中国民族的新生》 检索/尝试使用过的网址（逐行）
+# 归档日期：2026-10-10
+
+## 一、题名直接检索（方法1）
+https://www.googleapis.com/books/v1/volumes?q=intitle:中国民族的新生
+https://www.googleapis.com/books/v1/volumes?q="中国民族的新生"
+https://openlibrary.org/search.json?q=中国民族的新生&limit=10
+https://openlibrary.org/search.json?q=中國民族&limit=20
+https://archive.org/advancedsearch.php?q=title:(中国民族)&output=json
+https://archive.org/services/search/v1/scrape?q=title:(中国民族)&fields=identifier,title,year&count=100
+https://ndlsearch.ndl.go.jp/api/opensearch?title=中国民族の新生&cnt=20
+https://ndlsearch.ndl.go.jp/api/opensearch?title=民族の新生&cnt=20
+https://zh.wikisource.org/w/api.php?action=query&list=search&srsearch=中国民族的新生
+https://zh.wikipedia.org/w/api.php?action=query&list=search&srsearch=中国民族的新生
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch="中國民族的新生"&srnamespace=6
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch="中国民族的新生"&srnamespace=6
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=中國民族的新生%20insource:新生&srnamespace=6
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=intitle:民族%20intitle:新生&srnamespace=6
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=intitle:新生%20intitle:中國&srnamespace=6
+
+## 二、母项追溯 / 权威馆藏目录（方法2）
+# 中国国家图书馆 读者云门户（民国图书 searchType=24）
+http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=1&searchWord=中国民族的新生
+http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=1&searchWord=中国民族
+http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=1&searchWord=新生
+http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=2&searchWord=新生
+http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=3&searchWord=新生
+http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=1&searchWord=中华民族的新生
+# 中国国家图书馆 电子图书（searchType=1）/ 民国文献（searchType=47）
+http://read.nlc.cn/allSearch/searchList?searchType=1&showType=1&pageNo=1&searchWord=中国民族的新生
+http://read.nlc.cn/allSearch/searchList?searchType=1&showType=1&pageNo=1&searchWord=中华民族的新生
+http://read.nlc.cn/allSearch/searchList?searchType=47&showType=1&pageNo=1&searchWord=中国民族的新生
+http://read.nlc.cn/allSearch/searchList?searchType=47&showType=1&pageNo=1&searchWord=中华民族的新生
+# 抗战与近代中日关系文献数据平台（含民国图书/期刊全文检索 API）
+https://www.modernhistory.org.cn/backend-prod/esBook/findIndexData?keyword=中国民族的新生&currentPage=1&pageSize=20&docType=total
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage   (POST, docType=ts / total)
+# 台湾国家图书馆联合目录（已迁移）
+https://nbinet3.ncl.edu.tw/search~S1*cht?/X中國民族的新生
+https://nbinet.primo.exlibrisgroup.com/primaws/rest/pub/pnxs?q=any,contains,中國民族的新生
+
+## 三、搜索引擎与网络（多语种）
+https://www.bing.com/search?q="中国民族的新生"&setlang=zh-CN
+https://www.baidu.com/s?wd="中国民族的新生"
+https://www.sogou.com/web?query="中国民族的新生"
+https://www.so.com/s?q="中国民族的新生"
+https://html.duckduckgo.com/html/?q="中国民族的新生"
+https://lite.duckduckgo.com/lite/?q="中国民族的新生"
+https://xueshu.baidu.com/s?wd=中国民族的新生
+https://www.google.com/search?q="中国民族的新生"&tbm=bks
+https://babel.hathitrust.org/cgi/ls?q1="中國民族的新生"（Cloudflare 拦截）
+https://www.cnbksy.com/search/allSearch?searchWord=中国民族的新生（反爬拦截）
+https://search.kongfz.com/product/?keyword=中国民族的新生（JS 渲染，无内容）
+
+## 四、检索到的相关（但不匹配）线索页
+https://zh.wikisource.org/zh/新中華民族主義   （李大钊，1917，內容為"中華民族之更生再造"，非本条目）
+https://epaper.gmw.cn/zhdsb/html/content/202606/03/content_16520.html   （"以求实现中国民族的新生"係《新生》周刊宗旨）
+http://www.xxbcm.com/info/1021/17792.htm
+https://dbsqp.com/article/15776
+# Commons 上命中的期刊影像（航空学校月刊/空校月刊，短语出现于正文，非书名）
+https://upload.wikimedia.org/wikipedia/commons/9/9b/NLC404-01J001455-19569_航空學校月刊_1936年25期.pdf

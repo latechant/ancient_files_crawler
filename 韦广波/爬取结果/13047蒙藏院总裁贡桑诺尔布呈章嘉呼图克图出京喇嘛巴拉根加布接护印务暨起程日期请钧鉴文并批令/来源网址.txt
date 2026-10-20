@@ -1,0 +1,55 @@
+# 来源网址清单（条目 13047 《蒙藏院总裁贡桑诺尔布呈章嘉呼图克图出京喇嘛巴拉根加布接护印务暨起程日期请钧鉴文并批令》）
+# 归档日期：2026-10-10
+# 结论：ok=false（未取得与本条目对应的连续公文原文；仅推定其文献类型与大致刊载范围）
+
+## 一、原登记爬取网址
+（无）——原书目清单出版社栏为"不详"，未见登记爬取网址。
+
+## 二、抗战与近代中日关系文献数据平台（modernhistory.org.cn）——核心检索，未收录本条正文
+# 书目/篇目检索接口（POST）：https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+#   （docType=total/ts/qk/bz；keyword 与 firstFieldName=title 两种方式）
+#   · "巴拉根加布""接护印务""出京喇嘛""章嘉呼图克图出京""巴拉根""接护" → totalSize=0
+#   · "章嘉呼图克图" → 38 条（皆他人相关文献，无本条）
+#   · "贡桑诺尔布呈" → 2 条（《蒙藏事务（自民国元年至民国三年）》与《政府公报》）
+#   · "蒙藏院总裁" → 10 条（编目/公报，均无本条）
+https://www.modernhistory.org.cn/
+https://info.modernhistory.org.cn/home/introduction/
+# 该平台《政府公报》（qk，id 394014，fileCode 9999_qk_16761）篇目索引接口（GET）：
+#   https://www.modernhistory.org.cn/backend-prod/esBook/findQkInDirectory?fileCode=9999_qk_16761&keyword=<词>
+#   · 以"章嘉""印务""出京""接护""巴拉根""根加""护印""加布"等检索其篇目索引，
+#     均无本条《蒙藏院总裁贡桑诺尔布呈章嘉呼图克图出京喇嘛巴拉根加布接护印务暨起程日期请钧鉴文并批令》；
+#     该《政府公报》库经统计仅覆盖 1912—1913、1916（1 期）、1917—1920 各期，
+#     缺 1914—1915 与 1921 年以后各期——本条目（蒙藏院时期）正落在其缺档年份。
+https://www.modernhistory.org.cn/backend-prod/esBook/findQkInDirectory?fileCode=9999_qk_16761&keyword=%E6%8E%A5%E6%8A%A4
+# 该平台《蒙藏事务（自民国元年至民国三年）》（ts，id 204263，fileCode 0003_ts_00005593）全篇目已核：
+#   共 76 条，第 71—76 条即"蒙藏院总裁贡桑诺尔布呈……文并批令"，然无本条（章嘉出京/巴拉根加布接护印务）。
+https://www.modernhistory.org.cn/backend-prod/esBook/findBzDirectory/0003_ts_00005593
+
+## 三、可佐证文献类型与刊载范围的公开线索
+# 《民国〈政府公报〉蒙古资料辑录》（乌力吉陶格套整理校注，内蒙古人民出版社 2016，全4册）
+#   底本＝中国第二历史档案馆 1988 年影印《政府公报》；本条目属"公文—呈"类蒙藏院呈大总统文，
+#   当收于第 2 册（1914.6—1915.12）或第 3 册（1916.1—1918.10），惟具体册/页未获确证。
+https://www.dushu.com/book/13527575/
+https://product.suning.com/0071600121/10051293550.html
+https://opac.uibe.edu.cn/opac/book/f7f81261d2c4bca4d34170348a47a7e8
+# 相关研究（二次文献，非本条公文原文）：
+#   乌力吉陶格套《七世章嘉呼圖克圖與民國政府蒙藏院的矛盾探析》，《西域歷史語言研究集刊》2020年第2辑（总14辑）
+https://xianxiao.ssap.com.cn/catalog/detail/id/5787671.html
+#   林宣瑋《末代國師：第七世章嘉呼圖克圖》，《中研院近代史研究所集刊》第109期（2020.9），45-90页
+https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_9850.pdf
+#   秦永章《民国时期第七世章嘉呼图克图在内蒙古的宣化活动述略》
+https://www.fjdh.cn/wumin/2011/01/125855136723.html
+
+## 四、其他已尝试、无果或不可达的合法来源
+#   全国报刊索引（含《政府公报》全文）：HTTP 412（拒绝访问）
+https://www.cnbksy.com/
+#   爱如生（中国近代报刊库/基本古籍库）：连接超时
+https://www.er07.com/
+#   Internet Archive（advancedsearch API，检索"政府公报/蒙藏院"）：无结果
+https://archive.org/advancedsearch.php
+#   Bing/百度精确短语检索（题名及"巴拉根加布""接护印务""章嘉呼图克图出京"）：仅返回单字字典词条，证明未被索引
+https://cn.bing.com/search?q=%22%E5%B7%B4%E6%8B%89%E6%A0%B9%E5%8A%A0%E5%B8%83%22
+
+## 五、明确排除、未使用的来源（影子图书馆 / 侵权网盘，依硬性约束禁用）
+# Z-Library / z-lib / libgen / annas-archive 等一律未访问、未使用；
+# 千千图书、阅书文库、shiliao123 等付费扫描/侵权站亦未据以取正文。

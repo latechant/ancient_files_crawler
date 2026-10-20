@@ -1,1 +1,24 @@
+# 上一轮登记（已被判为错误，仅存档备考）
 https://zh.wikisource.org/wiki/蠻書_(四庫全書本)/全覽
+
+# 本次核查（2026-10-10）所用来源
+# 袁滋《云南记》佚文出处：《太平御覽》所引，逐卷如下
+https://zh.wikisource.org/wiki/太平御覽/0839
+https://zh.wikisource.org/wiki/太平御覽/0919
+https://zh.wikisource.org/wiki/太平御覽/0937
+https://zh.wikisource.org/wiki/太平御覽/0942
+https://zh.wikisource.org/wiki/太平御覽/0953
+https://zh.wikisource.org/wiki/太平御覽/0958
+https://zh.wikisource.org/wiki/太平御覽/0962
+https://zh.wikisource.org/wiki/太平御覽/0966
+https://zh.wikisource.org/wiki/太平御覽/0971
+https://zh.wikisource.org/wiki/太平御覽/0972
+https://zh.wikisource.org/wiki/太平御覽/0973
+https://zh.wikisource.org/wiki/太平御覽/0974
+https://zh.wikisource.org/wiki/太平御覽/0980
+https://zh.wikisource.org/wiki/太平御覽/0995
+# 书目证据
+https://zh.wikisource.org/wiki/舊唐書/卷185下   （袁滋傳："因使行，著《雲南記》五卷"）
+https://zh.wikisource.org/wiki/新唐書/卷058     （藝文志："袁滋雲南記五卷"、"樊綽蠻書十卷" 分列）
+# 参考（学术论文，未下载全文）
+屈直敏《袁滋〈云南记〉考略》，《中国边疆史地研究》2009年

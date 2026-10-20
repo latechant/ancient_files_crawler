@@ -1,0 +1,37 @@
+来源网址（日期：2026-10-10）—— 本条目 ok=false，未取得正文；以下为已核查/尝试的合法公开来源
+
+一、精确检索（均无命中，未获题录或全文）
+- web_search（工具内搜索引擎）精确短语“关于报送审查蒙藏委相关公文” / “蒙藏委相关公文”
+- Bing  https://www.bing.com/search?q=%22关于报送审查蒙藏委相关公文%22  （无相关结果，返回301/302后无命中）
+- Sogou https://www.sogou.com/web?query=%22关于报送审查蒙藏委相关公文%22 （仅返回“规范公文报送”等无关结果）
+- Baidu https://www.baidu.com/s?wd=%22关于报送审查蒙藏委相关公文%22  （反爬，返回空白页）
+
+二、档案与史料汇编（目录层面，无此题）
+- 中国第二历史档案馆·机构介绍（蒙藏院/蒙藏委员会）
+  http://www.shac.net.cn/mgdacs/mgsqjgsz/201411/t20141112_2351.html
+- 中华文史网《蒙古近代历史档案资料述略》（中国第二历史档案馆藏蒙藏委员会档案4142卷，分类介绍）
+  http://www.historychina.net/daly/352368.shtml
+- 《中华民国史档案资料汇编 第5辑》目录（政治4、政治5、教育等）—— 无此题
+  https://mtoou.info/jueban/576691.html  ； https://www.qianqiantushu.com/ebook/2144589.html
+- 《民国边政史料汇编（全三十册）》含《蒙藏委员会公报》目录 —— 无此题
+  https://baike.so.com/doc/9047762-9378261.html
+
+三、数字化平台（受登录/反爬限制）
+- 抗日战争与近代中日关系文献数据平台（含《蒙藏旬刊》；检索接口匿名返回 401“认证失败”）
+  https://www.modernhistory.org.cn/  ； https://info.modernhistory.org.cn/home/introduction/
+- 全国报刊索引（cnbksy.com，HTTP 412 反爬）  https://www.cnbksy.com/
+- 国家图书馆  http://www.nlc.cn/
+- 广东省档案馆在线档案目录  http://da.gd.gov.cn/portal_home/archives
+- 内蒙古自治区档案馆·馆藏介绍（民国档案116全宗66449卷）
+  https://www.archives.nm.cn/information/nmg_dangan48/msg21948241328.html
+- 维基文库·蒙藏委員會組織法（机构背景，非本件）
+  https://zh.wikisource.org/zh-hans/蒙藏委員會組織法_(民國29年)
+- Wikimedia Commons·蒙藏委員會公報 1929年1-02期（公报社全宗影印，经查不含此题）
+  https://commons.wikimedia.org/wiki/File:NLC404-01J002800-61228_蒙藏委員會公報_1929年1–02期.pdf
+
+四、网络不可达（本环境无法连接，仅记录入口）
+- Internet Archive  https://archive.org/  ；Google Books  https://books.google.com/
+- CADAL  https://www.cadal.edu.cn/  ；中国第二历史档案馆站  https://www.shac.net.cn/
+
+五、影子图书馆
+- 遵硬性约束：未使用 z-library / z-lib / libgen / annas-archive 等任何影子图书馆。

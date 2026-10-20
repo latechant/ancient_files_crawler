@@ -1,0 +1,52 @@
+来源网址（检索与核验记录）
+条目：编号 12919，题名《10月27日》，出版社"不详"
+整理/归档日期：2026-10-12；判定日期：2026-10-10
+
+一、抗战文献数据平台（modernhistory.org.cn）——按篇目/书目接口精确检索
+接口（POST）：https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+  检索 firstFieldName=title、firstFieldValue=「10月27日」及「十月二十七日」，
+  分 docType = total / ts(图书) / qk(期刊) / bz(报纸) / da(档案) / tp(图片) 逐类比对 →
+  **totalSize 均为 0**（无题名恰为《10月27日》的独立篇目）。
+  另以 keyword=「10月27日」检索：total=235（图书，均为含该日期的党史/资料汇编，非本条）、
+  期刊 qk total=2（《江西政报》《重庆市趸零售物价指数周报》，非本条）、
+  档案 da 查询超时；均无与本题名对应的独立文献。
+首页：https://www.modernhistory.org.cn/
+
+二、维基文库（Wikisource）——intitle 精确检索
+接口：https://zh.wikisource.org/w/api.php?action=query&list=search&srsearch=intitle:10月27日
+结果：totalhits=4，仅有《總督府公報 (民國99年10月27日)》等以日期为后缀之公报，
+无题为《10月27日》之独立文献。
+
+三、中国哲学书电子化计划（ctext）——书名检索
+检索页：https://ctext.org/searchbooks.pl?if=gb&searchu=10月27日
+结果："找不到和您的查询相符的资料"（无题名或书名恰为《10月27日》者）。
+
+四、国家图书馆（find.nlc.cn / opac.nlc.cn）——题名检索
+  https://find.nlc.cn/search/doSearch?query=10月27日 ：本环境不可达（HTTP 000，连接失败）。
+  http://opac.nlc.cn/F?func=find-b&find_code=WTP&request=10月27日 ：连接失败。
+
+五、识典古籍（shidianguji.com）——站内检索
+  https://www.shidianguji.com/search?query=10月27日 ：HTTP 200，但返回为反爬 JS 外壳页，
+  无可解析的检索结果（接口被安全插件拦截）。
+
+六、相关候选与同批线索（用于定性，非本条对应）
+  1. 《阎锡山档案─要电录存》第一册（何智霖编注，国史馆，2003）——同批邻近条目
+     12791《外蒙犯边案提纲》即出自该册第一卷（同名相邻，确证同批来源）。
+     台湾国史馆 GPI 书目：https://gpi.culture.tw/books/1009200962
+     台湾国史馆官网：https://www.drnh.gov.tw/p/404-1003-13961.php?Lang=zh-tw
+     该册完整目录（含"046 外蒙犯边案提纲 48"）：https://www.qianqiantushu.com/ebook/read688538.html
+  2. 国史馆档案史料文物查询系统（全宗116 阎锡山史料·日記147件）：
+     https://ahonline.drnh.gov.tw/ （本环境不可达）
+  3. 《阎锡山日记》（1931-1950，逐日记述；三晋出版社2011；社科文献出版社2011/2010）：
+     https://xianxiao.ssap.com.cn/bibliography/1873608.html
+     https://xianxiao.ssap.com.cn/bibliography/1875877.html
+  4. 《孔德成日记抄》（曲阜孔府档案，含"是日半阴半晴"式天气记载）：
+     https://book.douban.com/annotation/140614366/
+  5. 清单同批日期型题名（用于判断"日期条目"成群）：
+     林靖凯 13008《11月20日》；姜博文 12991《8月28日》；马雨衡 12976《3月27日》；
+     韦广波 6124《一九三四年八月十四日  半阴半晴》（日记子项）。
+
+七、受限/未采用来源
+  - 未使用任何影子图书馆（z-library / z-lib / libgen / annas-archive 等）。
+  - qianqiantushu、shiliao123、qciss、pdf.onlinetoolsland、zhihailib、zi5.net 等为盗版/商业扫描站，
+    仅用于读取目录/著录信息以定性，未下载其版权内容。

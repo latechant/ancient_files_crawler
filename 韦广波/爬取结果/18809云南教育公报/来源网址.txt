@@ -1,0 +1,26 @@
+《云南教育公报》 来源网址
+条目编号：18809    日期：2026-10-12    编码：UTF-8
+
+【主来源：抗战文献数据平台 modernhistory.org.cn】
+1. 平台条目页（期刊详情，docType=qk，fileCode=9999_qk_10831，平台ID=175627）：
+   https://www.modernhistory.org.cn/#/DocumentDetails_qk?fileCode=9999_qk_10831&title=云南教育公报
+
+2. 题名检索接口（POST，确认馆藏记录）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+
+3. 刊内篇目检索接口（GET，fileCode + 关键词，返回"期→篇目"树）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findQkInDirectory?fileCode=9999_qk_10831&keyword=教育
+
+4. 全刊卷期目录接口（GET，返回各年各期）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findDirectoryByYear/9999_qk_10831
+
+5. 单期 IIIF 清单（含篇目 structures 与页面画幅）：
+   https://iiif-json.modernhistory.org.cn/9999_qk_10831/9999_qk_10831_0001/9999_qk_10831_0001.json
+
+6. 原页影像来源（IIIF Image API，需 Referer: https://www.modernhistory.org.cn/ 且显式给宽度）：
+   https://iiif.modernhistory.org.cn/iiif/2/9999_qk_10831%2F9999_qk_10831_0001%2F9999_qk_10831_0001_0001.jpg/full/1696,/0/default.jpg
+   （把末尾 0001_0001 依次改为 0001_0002 … 即得该期第2页起各页；期号段 9999_qk_10831_0001 → _0002 … _0047 为各期）
+
+【辅助检索（未作为下载来源）】
+- 题名精确检索（web_search / 通用搜索）确认刊名《云南教育公报》，民国云南省教育厅（教育司）刊行，昆明，1921-1928。
+- 《民国教育公报汇编》第193-200册收《云南教育公报》，仅见书目，未取得正文。

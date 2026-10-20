@@ -1,0 +1,39 @@
+{
+  "seq": 10993,
+  "title": "西藏高原的旧石器和细石器文化",
+  "publisher": "不详",
+  "group": "第22组",
+  "group_leader": "韦广波",
+  "group_id": 18,
+  "member_id": 3,
+  "archive_date": "2026-10-10",
+  "type": "论文题名",
+  "ok": false,
+  "found_fulltext": false,
+  "situation": "6",
+  "source_url": null,
+  "origin": {
+    "author": null,
+    "journal_or_book": null,
+    "year": null,
+    "volume_issue": null,
+    "pages": null,
+    "parent_item": null,
+    "note": "未检得同名文献；无可核验的确切出处"
+  },
+  "closest_but_not_same": [
+    "汤惠生《略论青藏高原的旧石器和细石器》,《考古》1999年第5期,44-54页",
+    "安志敏、尹泽生、李炳元《藏北申扎、双湖的旧石器和细石器》,《考古》1979年第6期,481-491+494+577-578页",
+    "张晓凌等《青藏高原旧石器时代考古发现与研究》,《人类学学报》2024年第43卷第6期,967-978页"
+  ],
+  "method": [
+    "题名精确检索(去书名号/简繁/含'文化'与否)",
+    "关键词拆分:西藏高原+旧石器+细石器+文化,并叠加可能作者",
+    "母项-子项追溯:核查西藏考古相关专著目录",
+    "公开连续全文来源排查:tibetology.ac.cn/kaogu.cn/anthropol.ac.cn/ncpssd.cn等",
+    "论文引文与注释反查:霍巍、石硕、夏格旺堆等综述"
+  ],
+  "reason": "不存在可检得、可核验的同名公开文献；原始著录缺出版信息；相近文献受版权限制无合法公开全文",
+  "files": ["来源网址.txt", "判定说明.txt", "基本信息.json"],
+  "fulltext_file": null
+}

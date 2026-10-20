@@ -1,0 +1,39 @@
+# 条目 952《服务瑶山的经验》检索/尝试使用的 URL（均无对应结果，saved_at 2026-10-10）
+# —— 一、直接题名检索（简/繁/异体） ——
+https://lite.duckduckgo.com/lite/?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22          # "服务瑶山的经验" 无结果
+https://html.duckduckgo.com/html/?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22        # 无结果
+https://www.bing.com/search?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22              # 无相关结果
+https://cn.bing.com/search?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22+%E7%91%B6%E6%97%8F  # 无结果
+https://www.startpage.com/sp/search?query=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22  # 无结果
+https://www.sogou.com/web?query=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22          # 仅词素共现，无该标题
+https://www.so.com/s?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22                  # 触发验证码
+https://www.baidu.com/s?wd=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22              # 百度安全验证，未通行
+https://xueshu.baidu.com/s?wd=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C                # 百度安全验证
+https://www.google.com/search?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22         # 谷歌反爬拦截
+# 繁体/异体变体
+https://lite.duckduckgo.com/lite/?q=%22%E6%9C%8D%E5%8B%99%E7%91%A4%E5%B1%B1%E7%9A%84%E7%B6%93%E9%A9%97%22          # "服務瑤山的經驗" 无结果
+https://lite.duckduckgo.com/lite/?q=%22%E6%9C%8D%E5%8B%99%E5%BE%95%E5%B1%B1%E7%9A%84%E7%B6%93%E9%A9%97%22          # "服務徭山的經驗" 无结果
+https://lite.duckduckgo.com/lite/?q=%22%E6%9C%8D%E5%8B%99%E7%8C%BA%E5%B1%B1%E7%9A%84%E7%B6%93%E9%A9%97%22          # "服務猺山的經驗" 无结果
+https://lite.duckduckgo.com/lite/?q=%22%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22                            # "瑶山的经验" 无结果
+# —— 二、可获取站内检索 ——
+https://zh.wikisource.org/w/index.php?search=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C&fulltext=1  # 维基文库全文检索，0 条
+https://www.shidianguji.com/search?q=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C  # 识典古籍，0 结果
+https://www.googleapis.com/books/v1/volumes?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C%22  # Google Books API 配额用尽
+https://archive.org/advancedsearch.php?q=%22%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%22&output=json              # Internet Archive 元数据，无相关
+https://archive.org/advancedsearch.php?q=%22%E6%9C%8D%E5%8B%99%E7%91%A4%E5%B1%B1%22&output=json              # 仅报纸词素共现，无该题
+https://babel.hathitrust.org/cgi/ls?q1=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C;a=srchls;anyall1=phrase;field1=ocr;lmt=ft  # HathiTrust 全文，0 结果
+https://catalog.hathitrust.org/Search/Home?lookfor=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1&type=title          # HathiTrust 书目，无结果
+https://search.worldcat.org/search?q=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C      # WorldCat，无结果
+https://www.ucdrs.superlib.net/search?sw=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1&channel=search&Field=all    # 全国图书馆参考咨询联盟，404
+https://www.ncpssd.org/Literature/search?q=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1%E7%9A%84%E7%BB%8F%E9%AA%8C  # 国家哲社文献中心，404
+http://www.cnbksy.com/search?q=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1                          # 全国报刊索引，需登录，无法检索
+https://find.nlc.cn/search/doSearch?query=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1                    # 国家图书馆，网络错误/不可达
+# —— 三、母项追溯（相关期刊/人物/地点反查） ——
+https://www.chinesefolklore.org.cn/web/?NewsID=14255                                              # 费孝通瑶山调查，非该题
+https://acbas.org.tw/admin/files/%E4%B8%AD%E5%9C%8B%E9%82%8A%E6%94%BF225.pdf                        # 《中國邊政》目录，非该题
+https://info.modernhistory.org.cn/home/introduction/                                             # 抗战文献数据平台简介（图书16.9万册/期刊1.1万种，免费）
+https://www.modernhistory.org.cn/api/search/list?keyword=%E6%9C%8D%E5%8A%A1%E7%91%B6%E5%B1%B1          # 该平台检索接口，返回空（需登录/SPA）
+http://www.xlantai.com/e3243473.html                                                             # 《广西瑶族社会历史调查》目录，非该题
+http://www.xlantai.com/e3230931.html                                                             # 《民国时期社会调查丛编·少数民族卷》目录，非该题
+https://www.dushu.com/book/11845544/                                                             # 杨成志《瑶族调查报告文集》目录，非该题
+http://www.51papers.com/lw/69/28/wz4629727.htm                                                   # 《民国时期学人对广西瑶族调查的研究》论文目录，非该题

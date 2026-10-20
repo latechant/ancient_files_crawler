@@ -1,0 +1,42 @@
+检索日期：2026-10-12
+条目：seq 18937 《绥滨县奥里米辽金墓葬抢救性发掘》（出版者"不详"）
+
+一、确认书目（本次任务核心发现，多个独立来源互证）
+1. 《黑龙江地区金墓述略》（赵永军、姜玉珂，sinoss.net 全文PDF）参考文献[18]b：
+   b. 方明达, 王志国. 绥滨县奥里米辽金墓葬抢救性发掘[J]. 北方文物, 1999(2): 36-39.
+   https://www.sinoss.net/uploadfile/2010/1130/7442.pdf
+2. 王俊铮论文俄文参考文献第41条（含英译、页码更全）：
+   Fang Minda, Wang Zhigo. Rescue excavations of the Aolimi burial ground during the Liao-Jin period in Suibin County.
+   [方明达, 王志国. 绥滨县奥里米辽金墓葬抢救性发掘 // 北方文物. – 1999. – № 2. – С. 36–39, 115–116].
+   https://religio.amursu.ru/images/Volumes/2023/1/4_.pdf
+3. 维普（cqvip）文献页"同被引文献"第3条，同样著录为：方明达,王志国.绥滨县奥里米辽金墓葬抢救性发掘[J].北方文物,1999(2):36-39. 被引量11。
+   http://dianda.cqvip.com/Qikan/Article/Detail?from=Qikan_Article_Detail&id=7107598156
+
+二、获知该简报内容梗概的"他人转述"（按判定规则不计为原文）
+4. 赵永军、姜玉珂《黑龙江地区金墓述略》正文与"黑龙江地区金代墓葬概况一览表"中"绥滨县奥里米墓群（二）"条：
+   记该简报报道1998年9月发掘8座墓（M1—M8），并转录M3—M8的形制、葬具、葬俗与随葬品等。
+   https://www.sinoss.net/uploadfile/2010/1130/7442.pdf
+5. 刘阳、赵永军《黑龙江发掘辽金生女真五国部奥里米城址》（《中国文物报》2016-07-08）：提及"1998年，又抢救性清理发掘了城址西南部被破坏的6座墓葬"。
+   https://bjkg.jlu.edu.cn/info/1048/1602.htm
+6. 董新林《新世纪辽金时期墓葬考古研究述论》（《北方文物》2021年第5期）：综述中提及赵永军、姜玉珂文，属书目性质。
+   http://hrczh.cass.cn/sxqy/kgx/202502/W020250228398906746149.pdf
+
+三、同一次发掘的新闻报道（第三人报道，非简报原文，不计）
+7. 《契丹女真"烧饭"之谜 又有新说法》，生活时报/新华社1998-10-14，报道黑龙江省文物部门对奥里米古城遗址西侧八座水毁古墓的抢救性发掘（引张泰湘语）。
+   https://www.gmw.cn/01shsb/1998-10/14/GB/767^SH10-106.htm
+
+四、尝试下载全文但受阻的数据库（均需登录/付费或有反爬）
+8. 国家哲学社会科学文献中心（ncpssd，该刊gch=98263X）：期刊页 https://www.ncpssd.cn/journal/details?gch=98263X&langType=1
+   其检索/目录接口 /Literature/articlelist、/journal/journalHandler、/journal/detailsYear 均被站方JS反爬(wzws)拦截；/journal/getPdfUrl 对1999—2025各年各期一律返回空。
+9. 中国知网 www.cnki.com.cn / kns.cnki.net、search.cnki.com.cn ：结果页由JS加载，文章页需登录。
+   http://www.cnki.com.cn/Journal/I-I1-BFWW-1999-02.htm
+10. 维普 qikan.cqvip.com/Qikan/Search/Index ：返回412反爬。镜像 http://vp2.b.xue66.net/Qikan/Search/Index 显示"System is updating!"。
+11. 万方 s.wanfangdata.com.cn ：反爬提示页。
+12. NSTL 国家科技图书文献中心 https://www.nstl.gov.cn/search.html ：结果由JS加载，全文/代查代借需注册登录。
+13. 钛学术 doc.taixueshu.com/journal/bfww/19992/ ：站点WAF(465)拦截，正文未获取。
+14. 超星"特色数字资源库"（滨海新区博物馆馆藏，收《北方文物》）：元数据可见，全文链接经 javascript:login 跳转 ss.zhizhen.com，需登录。
+    https://lib-bhstory.museum.chaoxing.com/info/4653.jspx
+15. 文档分享站：原创力文档 max.book118.com、道客巴巴 doc88.com、豆丁 docin.com 检索该题名均"无结果"。
+
+五、其他检索
+16. Bing 精确/组合检索、百度检索（触发安全验证）、搜狗、web_search 多轮，均未发现可自由下载的该简报正文或图版。

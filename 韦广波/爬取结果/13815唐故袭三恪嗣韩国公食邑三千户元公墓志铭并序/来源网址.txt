@@ -1,0 +1,43 @@
+# 条目 13815《唐故袭三恪嗣韩国公食邑三千户元公墓志铭并序》检索来源记录
+# 归档日期 2026-10-10；编码 UTF-8
+# 说明：以下为本次“模拟人工爬取”实际访问/检索过的来源。未在任一来源取得该志的完整录文。
+
+## 一、直接史源（可确认爵号与年代，但不是录文）
+https://www.shidianguji.com/zh/book/SK1959/chapter/1l95giiyku815
+# 识典古籍《册府元龟》卷一百七十三《帝王部·继绝》，载：天宝八载封后魏孝文帝十代孙元伯明袭封韩国公、食邑三千户；贞元十三年五月封前左卫率府兵曹同正元份为袭三恪韩国公。
+
+https://crlhd.xmu.edu.cn/info/1037/76072.htm
+# 厦门大学民间历史文献研究中心 史正玉《从草木淫祠到帝王正祀——唐代白杨庙的嬗变与央地联动》，考述北魏后裔韩国公（三恪）世系：元宝琳→…→元伯明（天宝八载）→元份（贞元十三年袭），并引天宝元年《元庭珍墓志》。
+
+https://zh.wikisource.org/wiki/二王三恪
+# 维基文库/维基百科“二王三恪”条：天宝七载五月以元伯明为韩国公（三恪）；十二载复魏、周、隋三恪。
+
+## 二、书法/拓片资料站（重点，未命中该志页）
+https://www.shufaziliao.com/
+# 书法资料网。站内检索 /e/search/index.php 为 POST 且提示“没有搜索权限，请会员登录后再搜索”；站点公告“原页面内容已迁移”。未能获得该志条目页。
+https://www.shufaziliao.com/maobi/4f911a45de8f98d3d0db2cd4858b6ed9.html
+# 通过搜索引擎命中的近似条目（唐故……食邑三千户狄道郡王舍利公墓志铭），非本志。
+https://www.shufawang.cn/
+# 书法网。站内检索同样为需登录的表单（/e/search/index.php）。
+
+## 三、墓志数据库（未命中）
+https://www.guoxuedashi.com/muzhi/
+# 国学大师“墓志数据库”，带 muzhi 关键词检索，用于查“三恪/韩国公/元”，未见本志条目。
+https://libdb.zju.edu.cn/s/lib/libtb/show/1516
+# 浙江大学图书馆“中国历代墓志数据库”介绍（馆内/校内访问，本环境不可用）。
+https://www.lib.pku.edu.cn/2xxzzfw/26xwgg/gm/bd5082.htm
+# 北大图书馆“中华石刻·唐代墓志铭数据库”（学术数据库导航，需订阅）。
+
+## 四、通检/全文库（未命中本志）
+https://zh.wikisource.org/
+# 维基文库全文检索（袭三恪 / 嗣韩国公 / 韩国公 / 三恪韩国公），仅得《册府元龟》卷173 等，无本志录文。
+https://ctext.org/
+# 中国哲学书电子化计划全文检索，未命中。
+
+## 五、综合搜索引擎（未命中）
+https://www.so.com/       # 360搜索：queries 见判定说明.txt，未命中本志
+https://www.bing.com/     # Bing RSS：queries 见判定说明.txt，未命中
+https://weixin.sogou.com/ # 搜狗微信：未命中
+
+## 六、影子图书馆/侵权源
+（未使用；依项目规定排除 z-library/libgen/annas-archive 等。）

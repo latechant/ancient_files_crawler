@@ -1,0 +1,52 @@
+条目 9967《伯兴奏报严禁私藏鸟枪情形折》——经检索的合法公开来源网址
+
+一、维基文库（先查项）
+1. 维基文库「清代奏摺」分类（278 条，逐条比对，无伯兴此折）
+   https://zh.wikisource.org/wiki/Category:清代奏摺
+2. 维基文库全文检索 API（关键词：伯興 鳥槍 / 私藏鳥槍 / 嚴禁私藏鳥槍 / 伯興額 / 伯興阿 等），无此折正文
+   https://zh.wikisource.org/w/api.php
+3. 《欽定盛京通志》卷四十一「奉天府·侍郎兼管府尹」（证伯兴职任）
+   https://zh.wikisource.org/wiki/欽定盛京通志_(四庫全書本)/卷041
+
+二、中国第一历史档案馆
+4. 一史馆官网（线上开放 44 全宗档案目录检索 + 清实录/清会典全文库）
+   https://fhac.com.cn/index.html
+5. 一史馆档案目录检索入口 / 站内关键词检索（伯興、鳥鎗，未获可公开的连续原文）
+   https://fhac.com.cn/search_catalogues.html
+   https://fhac.com.cn/searchs/keywords/伯興
+
+三、台北故宫 / 数位典藏（清代宫中档奏摺及军机处档摺件）
+6. 清代宫中档奏摺及军机处档摺件全文影像资料库（说明页，原站已关闭）
+   https://digitalarchives.tw/site_detail.jsp?id=3235
+7. 清代宫中档奏摺及军机处档摺件目录索引（说明页）
+   https://digitalarchives.tw/site_detail.jsp?id=3234
+8. 同库内同类条目示例：鄂寶《奏為查禁民間鳥鎗毋許私造由具奏》乾隆49年01月30日（仅著录，非伯兴折）
+   https://catalog.digitalarchives.tw/item/00/05/19/c4.html
+
+四、清代档案出版物 / 论著引录
+9. 《历史档案》2019年第2期《乾隆朝整饬民间鸟枪档案（下）》（哈恩忠编选）全文（通篇无伯兴此折）
+   http://www.qinghistory.cn/wxzl/429510.shtml
+   http://historychina.net/wxzl/429510.shtml
+10. 《历史档案》2019年第1期目录（含《乾隆朝整饬民间鸟枪档案（上）》，正文未见公开）
+    http://www.qinghistory.cn/lsda/429093.shtml
+11. 中华文史网·清史研究·文献档案（出版物栏目）
+    http://www.qinghistory.cn/wxzl/
+
+五、纂修四库全书档案（证「伯兴」其人，非本折）
+12. 盛京兵部侍郎伯兴奏第一拨全书运到盛京折（乾隆四十七年）
+    http://www.mingqingxs.com/w/166847801770730.html
+13. 盛京兵部侍郎伯兴奏自陈原参杨鹏翮事姑息错谬请旨交部严加议处折（乾隆四十七年）
+    http://www.mingqingxs.com/w/166847801770735.html
+14. 寄谕奉天府尹伯兴另行缮折参奏广宁县知县杨鹏翮（乾隆四十七年，军机处上谕档）
+    http://www.mingqingxs.com/w/166847801770728.html
+
+六、清实录（证伯兴身份与年代）
+15. 《清实录·高宗纯皇帝实录》卷一一八九（乾隆四十八年九月，侍郎伯兴等盛京官员受赏）
+    https://www.shidianguji.com/book/LS0027/chapter/1kentsj8w506d
+16. 《清实录·高宗纯皇帝实录》卷一二七六（乾隆五十二年三月，「同伯兴办事」于和阗）
+    https://www.shidianguji.com/book/LS0027/chapter/1kentwr30elgl
+
+七、综合检索入口（Google 系 / 中文学术）
+17. 维基文库、识典古籍、中国哲学书电子化计划、一史馆、台北故宫数位典藏、Web 搜索交叉检索题名《伯兴奏报严禁私藏鸟枪情形折》及异写（伯興奏報嚴禁私藏鳥鎗情形等），均无该折连续原文。
+
+说明：以上均为合法公开来源；未使用任何影子图书馆。
