@@ -1,0 +1,37 @@
+条目 seq=17401 题名《中共归绥工作委员会》 检索/核查来源网址
+（归档日期 2026-10-12）
+
+一、题录/出处定位（仅得目录，无原文）
+1. https://mtoou.info/jueban/1579838.html
+   《呼和浩特史料 第8集》绝版PDF页——给出全书目录，含"党史资料 92 / 中共归绥工作委员会 田惠琴 92"。该站自述"未存储实际文件"，实为读秀图书元数据转贴，仅可"求助"。
+2. https://www.qianqiantushu.com/ebook/read1706318.html
+   《呼和浩特史料 第8集》目录页（千千图书，同源题录）。
+3. https://www.qianqiantushu.com/ebook/1706318.html
+   同上书的付费下载页（有价积分购买，非公开全文）。
+4. https://book.kongfz.com/154551/7130104044/
+   孔夫子旧书网：《呼和浩特史料（1-9）9本合售》实体书（非电子）。
+
+二、抗战文献数据平台（modernhistory.org.cn）——检索无对应第8集
+5. https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+   篇目接口。以 title="中共归绥工作委员会/归绥工作委员会/归绥工委/绥远工作委员会" 检索 total=0；
+   以 title="呼和浩特史料" 仅得 第1集(id 467542,1983)、第4集(id 466416,1984)、第7集(id 466417,1986)，无第8集。
+6. 全文检索接口（esBook/search、fullText/search 等）均返回 401 认证失败，须登录。
+
+三、内蒙古自治区官方地情/党史网站——均无该文正文
+7. http://xmdq.nmgqq.com.cn/ziliaowenku/4002.html
+   内蒙古自治区地情·资料文库，仅列"呼和浩特史料（第五、六、七辑）"，无正文，且无第八辑。
+8. https://www.nmgqq.com.cn/shuzishizhi/
+   内蒙古区情网"数字史志"（仅收录志书、年鉴等）。
+9. http://hhht.archives.nm.cn/information/hhhtdaj48/msg22096240307.html
+   呼和浩特市档案史志馆"党史编研"栏：《中共绥远特别区工作委员会的建立》（他题，非本条）。
+
+四、图书馆联合目录（收藏著录，非全文）
+10. https://www.dl-library.net.cn/wenxian/lhml/index.php?action=search&cate=5
+    大连图书馆联合目录：《呼和浩特史料．第三集》著录（责任者中共呼和浩特市委党史资料征集办公室等）。
+
+五、背景资料（仅交代1940年中共归绥工作委员会史事，非田惠琴原文，不计入）
+11. http://www.people.com.cn/n/2015/1117/c400058-27823942.html （刘洪雄）
+12. http://www.81.cn/yljnt_208627/ylml/L_208641/10149013.html （刘洪雄：为革命不惜粉身碎骨）
+13. https://www.rmzxw.com.cn/c/2024-02-23/3495282.shtml （绥蒙各界抗日救国会的成立和发展）
+14. https://inews.nmgnews.com.cn/system/2025/07/01/030180871.shtml （刘洪雄烈士）
+15. http://m.163.com/dy/article/KQ6I3MPL0521CC5N.html （丰镇市档案史志馆：1949年6月成立中共归绥工作委员会，1949年口径）

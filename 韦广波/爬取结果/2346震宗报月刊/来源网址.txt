@@ -1,2 +1,9 @@
 https://ci.nii.ac.jp/ncid/AA12411722
 https://commons.wikimedia.org/wiki/Commons%3ALibrary_back_up_project/file_list/CADAL/18
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%E9%9C%87%E5%AE%97%E5%A0%B1%E6%9C%88%E5%88%8A&srnamespace=6&srlimit=50&format=json
+https://commons.wikimedia.org/w/api.php?action=query&titles=File:CADAL03020819%20%E9%9C%87%E5%AE%97%E5%A0%B1%E6%9C%88%E5%88%8A.djvu&prop=imageinfo&iiprop=url|size|mime|mediatype&format=json
+https://upload.wikimedia.org/wikipedia/commons/8/8b/CADAL03020819_%E9%9C%87%E5%AE%97%E5%A0%B1%E6%9C%88%E5%88%8A.djvu
+https://commons.wikimedia.org/wiki/File:CADAL03020819_%E9%9C%87%E5%AE%97%E5%A0%B1%E6%9C%88%E5%88%8A.djvu
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/CADAL03020819_%E9%9C%87%E5%AE%97%E5%A0%B1%E6%9C%88%E5%88%8A.djvu/page1-1280px-CADAL03020819_%E9%9C%87%E5%AE%97%E5%A0%B1%E6%9C%88%E5%88%8A.djvu.jpg
+https://ocr.wmcloud.org/api
+https://ocr.wmcloud.org/api/available_langs?engine=tesseract

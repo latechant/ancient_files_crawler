@@ -1,0 +1,39 @@
+# 来源网址（本次"模拟人工爬取"实际访问/检索的合法公开来源）
+# 归档日期：2026-10-10
+
+## 一、目标母书（该件题录所属，判定结论的出处）
+1) 《乾隆朝满文寄信档译编》全24册 书志与说明（豆瓣）
+   https://book.douban.com/subject/7007390/
+2) 同上（中国书店/日本の古本屋 书志，含日文提要："大半は、《清高宗実録》《乾隆朝上諭档》に収録されていない初公刊のもの"）
+   https://www.kosho.or.jp/products/detail.php?product_id=543371796
+3) 同上（微读/微信读书 图书页，正文需登录购买，未获取）
+   https://weread.qq.com/web/bookDetail/fdf32e40811e29c04g0141e4
+
+## 二、满文寄信档性质与体例（用于判定"该件汉译是否入实录"）
+4) 李刚《乾隆朝满文寄信档及其特点》（中华文史网转载，《满语研究》2012-2）
+   http://www.historychina.net/tspl/402521.shtml
+5) 张莉《从满文档案看满汉关系——以乾隆朝满文寄信档为例》（中国人民大学清史研究所·满文文献研究中心）
+   http://iqh.ruc.edu.cn/old/mwwxyjzx/mxsqy/da34a0f9d7744ab7930a4c10886a4670.htm
+
+## 三、《清高宗实录》全文（用于逐卷排查，结果：无本件）
+6) 天津/识典古籍《清实录（清历朝实录）》书页（LS0027）
+   https://www.shidianguji.com/book/LS0027
+7) 逐卷已下载排查（识典古籍 chapter 页，卷1226–1250＝乾隆五十年；卷1216–1260＝乾隆四十九–五十二年）：
+   示例 卷之一千二百三十三（乾隆五十年六月）
+   https://www.shidianguji.com/book/LS0027/chapter/1kentum177ub6
+   示例 卷之一千三百九十一（乾隆五十六年）
+   https://www.shidianguji.com/book/LS0027/chapter/1kenu2hvq8e91
+   （章节目录映射取自 https://www.shidianguji.com/sitemap/chapter-v2/index1.xml，共875条 LS0027 章节）
+
+## 四、其他尝试（均未获该件连续原文）
+8) 维基文库《清實錄》：https://zh.wikisource.org/wiki/清實錄 （本网络不可达，SSL/超时）
+9) Internet Archive：https://archive.org/ （本网络不可达，HTTP 000）
+10) ctext.org：https://ctext.org/ （本网络不可达，HTTP 000）
+11) 中国第一历史档案馆官网：https://www.lsdag.com/ （不可达，HTTP 000）
+12) 抗战文献数据平台：https://www.modernhistory.org.cn/ （可达，但无满文寄信档全文）
+13) 文脉国学（清实录乾隆朝实录分卷）：https://baike.ytso.com/ （站内全文检索未收录"伊犁官马"）
+
+## 备注
+- 题录中"出版社 不详"；据题名格式（"寄谕XX著XX"）及内容（满文军机处密寄上谕、福康安任陕甘总督），判定其可归入
+  《乾隆朝满文寄信档译编》所收寄信上谕。
+- 未使用任何影子图书馆（z-library/z-lib/libgen/annas-archive 等）。

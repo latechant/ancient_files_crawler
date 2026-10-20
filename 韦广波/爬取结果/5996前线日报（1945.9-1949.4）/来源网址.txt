@@ -1,0 +1,25 @@
+# 5996《前线日报（1945.9-1949.4）》来源网址
+# 归档日期：2026-10-10
+
+[1] 抗日战争与近代中日关系文献数据平台（中国社会科学院近代史研究所主办，公益免费）
+    首页: https://www.modernhistory.org.cn/
+    检索接口(POST): https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+    全部页列表: https://www.modernhistory.org.cn/backend-prod/esBook/findAllPage/<fileCode>
+    IIIF 影像服务: https://iiif.modernhistory.org.cn/iiif/2/<fileCode>%2F<日期>%2F<页号>.jpg/full/1500,/0/default.jpg
+    IIIF 清单: https://iiif-json.modernhistory.org.cn/<fileCode>/<日期>/<日期YYYY-MM-DD>.json
+
+[2] 陕西省图书馆《馆藏民国报纸目录·省外报纸目录》（仅馆藏著录，无全文）
+    https://wap.sxlib.org.cn/zy/gctszy/mgbzml/201512/t20151201_459230.html
+    其中第49条：《前线日报》，江西上饶，馆藏 1940(10-12)、1941(2-5)、1943(2.5-12)、1944(4-5.9-10)、1945(1-2) 及 1944-1945、1947 零报
+
+[3] 台湾大学数位人文研究中心《史政局暨史料局剪报检索系统》（收录《前线日报》剪报，1946-1947；图像限校内）
+    http://militaryhistorybureau.digital.ntu.edu.tw/
+
+[4] Wikimedia Commons《Library back up project / CADAL》备份清单（经检索，未含本报纸，仅含由"前线日报"出版的一种图书）
+    https://commons.wikimedia.org/wiki/Commons:Library_back_up_project
+
+[5] 上海图书馆《全国报刊索引·中国近代报纸全文数据库》（商业收费库，本任务未使用）
+    https://www.cnbksy.com
+
+# 说明：Internet Archive (archive.org) 与 国家图书馆 read.nlc.cn 在本环境网络不可达(连接超时)，
+#       CADAL 检索需登录；本任务实际取得影像全部来自 [1]。

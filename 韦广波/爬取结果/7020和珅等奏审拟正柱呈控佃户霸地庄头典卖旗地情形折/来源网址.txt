@@ -1,0 +1,34 @@
+来源网址.txt
+条目：seq 7020 《和珅等奏审拟正柱呈控佃户霸地庄头典卖旗地情形折》
+检索/核查日期：2026-10-10 ~ 2026-10-11
+
+一、直接检索（未获该折正文）
+1. 维基文库「清代奏摺」分类（公有领域转录本，202项，逐一核对无此折）
+   https://zh.wikisource.org/wiki/Category:清代奏摺
+2. 维基文库全文检索 API（"正柱"/"和珅 旗地"/"庄头 佃户"等，无该折）
+   https://zh.wikisource.org/w/api.php?action=query&list=search
+3. 识典古籍《大清高宗纯皇帝圣训》卷二十五（含乾隆五十二年九月关于正柱案之上谕，非该折）
+   https://www.shidianguji.com/book/CADAL01035462/chapter/1l4abhcdmgz67
+4. 《清实录·高宗纯皇帝实录》卷一千二百八十七（乾隆五十二年八月，载德保奏正柱呈称庄头韩三元呈报亲丁盗典旗地等情）
+   http://www.mingqingxs.com/w/166884229478951.html
+5. 《清实录·高宗纯皇帝实录》卷一千二百八十八（乾隆五十二年九月，载刘峨查办及"交军机大臣会同刑部严审"之上谕）
+   http://www.mingqingxs.com/w/166884228878718.html
+
+二、机构/数据库（该折应属其中，但无公开全文）
+6. 中国第一历史档案馆（军机处录副奏折·法律类审办 / 宫中档朱批奏折；官网原域名 www.lsdag.com 现已无法访问，HTTP 000）
+   国家档案局通告：一史馆开放军机处录副奏折专题档案（馆内平台/预约查档）
+   https://www.saac.gov.cn/daj/c100166/202006/87a1b2f1cd2343b993a373a2db42b77b.shtml
+7. 中华文史网·清史编委会档案组《中国第一历史档案馆馆藏概述》（军机处全宗分类说明）
+   http://www.historychina.net/daz/353418.shtml
+8. 台北故宫「清代檔案檢索系統」（宫中档奏折/军机处档折件，19万余件；需账号密码，且自2024-06-11起暂停提阅申请，线上仅元数据+付费影像，无公开全文）
+   https://qingarchives.npm.edu.tw/
+
+三、论著/出版物线索（仅著录，非该折正文）
+9. 《清代档案史料丛编》第五辑（中华书局）专题「乾隆朝旗人佃户抗租霸地私典田产的斗争」——最可能收录同案档案之公开出版物，但线上仅见书目，无正文
+   https://www.qianqiantushu.com/ebook/2034141.html
+10. 中国人民大学清史研究所《清代军机处随手登记档》等档案丛刊介绍
+    http://iqh.ruc.edu.cn/old/qdjjsyj/jjs_zydh/slcb/633c4f53821f4bdd95aac6e8dd80e00a.htm
+11. 何永智《旗民词讼与制度困境：清代户部八旗现审处研究》（同案相关制度背景）
+    https://www.aisixiang.com/data/178686.html
+
+备注：未使用 web_fetch；未使用任何影子图书馆（z-library/libgen/annas-archive 等）。

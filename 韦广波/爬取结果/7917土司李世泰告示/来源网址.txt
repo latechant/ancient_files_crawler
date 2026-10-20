@@ -1,0 +1,34 @@
+# 来源网址.txt  条目：7917 《土司李世泰告示》（出版社：不详）
+
+## 一、条目定位（含出处的核心来源）
+1. https://baike.baidu.com/item/西夏李氏世谱/12501955
+   《西夏李氏世谱》目录；卷四《典册谱·告示》明确著录：
+   "告示 96  土司李化龙告示 96  土司李世泰告示 97"  —— 确认本条目为该书第97页所收文书。
+2. https://twwiki.net/wiki/9275x7kewg72xvy.html  （天天百科，同目录）
+3. https://mtoou.info/jueban/553993.html  （绝版书目录页，仅"求助"字样，未提供文件）
+
+## 二、李世泰土司身份核实来源
+4. http://www.nopss.gov.cn/BIG5/n1/2022/0801/c219544-32490767.html
+   何威《明清时期西北土司与民族融合》（光明日报/全国哲社办转载）：
+   "東伯府十四世土司李世泰……（楊應琚《西寧府新志》卷7）"
+5. https://ixdzs.hk/read/55525/p157.html  《中国土族》：李世泰（1736～1795），青海民和上川口人，第十五代东李土司，清乾隆四十一年（1776）袭指挥同知职。
+6. https://cht.a-hospital.com/w/李世泰  （A+医学百科）/ https://www.newton.com.tw/wiki/李世泰/10443132 （中文百科全书）：
+   李世泰，上川口（今青海民和县）人，西夏末帝李睍第十七世孙，东府第十四代土司，官至从三品，清代青海名医。
+7. http://www.qinghai.gov.cn/dmqh/system/2016/10/31/010238188.shtml
+   青海省政府网《李氏家族：怀家卫国，忠信礼仪》（青海日报，米海萍）——李土司东/西/中府世系与辖地背景。
+
+## 三、尝试过的公共数字图书馆/仓储（均未获全文或图版）
+8.  Internet Archive advancedsearch（西夏李氏世谱 / 李土司 / Tusi Xining）—— 无结果。
+9.  Google Books API（西夏李氏世谱 / 李土司家谱三种）—— 无卷本。
+10. HathiTrust catalog API（oclc/ISBN）—— 无。
+11. Wikimedia Commons API（土司 李世泰 / 西夏李氏）—— 0 条相关图版。
+12. CADAL（https://www.cadal.edu.cn/）—— 站点不可达。
+13. 中国国家图书馆 OPAC（http://opac.nlc.cn/）—— 可访问，但无公开在线全文。
+14. 青海人民出版社官方阅读平台（wap.qhrmcbs.com，收《李土司家谱三种》）—— 请求超时，且该书目录不含本告示。
+
+## 四、仅见付费/侵权获取渠道（未采用，遵循硬性约束）
+15. https://www.fozhu920.com/603333.html  "收藏爱好者"：《西夏李氏世谱》扫描/OCR 需支付 ¥49 才给下载地址（仅提供卷001残页预览）。
+16. https://qciss.net/books/6087459 、 https://www.yunjiapu.com/goods/detail/826373.html —— 电子书聚合/网盘类站点，来源不可靠，未使用。
+17. mtoou.info / 粗文(cuwen.com) / 兰台网(xlantai.com) 等 —— 付费或网盘求助站，未使用。
+
+（未检索到任何学术论著、地方志或档案出版物对该《土司李世泰告示》全文的转录。）

@@ -1,0 +1,24 @@
+条目编号：19322
+题名（原题）：东方杂志到苗区去
+实际出处：陈国钧《到苗区去》，载《东方杂志》第三十七卷第十六号，1940年8月16日（民国二十九年八月十六日）
+
+== 检索来源：抗战文献数据平台（modernhistory.org.cn）==
+1) 篇目检索 API（POST，docType=qk, keyword=到苗区去）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+   命中：题名 东方杂志，id=354630（出版者 王云五）、354631（商务印书馆）、354632（王云五）；
+   三者为同一刊同一期，fileCode = 9999_qk_00050，文档内目录命中篇名「到苗区去」。
+
+2) 期刊卷期目录 API（GET）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findQkInDirectory?fileCode=9999_qk_00050&keyword=到苗区去
+   命中：第三十七卷第十六号(1940年8月16日) →「到苗区去」
+
+3) IIIF 影像清单（Manifest）：
+   https://iiif-json.modernhistory.org.cn/9999_qk_00050/9999_qk_00050_0664/9999_qk_00050_0664.json
+
+4) 原页影像（IIIF Image API 2.0，需显式指定 size，如 full/2144,/）：
+   https://iiif.modernhistory.org.cn/iiif/2/9999_qk_00050%2F9999_qk_00050_0664%2F9999_qk_00050_0664_0035.jpg/full/2144,/0/default.jpg
+   （0035/0036/0037/0038/0039，共5页；即该期第35–39连续页）
+
+== 对照/辅助检索（未采用）==
+- web_search 检索“东方杂志 到苗区去 陈国钧”仅得今人书目题录，非原文。
+- 该刊原页影像以抗战文献数据平台为准，已核对页眉“東方雜誌 第三十七卷 第十六號 到苗區去”。

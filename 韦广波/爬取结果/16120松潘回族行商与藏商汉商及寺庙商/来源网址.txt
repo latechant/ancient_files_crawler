@@ -1,0 +1,38 @@
+# 条目 16120 《松潘回族行商与藏商、汉商及寺庙商》 检索用网址
+# 归档日期：2026-10-12
+# 说明：本条目题名精确检索无独立单篇文献；以下为实际访问过的相关网址。
+
+## 一、抗战文献数据平台（民国文献篇目接口，题名精确检索=0）
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+  （POST 检索 title="松潘回族行商" / "寺庙商" / 全文关键词，均无该题名文献；该库为民国时期文献）
+
+## 二、民国《松潘县志》（识典古籍全文；实业门仅列商帮，无该题名）
+https://www.shidianguji.com/book/7500788073274277898/chapter/1lhqimusklkp6
+
+## 三、最可能的母项：《松潘县民族商业志》（松潘县地方志丛书，内部资料，无出版社）
+### 3.1 中国新地方志系统（书影/下载入口）
+https://book.sooyuu.com/sichuan/index_12.html
+https://book.sooyuu.com/book/8696.html
+### 3.2 该书“文件下载”直链（RAR，9.9MB，198页，经检测为加密压缩包，需付费解压码）
+https://down.p2spdb.com/112/37464701.rar
+### 3.3 该书“在线试读”PDF（仅17页 = 封面/序/大事记，OCR严重失真，非目标章节）
+https://pdfyl.ertongbook.com/91/37464701.pdf
+### 3.4 第三方书讯（内容提要，无正文）
+https://www.fozhu920.com/686728.html
+https://www.xianzhiguan.com/fangzhi/14904.html
+
+## 四、相关地方文献（旁证/背景，均非本条目）
+- 阿坝州地方志办公室《松潘谚语》
+  https://dfzb.abazhou.gov.cn/abzdfsbgs/c104052/202207/c0262c63ffda4c37a1430222c69b7520.shtml
+- 四川省情网《历史悠久的高原商城阿坝县》（载“寺庙商、土官头人商”）
+  http://scdfz.sc.gov.cn/whzh/slzc1/content_96720
+- 《松潘县文史资料选辑 第1辑》目录（含“松潘的茶马互市”“松潘回族人的信仰和习俗”等，无本条目题名）
+  https://mtoou.info/jueban/352589.html
+- 周伟洲《试论清代松潘藏区的“改土设弁”》（背景）
+  http://iqh.ruc.edu.cn/old/qdbjmzyj/bj_ztyj/xnbj/782c555f4e524ae7966db262530a86a4.htm
+
+## 五、今人研究/背景（非本条目原文）
+- https://dudushu.com/library/chapter/286024/3.html （《中国回族暨伊斯兰教研究》）
+- https://tibetcul.com/zhuanti/whzt/41413.html （青藏高原回藏贸易，杨文法）
+- https://www.fx361.com/page/2020/1217/12686653.shtml （松潘民族融合与古镇变迁，何达）
+- https://www.thepaper.cn/newsDetail_forward_1736740 （澎湃：松潘21个民族共处）

@@ -1,1 +1,49 @@
+# 来源网址清单（条目 1624 潜山薛家岗）
+# 归档日期：2026-10-10
+
+## 一、原登记爬取网址（本次核查对象，判定为无关内容）
 https://english.ihns.ac.cn/Publications/Ra/201310/W020131014609393099325.pdf
+
+## 二、本次核查实际访问/尝试的网址
+# —— 目标条目相关元数据核实 ——
+https://book.douban.com/subject/1669318/
+https://ebook.artron.net/book.php?bookid=41722
+https://www.01skjj.com/detail.NzY3NzY%3D.html
+https://www.ahkaogu.com/index.php?m=content&c=index&a=lists&catid=23
+https://www.ahkaogu.com/index.php?m=content&c=index&a=lists&catid=24
+https://www.ahkaogu.com/
+https://www.dushu.com/book/11190187/
+
+# —— 目标公开发掘报告/简报（《考古学报》1982年第3期）检索与尝试下载 ——
+# 国家哲学社会科学文献中心（ncpssd，官方合法免费平台）收录《考古学报》，1982年第3期确有目标文章；
+# 但其全文阅读/下载链接经 readurl 重定向至 /login，须登录（免费注册）后方可获取，本次无账号，未能下载。
+https://m.ncpssd.cn/journal/details?gch=95155X&langType=1&nav=1&num=3&years=1982
+https://ncpssd.org/journal/details.aspx?gch=95155X&langType=1&num=3&years=1982
+https://www.ncpssd.org/Literature/articlelist?sType=0&search=KElLVEU9Iua9nOWxseiWm+WutuWyl+aWsOefs+WZqOaXtuS7o+mBl+WdgCIp&nav=0
+https://www.ncpssd.org/Literature/articleinfo?id=1002767358&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0
+https://www.ncpssd.org/Literature/readurl?id=1002767358
+https://www.ncpssd.org/articleinfoHandler/getjournalarticletable
+https://ncpssd.org/journal/details.aspx?gch=95155X&langType=1
+
+# —— 其他合法公开来源检索（均未获目标报告/简报全文） ——
+http://kaogu.cssn.cn/xsqy/kycg/jbbg/index_1.shtml
+http://kaogu.cssn.cn/was5/web/search?channelid=235362&searchword=%E8%96%9B%E5%AE%B6%E5%B2%97&perpage=20
+https://pubscholar.cn/search?q=%E6%BD%9C%E5%B1%B1%E8%96%9B%E5%AE%B6%E5%B2%97
+https://archive.org/advancedsearch.php?q=%E8%96%9B%E5%AE%B6%E5%B2%97&fl%5B%5D=identifier&fl%5B%5D=title&rows=50&output=json
+https://archive.org/metadata/pub_kao-ku-hsueh-pao
+http://wenwuchina.com/a/29/210257.html
+http://www.silkroads.org.cn/portal.php/portal.php?aid=29830&mod=view
+https://zh.wikipedia.org/wiki/%E8%96%9B%E5%AE%B6%E5%B2%97%E9%81%97%E5%9D%80
+http://travel.anhuinews.com/lyzixun/202206/t20220628_6106128.html
+http://ls.anhuinews.com/lskgfx/yw/201605/t20160513_4481356.html
+http://travel.anhuinews.com/wlanhui/202507/t20250728_8669791.html
+https://www.ceweekly.cn/area/anhui/2024/0507/443392.html
+https://www.chinanews.com.cn/cul/2022/06-09/9775959.shtml
+http://www.knowcat.cn/p/20230810/636453.html
+https://www.qikanchina.com/thesis/detail/1048023
+
+## 三、明确排除、未使用的来源（影子图书馆 / 侵权网盘，依硬性约束禁用）
+# https://tw.z-lib.fm/book/...                 （Z-Library，禁用）
+# https://lexlib.fi/book/...                    （LexLib，Z-Library 镜像，禁用）
+# https://www.chendianrong.com/750101640.html   （寻书帮：百度网盘《潜山薛家岗》PDF 分享，非授权，禁用）
+# xy980.com / 史料文献馆                          （售卖的扫描期刊数据集，非授权来源，禁用）

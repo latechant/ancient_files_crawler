@@ -1,0 +1,30 @@
+来源网址（合法公开来源：抗日战争与近代中日关系文献数据平台 modernhistory.org.cn）
+
+1. 平台检索接口（关键词定位）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+   POST JSON: {"docType":"ts","keyword":"代县谢家烟坊日升号","currentPage":1,"pageSize":10,...}
+   命中：（a）《晋商史料全览·忻州卷》id=417598；（b）《晋商史料全览·字号卷》id=417648
+
+2. 图书书目/目录元数据接口：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findAllPage/0001_ts_31032032
+   （忻州卷整册页表，fileCode=0001_ts_31032032）
+
+3. IIIF 影像（原书扫描页，忻州卷 印刷页285—289 = 影像00315—00319）：
+   https://iiif.modernhistory.org.cn/iiif/2/0001_ts_31032032%2F0001_ts_31032032_00315.jpg/info.json
+   https://iiif.modernhistory.org.cn/iiif/2/0001_ts_31032032%2F0001_ts_31032032_00315.jpg/full/1858,2702/0/default.jpg
+   （_00316 / _00317 / _00318 / _00319 同）
+
+4. IIIF 影像（字号卷 印刷页296—297 = 影像00324—00325，节录本）：
+   https://iiif.modernhistory.org.cn/iiif/2/0001_ts_31032082%2F0001_ts_31032082_00324.jpg/info.json
+   https://iiif.modernhistory.org.cn/iiif/2/0001_ts_31032082%2F0001_ts_31032082_00324.jpg/full/1847,2716/0/default.jpg
+   （_00325 同）
+
+5. 责任者/版本信息（exportAllQt 接口返回的规范著录行）：
+   https://www.modernhistory.org.cn/backend-prod/downLoad/exportAllQt?fileCode=0001_ts_31032032&docType=ts
+   → “山西省政协晋商史料全览编辑委员会,忻州市政协晋商史料全览忻州卷编辑委员会 编；晋商史料全览·忻州卷.太原:山西人民出版社.”
+
+6. IIIF 清单（Manifest）：
+   https://iiif-json.modernhistory.org.cn/0001_ts_31032032/0001_ts_31032032.json
+   https://iiif-json.modernhistory.org.cn/0001_ts_31032082/0001_ts_31032082.json
+
+说明：平台仅提供扫描影像（IIIF），无现成 OCR 文本层；正文由下载的页面影像自行 OCR 转录。

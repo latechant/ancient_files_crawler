@@ -1,0 +1,37 @@
+# 条目19194 检索来源网址记录
+# 日期：2026-10-12
+
+## 一、确证出处（作者/刊/年/期/页）
+[VIP维普·题录] http://dianda.cqvip.com/Qikan/Article/Detail?from=Qikan_Article_Detail&id=20277071
+  （该页“参考文献/二级参考文献”列出：陈忠敏.作为古百越语底层形式的先喉塞音在今汉语南方方言里的表现和分布[J].民族语文,1995(3):1-11. 被引量37）
+[复旦大学·陈忠敏主页] https://chinese.fudan.edu.cn/16/2e/c13667a136750/page.htm
+  （作者本人论文目录列作“作为百越语底层形式的先喉塞音在今汉语南方方言里的表现和分布，《民族语文》，1995”，未带“古”字）
+[复旦大学现代语言学研究院] https://imoll.fudan.edu.cn/info/1017/1025.htm
+[中国百科/中文百科·陈忠敏] https://www.newton.com.tw/wiki/%E9%99%B3%E5%BF%A0%E6%95%8F
+  （论文目录第25条：“作為古百越語底層形式的先喉塞音在今漢語南方方言裡的表現和分布 … 民族語文 1995/6/5”）
+[中国文化大学·硕士论文参考文献PDF] https://irlib.pccu.edu.tw/retrieve/49119/gsweb15-ref2.pdf
+  （著录：陳忠敏 1995《作為古百越語底層形式的先喉塞音在今漢語南方方言裡的表現和分布》《民族語言》1995年第3期，1-11頁）
+
+## 二、国家哲学社会科学文献中心（NCPSSD/NSSD）——有该文，但全文/下载需登录
+[检索API] POST https://www.ncpssd.cn/searchHandler/search  (sType=1, search=IKTE="题名")
+  命中1条：id=1003278083，题名=作为古百越语底层形式的先喉塞音在今汉语南方方言里的表现和分布，
+  作者=陈忠敏，刊物=民族语文，期=3，年=1995，页=1-11，页数=11，PDF=634016字节
+[期刊详情页] https://www.ncpssd.cn/journal/secure/details?params=blY2U0FGMDNLb0lFQ2o3bnFUZm1VN01MTU40Z0V3dGZEUlUyK2doYnREUktGdXFjVU5oYno2TGdKeWZaeW9VaA
+[文章信息页] https://www.ncpssd.cn/Literature/articleinfo?id=1003278083&type=journalArticle
+  （页面含“全文下载/阅读全文”按钮，点击触发 checkLogin()，未登录提示“抱歉！请先登录才能下载和阅读。”）
+[全文阅读] https://www.ncpssd.cn/Literature/readurl?id=1003278083  →  302/跳转至 /login 用户登录页
+[手机版全文阅读] https://m.ncpssd.cn/Literature/readurl?id=1003278083  →  同样跳转登录页
+[取PDF接口] POST https://www.ncpssd.cn/journal/getPdfUrl (gch=80601X&years=1995&num=3)  →  返回空（需登录）
+[文章数据接口] POST https://www.ncpssd.cn/articleinfoHandler/getjournalarticletable  →  被WAF(网宿wzws)拦截
+[旧站PDF] http://www.nssd.org/articles/article_down.aspx?id=1003278083  →  返回HTML（登录页），非PDF
+
+## 三、其他检索渠道（未获正文）
+[CNKI知网·旧文章页(已失效)] http://www.cnki.com.cn/article/cjfdtotal-mzyw503.000.htm  （返回“请点击这里查阅其他相关文献”，正文页不存在）
+[360搜索命中该CNKI标题页] https://www.so.com/s?q=作为古百越语底层形式的先喉塞音在今汉语南方方言里的表现和分布
+[OSU大学知识库 PDF·《粵方言「幫端母讀內爆音出自侗台語底層」說再探討》] https://kb.osu.edu/bitstreams/95ff1236-da0e-4a07-84e5-230b65eb4d6b/download
+  （下载成功，但仅在参考文献/括注中著录与提及 陈忠敏1995，无该文原文引句）
+[学霸降重·朱晓农、寸熙2006《试论清浊音变圈》全文转载] https://www.lw33.cn/article/9ce7ba798d1ddd0cadbe317b.html
+  （全文与陈忠敏1995观点商榷，但未加引号直引该文原句）
+[吴语协会论坛] https://wu-chinese.com/bbs/forum.php?mod=viewthread&page=1&tid=4136
+[掌桥科研] https://www.zhangqiaokeyan.com/  （未检索到可下载页）
+[万方/维普/CNKI 全文] 均需登录/付费，未下载

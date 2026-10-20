@@ -1,0 +1,34 @@
+来源网址.txt
+条目：编号 14584；题名《茂县牟托一号石棺墓》；出版社"不详"
+归档日期：2026-10-10
+
+【一、正文来源（已取用，写入 正文.txt）】
+1. 中国社会科学网·《中国社会科学报》专文《从牟托一号墓看古蜀文明西向通道》
+   作者：万娇（四川省文物考古研究院）  发布时间：2022-06-15
+   https://www.cssn.cn/skgz/bwyc/202208/t20220803_5468602.shtml
+   （检索入口：https://www.cssn.cn/so/  检索API：https://api.so-gov.cn/query/s?siteCode=cssn_zw&tab=all&qt=牟托一号墓）
+   说明：该文为关于"茂县牟托一号石棺墓"的权威、连续正文，作者供职于四川省文物考古研究院。
+   备用镜像（同文，非官方）：http://test.sta.gd.cn/wenxue/20220616/4390.html
+
+【二、母项出处考证（题录，未取原文）】
+2. 简报题录：《四川茂县牟托一号石棺墓及陪葬坑清理简报》，文物，1994(3):4-40.
+   维普引文页：http://dianda.cqvip.com/Qikan/Article/Detail?id=1002253926
+   《中华文化论坛》引注（徐学书2002/2001）：https://zhwl.cbpt.cnki.net/portal/journal/portal/client/paper/d1c80a2cc79a9818d49fc83a5772bc63
+3. 专著题录：《茂县牟托一号石棺墓》，文物出版社，2012，ISBN 9787501034109（viii,162页+80图版）
+   宾夕法尼亚大学图书馆馆藏：https://find.library.upenn.edu/catalog/9960215493503681
+   书讯（含内容简介）：https://qciss.net/books/10725796
+
+【三、其他相关公开页（背景/旁证，未取用为正文）】
+4. 技点百科"牟托石棺墓"词条：https://www.jidianwang.com/items/14440626.html
+5. 华西都市报《牟托石棺墓密码破译 墓主或是古蜀国贵族》：http://news.socang.com/2011/09/05/1454296398.html
+   同文：http://sc.sina.cn/art/bdys/2018-07-26/ys-ihfvkitx0384032.d.html
+6. 四川艺术网《四川石棺葬发现简史》：http://m.zgscys.com/news?w5-p87-i10593=
+7. 中国考古网（kaogu.cn）：本次 curl 连接超时，未取得有效页
+8. 国家哲学社会科学文献中心（ncpssd.cn/ncpssd.org）：可访问，但现刊检索未检得《文物》，无该简报
+
+【四、受版权/登录限制、未使用的来源】
+9. 中国知网、维普、万方、读秀等对该简报/专著的正文均需登录或付费，本次未绕过。
+10. 粗文（cuwen.com）等扫描报刊PDF聚合页含该期OCR残片，来源合法性存疑，未采用、未下载。
+11. 寻书帮/小哈图书下载中心等网盘类页面（含"解压密码"），属侵权网盘，未采用。
+
+【合规声明】全程未使用 web_fetch；未使用 z-library / z-lib / libgen / annas-archive 等影子图书馆。

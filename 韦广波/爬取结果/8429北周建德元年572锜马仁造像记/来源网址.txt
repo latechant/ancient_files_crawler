@@ -1,0 +1,55 @@
+# 编号 8429《北周建德元年(572)锜马仁造像记》爬取来源清单
+# 归档日期：2026-10-10
+# 说明：均为本次实际检索/命中的公开来源；标注[题录/介绍]者为仅含著录或描述、非连续录文/图版。
+
+[1] 道教文化中心資料库 — 錡馬仁造像碑 [题录/介绍，最详细的著录]
+    https://zh.daoinfo.org/index.php?title=%E9%8C%A1%E9%A6%AC%E4%BB%81%E9%80%A0%E5%83%8F%E7%A2%91&variant=zh-hans
+    内容：北周建德元年(572)造；现藏西安碑林博物馆；尺寸139x52x25cm；四面道教造像；
+    碑阳供养人第一层正中题"道民富平县主簿锜马仁"；碑右侧下部有发愿文（未逐字录出）。
+    参考资料：李淞《以长安为中心的早期道教造像：中国道教雕塑述略之一》，《雕塑》2009年第2期。
+    （同页另有繁体版）https://zh.daoinfo.org/wiki/錡馬仁造像碑
+
+[2] 西安碑林博物馆 官网（精品视窗·佛造像/汉画像石等栏目）
+    https://www.beilin-museum.com/
+    https://www.beilin-museum.com/index.php?a=index&aid=2519&c=View&m=home  (邑子六十人造像碑)
+    https://www.beilin-museum.com/index.php?a=index&aid=2521&c=View&m=home  (吕建崇造像碑)
+    说明：官网未检索到锜马仁造像碑的独立条目页；直接抓取时站点返回502，仅可经搜索引擎快照读取。
+
+[3] 《西安碑林全集》第106卷《造像题记》(高峡主编，1999) [目录页]
+    https://mtoou.info/jueban/578767.html
+    收录"錡马仁造像碑"，第203页，列为"隋代(581-618)"（与北周572年一说存在分歧）。
+
+[4] 李松《中国道教美术史》第一卷 [书目/目录页]
+    https://www.qianqiantushu.com/ebook/3345516.html
+    条目 2C18"锜氏家族碑之三：锜马仁造老君像碑"，第321页（第三节 北周北齐；湖南美术出版社，2012，ISBN 9787535643155）。
+    （同书 2A22/2A23/2D03/2D73 为锜石珍、锜麻仁、锜□达、锜氏四面残像等锜氏家族碑。）
+
+[5] 李凇《长安艺术与宗教文明》(中华书局,2002) [书目/图版目录页]
+    https://www.qianqiantushu.com/ebook/1890686.html
+    "泾渭流域北魏至隋代道教雕刻详述"图J34"錡马仁造像碑"（李凇摄影），第411页；北周造像节。
+
+[6] 《陕西药王山碑刻艺术总集》(张燕编著，上海辞书出版社,2013) [目录/介绍]
+    https://www.chugoku-shoten.com/mokuji/cmokuji/72231/72231.pdf
+    https://baike.baidu.com/item/陕西药王山碑刻艺术总集/16323049
+    收录北魏锜双胡造像碑(520)、锜麻仁造像碑(521)等；未收572年锜马仁碑（该碑在西安碑林，不在药王山）。
+
+[7] 汉文大藏经/BETA 北朝佛教石刻拓片百品 — 錡雙胡廿人等造像記 (I0019)
+    https://deerpark.app/cbeta/catalog/I0019
+    相关件（同为锜氏家族碑，520年），非本项目标(572)。
+
+[8] 识典古籍《鲁迅辑校石刻手稿》— 錡麻仁合家造象記 [全文，521年，非目标]
+    https://www.shidianguji.com/book/7563224556832292891/chapter/1lx2cd4f5r19v
+    《鲁迅辑校石刻手稿·造像（上）》目录亦收 錡双胡廿人等造石象记(520,p78)、錡麻仁合家造象记(521,p96)，
+    未见572年锜马仁造像记。
+
+[9] 淑德大学 中国石刻拓本デジタルアーカイブズ（北魏）
+    https://www.shukutoku.ac.jp/university/facilities/syogaku/takuhon/hokugi.html
+    该档案"北魏"目录仅见《錡麻仁合家造像記》(521)多面拓本，无572年《錡馬仁造像碑》拓本。
+
+[10] 国家图书馆 碑帖菁华 / 读者云门户（已尝试检索接口，结果为JS动态加载，未能取回目标件）
+    http://read.nlc.cn/allSearch/searchList?searchType=34&showType=1
+    http://read.nlc.cn/advanceSearch/oneResSearch?categoryName=碑帖精华&resId=39
+
+[11] 互联网其他：Internet Archive、Wikimedia Commons 检索"锜马仁/北周造像碑" — 均无命中。
+
+# 结论：未取得连续录文或拓本图版；仅取得题录/介绍级资料。ok=false。

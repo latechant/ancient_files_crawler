@@ -1,0 +1,35 @@
+条目：12791 《外蒙犯边案提纲》（出版社：不详）
+归档日期：2026-10-12
+
+一、确证条目性质所依据的网址（合法公开来源）
+1. 台湾"国史馆"政府出版品资讯网（GPI）《阎锡山档案─要电录存第一册》书目页：
+   https://gpi.culture.tw/books/1009200962
+   （GPN 1009200962；出版日期 2003/04；主编 简笙簧，编注 何智霖；出版单位 国史馆；456页）
+2. 台湾"国史馆"官网《阎锡山档案(要电录存)第一册(绝版)》出版品页：
+   https://www.drnh.gov.tw/p/404-1003-13961.php?Lang=zh-tw
+3. 台湾"国史馆"官网《阎锡山档案(要电录存)第六册》出版品页（同丛书说明）：
+   https://www.drnh.gov.tw/p/404-1003-12860.php?Lang=zh-tw
+4. 台湾"国史馆"官网《馆藏《阎锡山史料》数位档上网25.6万页》：
+   https://www.drnh.gov.tw/p/406-1003-15044,r62.php?Lang=zh-tw
+5. "国史馆"档案史料文物查询系统（阎锡山史料，全宗116；本环境不可达）：
+   https://ahonline.drnh.gov.tw/
+6. 台北市立大学图书馆《阎锡山档案：要电录存》馆藏书目（MARC，含各册ISBN）：
+   https://library.utaipei.edu.tw/webpac/bookDetail.do?id=32492
+7. 抗战文献数据平台（近代中日关系文献数据平台）篇目检索接口（用于排除该平台收录情形）：
+   https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+
+二、证明确切载有《外蒙犯边案提纲》的目录页（非官方镜像/第三方站，仅作定位线索，未据以取正文）
+8. 《阎锡山档案 要电录存 第1册》目录页（第一卷 二次革命前维护党国暨外蒙边衅案；第046条"外蒙犯边案提纲 48"）：
+   https://www.qianqiantushu.com/ebook/read688538.html
+
+三、经查为盗版扫描/影子图书馆，依规则禁用、未下载
+9. https://www.qianqiantushu.com/ebook/688538.html （付费扫描站）
+10. https://lexlib.fi/... 、http://ar.1lib.sk/... （Z-Library 镜像）
+11. https://shiliao123.org/... （PDF 电子版下载站）
+12. https://qciss.net/books/4003092/tw 、https://pdf.onlinetoolsland.com/4003092.pdf （PDF 站）
+
+四、本环境不可达（连接失败）的官方来源
+- https://www.drnh.gov.tw/  （HTTP 000 / 连接被拒）
+- https://ahonline.drnh.gov.tw/  （域名解析失败）
+- https://babel.hathitrust.org/ 、https://www.hathitrust.org/ （HTTP 000）
+- https://archive.org/ （连接超时）

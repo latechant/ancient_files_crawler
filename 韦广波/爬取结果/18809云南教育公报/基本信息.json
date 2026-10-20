@@ -1,0 +1,39 @@
+{
+  "seq": 18809,
+  "题名": "云南教育公报",
+  "原题名": "雲南教育公報",
+  "出版社": "不详",
+  "编著者": "云南省政府教育厅（云南教育司，1922年9月起改由云南教育司编印）",
+  "出版地": "昆明",
+  "出版时间": "1921-1928（第一卷第一期1921年6月起）",
+  "刊期": "月刊",
+  "性质": "民国云南省教育厅（教育司）刊行的官方教育公报（母项）",
+  "平台来源": "抗战文献数据平台（modernhistory.org.cn）",
+  "平台著录ID": "175627",
+  "平台fileCode": "9999_qk_10831",
+  "平台著录卷期范围": "c0s49(192106-1928)",
+  "总页数(平台)": "4063",
+  "条目类型": "期刊（qk）母项",
+  "获得内容类别": "情况(4) 原页影像（抽样）＋ 原始篇目/卷期目录片段",
+  "ok": true,
+  "影像文件": [
+    "9999_qk_10831_0001_0001.jpg 封面《雲南教育公報》第一卷第一期",
+    "9999_qk_10831_0001_0002.jpg",
+    "9999_qk_10831_0001_0003.jpg 第一期目次",
+    "9999_qk_10831_0001_0004.jpg",
+    "9999_qk_10831_0001_0005.jpg"
+  ],
+  "文本片段文件": [
+    "篇目_第一卷第一期_片段.txt",
+    "期刊卷期目录_片段.txt"
+  ],
+  "抽样说明": "全刊共47期、约4063页，本次仅抽样下载第一卷第一期第1-5页原页影像（覆盖封面与目次），未下载全刊。",
+  "来源网址": [
+    "https://www.modernhistory.org.cn/#/DocumentDetails_qk?fileCode=9999_qk_10831&title=云南教育公报",
+    "https://www.modernhistory.org.cn/backend-prod/esBook/findByPage",
+    "https://www.modernhistory.org.cn/backend-prod/esBook/findQkInDirectory?fileCode=9999_qk_10831&keyword=教育",
+    "https://www.modernhistory.org.cn/backend-prod/esBook/findDirectoryByYear/9999_qk_10831",
+    "https://iiif-json.modernhistory.org.cn/9999_qk_10831/9999_qk_10831_0001/9999_qk_10831_0001.json",
+    "https://iiif.modernhistory.org.cn/iiif/2/9999_qk_10831%2F9999_qk_10831_0001%2F9999_qk_10831_0001_0001.jpg/full/1696,/0/default.jpg"
+  ]
+}

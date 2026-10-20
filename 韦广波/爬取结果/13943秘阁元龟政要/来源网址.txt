@@ -1,2 +1,31 @@
 https://ctext.org/wiki.pl?if=gb&res=8168358
 https://commons.wikimedia.org/wiki/File%3ANLC892-411999008917-383511_%E7%A7%98%E9%96%A3%E5%85%83%E9%BE%9C%E6%94%BF%E8%A6%81_%E5%8D%81%E5%85%AD%E5%8D%B7_%E7%AC%AC11%E5%86%8A.pdf
+---
+以下为 2026-10-10 本轮补充核实的来源（国家图书馆藏明抄本《秘閣元龜政要》十六卷，数字古籍，Commons 备份项目，共16册全）：
+批次号 NLC892-411999008917；Commons 分类：Digitized Ancient Books in the National Library of China
+File:NLC892-411999008917-383515 秘閣元龜政要 十六卷 第1冊.pdf  (卷第一)
+File:NLC892-411999008917-383514 秘閣元龜政要 十六卷 第2冊.pdf  (卷第二)
+File:NLC892-411999008917-383520 秘閣元龜政要 十六卷 第3冊.pdf  (卷第三)
+File:NLC892-411999008917-383509 秘閣元龜政要 十六卷 第4冊.pdf  (卷第四)
+File:NLC892-411999008917-383518 秘閣元龜政要 十六卷 第5冊.pdf  (卷第五)
+File:NLC892-411999008917-383523 秘閣元龜政要 十六卷 第6冊.pdf  (卷第六)
+File:NLC892-411999008917-383522 秘閣元龜政要 十六卷 第7冊.pdf  (卷第七)
+File:NLC892-411999008917-383521 秘閣元龜政要 十六卷 第8冊.pdf  (卷第八)
+File:NLC892-411999008917-383513 秘閣元龜政要 十六卷 第9冊.pdf  (卷第九)
+File:NLC892-411999008917-383519 秘閣元龜政要 十六卷 第10冊.pdf (卷第十)
+File:NLC892-411999008917-383511 秘閣元龜政要 十六卷 第11冊.pdf (卷第十一)
+File:NLC892-411999008917-383510 秘閣元龜政要 十六卷 第12冊.pdf (卷第十二)
+File:NLC892-411999008917-383524 秘閣元龜政要 十六卷 第13冊.pdf (卷第十三)
+File:NLC892-411999008917-383516 秘閣元龜政要 十六卷 第14冊.pdf (卷第十四)
+File:NLC892-411999008917-383512 秘閣元龜政要 十六卷 第15冊.pdf (卷第十五)
+File:NLC892-411999008917-383517 秘閣元龜政要 十六卷 第16冊.pdf (卷第十六)
+Commons 原文件直链（upload.wikimedia.org/wikipedia/commons/...NLC892-411999008917-3835XX_..._第XX冊.pdf）
+Commons API: https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=411999008917&srnamespace=6
+参考考订来源：
+https://ctext.org/datawiki.pl?if=gb&res=256840  (中国哲学书电子化计划·秘閣元龜政要条目：十六卷，作者不详)
+https://www.guoxuedashi.com/shumu/gj-1012801wo.html  (国学大师：明抄本，16册，國家圖書館)
+https://www.guoxuedashi.com/shumu/gj-80853l.html  (国学大师：明抄本)
+https://www.guoxuedashi.com/shumu/gj-3244883qy.html  (国学大师：2001年北京圖書館出版社影印本，二函十六册)
+https://book.douban.com/subject/1585751/  (豆瓣：秘阁元龟政要 二函十六册，北京图书馆出版社 2001，ISBN 9787501318087)
+《四庫全書總目提要·卷48 史部·編年類存目》：《秘閣元龜政要》十六卷（浙江孫仰曾家藏本）
+（经查：zh.wikisource.org 无本书页面；识典古籍 0 条结果）

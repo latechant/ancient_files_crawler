@@ -1,4 +1,23 @@
+# 来源网址（保留上一轮登记来源，并追加本次实际使用/尝试的 URL）
+# 更新日期：2026-10-10
+
+## 一、上一轮登记来源（原样保留）
 https://qingarchives.npm.edu.tw/
 https://www.jiansuoke.com/db/fulltextzouzhe
 https://digitalarchives.tw/site_detail.jsp?id=3234
 https://tech2.npm.edu.tw/Museum/Article.aspx?print=1&sNo=04009403
+
+## 二、本次实际取得奏折正文的来源（维基文库，公有领域）
+https://zh.wikisource.org/wiki/Category:%E6%B8%85%E4%BB%A3%E5%A5%8F%E6%91%BA
+# 分类:清代奏折（Category:清代奏摺），收录 174 余件清代奏折全文
+https://zh.wikisource.org/wiki/%E5%85%A9%E5%BB%A3%E7%B8%BD%E7%9D%A3%E6%9D%BE%E7%AD%A0%E5%A5%8F%E5%A0%B1%E5%87%86%E5%A7%94%E6%96%87%E6%AD%A6%E6%8E%A5%E8%AD%B7%E8%A5%BF%E6%B4%8B%E4%BA%BA%E9%AB%98%E8%87%A8%E6%B7%B5%E7%AD%89%E8%87%B3%E6%BE%B3%E9%96%80%E9%99%84%E6%90%AD%E4%BE%BF%E8%88%B9%E5%9B%9E%E5%9C%8B%E6%91%BA
+https://zh.wikisource.org/wiki/%E5%85%A9%E5%BB%A3%E7%B8%BD%E7%9D%A3%E8%94%A3%E6%94%B8%E9%8A%9B%E7%AD%89%E5%A5%8F%E5%A0%B1%E6%9F%A5%E7%8D%B2%E8%B2%A9%E8%B3%A3%E9%B4%89%E7%89%87%E7%85%99%E4%BA%BA%E7%8A%AF%E6%9C%B1%E4%BD%9C%E5%AF%A7%E7%AD%89%E5%AF%A9%E6%98%8E%E5%AE%9A%E6%93%AC%E6%83%85%E5%BD%A2%E6%91%BA
+https://zh.wikisource.org/wiki/%E5%9B%9B%E5%B7%9D%E7%B8%BD%E7%9D%A3%E5%B8%B8%E6%98%8E%E5%A5%8F%E5%A0%B1%E6%8B%8F%E7%8D%B2%E5%82%B3%E7%BF%92%E5%A4%A9%E4%B8%BB%E6%95%99%E4%BA%BA%E7%8A%AF%E5%AF%A9%E6%98%8E%E5%88%86%E5%88%A5%E5%AE%9A%E6%93%AC%E7%B7%A3%E7%94%B1%E6%91%BA
+https://zh.wikisource.org/wiki/%E6%B9%96%E5%8C%97%E5%B7%A1%E6%92%AB%E5%BC%B5%E6%98%A0%E6%BC%A2%E5%A5%8F%E5%A0%B1%E9%81%B5%E6%97%A8%E5%AF%A9%E6%98%8E%E5%8A%89%E6%96%B9%E6%BF%9F%E5%90%84%E7%AD%89%E5%82%B3%E7%BF%92%E5%A4%A9%E4%B8%BB%E6%95%99%E6%A1%88%E5%88%86%E5%88%A5%E5%AE%9A%E6%93%AC%E6%91%BA
+https://zh.wikisource.org/wiki/%E5%85%A9%E5%BB%A3%E7%B8%BD%E7%9D%A3%E9%98%AE%E5%85%83%E5%A5%8F%E8%AB%8B%E5%B0%87%E7%B6%93%E7%90%86%E4%B8%8D%E5%96%84%E4%B9%8B%E6%B4%8B%E5%95%86%E6%91%98%E5%8E%BB%E9%A0%82%E6%88%B4%E8%B2%AC%E4%BB%A4%E5%9A%B4%E7%A6%81%E6%9D%9C%E7%B5%95%E9%B4%89%E7%89%87%E4%BB%A5%E8%A7%80%E5%BE%8C%E6%95%88%E6%91%BA
+
+## 三、本次尝试但未取得正文的来源（记录备查）
+https://qingarchives.npm.edu.tw/index.php?act=Landing/index        # 任意检索路径均重定向至此，公开层无文字正文
+https://archives.ith.sinica.edu.tw/                                # 内阁大库档案，全文影像需授权申请
+https://newarchive.ihp.sinica.edu.tw/mcttp/                        # 明清档案工作室，同上
+http://web.archive.org/web/20260216142026/https://tech2.npm.edu.tw/Museum/Article.aspx?sNo=04009403&print=1

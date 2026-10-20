@@ -1,0 +1,52 @@
+# 来源网址清单（条目 7148 北平市各界庆祝国父诞辰纪念大会筹备会相关公文）
+# 归档日期：2026-10-10
+# 说明：本条为民国未刊档案（一组公文），未取得连续正文，ok=false。以下为本次实际访问/尝试过的合法公开来源。
+
+## 一、北京市档案馆 / 北京档案信息网（本条最可能的收藏机构）
+# 开放档案查询系统（“北京数字档案馆开放档案查询系统”）入口所在站点；仅提供开放档案“目录”检索，原文须到馆查阅。
+https://www.bjma.org.cn/
+https://www.bjma.gov.cn/
+# “北京市国家综合档案馆开放档案文件级目录查询服务正式推出”（说明页）
+https://www.bjma.org.cn/bjma/300478/301765/313731/361903/index.html
+# 该说明页所附《开放档案文件级目录查询服务指南》PDF（经核查仅指向 www.bjma.gov.cn）
+https://www.bjma.org.cn/bjma/300478/301765/313731/361903/2021060915133910645.pdf
+# 数字档案馆栏目 / 预约查档服务
+https://www.bjma.gov.cn/bjma/330228/index.html
+https://www.bjma.gov.cn/eportal/ui?pageId=330233
+# 站内检索接口（网站文章检索，非档案目录库）
+https://www.bjma.org.cn/search/pcRender?pageId=84c4de0daca245198616ac02aaeb144c
+
+## 二、抗战与近代中日关系文献数据平台（近代史所主办，合法公开，含书/刊/报/图/档案）
+# 已用其公开检索接口对多条精确短语检索，均 0 结果；其“档案(da)”类仅 30 件，均与“国父诞辰”无关。
+https://www.modernhistory.org.cn/
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage   （检索接口，POST）
+https://www.modernhistory.org.cn/backend-prod/esBook/findTypeNum  （分类统计接口）
+# 实际检索词：北平市各界庆祝国父诞辰纪念大会筹备会 / 庆祝国父诞辰纪念大会筹备会 /
+#             北平市各界庆祝国父诞辰 / 国父诞辰纪念大会筹备会 / 双十节 国父诞辰 / 国父诞辰纪念
+# 结果：前四条短语命中 0；“双十节+国父诞辰”命中 44（全为期刊/图书，无档案、无本组公文）；
+#        “国父诞辰”命中 104（同前，无档案）。
+
+## 三、国家图书馆 / 图书与网络文库（合法公开）
+http://opac.nlc.cn/F?func=find-b&find_code=WRD&request=北平市各界庆祝国父诞辰纪念大会筹备会
+https://find.nlc.cn/search/doSearch?query=北平市各界庆祝国父诞辰纪念大会筹备会
+https://www.googleapis.com/books/v1/volumes?q=北平市各界庆祝国父诞辰纪念大会筹备会
+https://archive.org/advancedsearch.php?q=北平市各界庆祝国父诞辰&fl%5B%5D=identifier&fl%5B%5D=title&rows=8&output=json
+# 结果：以上均 0 结果。
+
+## 四、通用搜索引擎（人工检索，按情况分类处理）
+# 使用 Bing / 中文 Bing / DuckDuckGo / Google 网页搜索，精确短语与核心词组合多轮检索。
+# 检索词示例：北平市各界庆祝国父诞辰纪念大会筹备会 / 国父诞辰纪念大会筹备会 北平 /
+#             北平市各界 国父诞辰 双十节 / 北平市各界庆祝国父诞辰 档案
+# 结果：第 (6) 类——无任何与该组公文相关的结果页。
+
+## 五、旁证性检索（用于判定“未刊布”）
+# 《北京档案史料》编研成果、北京市档案馆编研成果公开目录中，未检出该组公文（标题含“北平市各界/国父诞辰/双十节”）。
+https://www.dushu.com/book/12437011/   （《北京档案史料》相关卷册书目，示范性书目页）
+https://www.bjma.org.cn/bjma/330228/index.html   （含“党的文献编辑和档案编研成果”栏目）
+
+## 六、明确排除、未使用的来源（影子图书馆 / 侵权来源，依硬性约束禁用）
+# Z-Library / z-lib 系（z-lib.* / tw.z-lib.fm 等）
+# libgen 系
+# annas-archive
+# 其余盗版网盘、侵权售卖站点
+# —— 以上一律未访问、未使用。

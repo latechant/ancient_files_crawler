@@ -1,0 +1,27 @@
+# 来源网址清单（条目 5356 安徽无为县甘露村西汉墓的清理）
+# 归档日期：2026-10-10
+
+## 一、目标简报（题录/摘要页）
+https://www.cnki.com.cn/Article/CJFDTotal-KAGU200505002.htm
+https://wap.cnki.net/touch/web/Journal/Article/KAGU200505002.html
+https://www.zhangqiaokeyan.com/academic-journal-cn_southeast-culture_thesis/0201258777994.html
+
+## 二、出处（期号/栏目/署名）独立核实
+https://www.bsm.org.cn/forum/forum.php?mod=viewthread&tid=307
+http://120.25.237.190/hanfu/1500%E5%A2%93%E5%90%8D%E6%97%A0%E7%AE%80%E6%8A%A51494.html
+
+## 三、尝试获取连续全文的合法来源（均未取得正文）
+https://qikan.cqvip.com/Qikan/Search/Index?key=K%3D%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93
+https://qikan.cqvip.com/Qikan/Article/Detail?id=11138247
+http://dianda.cqvip.com/Qikan/Search/Index?key=U%3D%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93
+https://d.wanfangdata.com.cn/periodical/kg200505002
+https://www.ncpssd.org/search?q=%E5%AE%89%E5%BE%BD%E6%97%A0%E4%B8%BA%E5%8E%BF%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93
+http://search.cnki.com.cn/Search/Result?content=%E5%AE%89%E5%BE%BD%E6%97%A0%E4%B8%BA%E5%8E%BF%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93
+
+## 四、检索入口（本题命中题录的搜索引擎）
+https://www.so.com/s?q=%22%E5%AE%89%E5%BE%BD%E6%97%A0%E4%B8%BA%E5%8E%BF%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93%E7%9A%84%E6%B8%85%E7%90%86%22
+https://xueshu.baidu.com/s?wd=%E6%97%A0%E4%B8%BA%E5%8E%BF%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93   （百度学术：返回安全验证/登录墙）
+https://www.bing.com/search?q=%22%E5%AE%89%E5%BE%BD%E6%97%A0%E4%B8%BA%E5%8E%BF%E7%94%98%E9%9C%B2%E6%9D%91%E8%A5%BF%E6%B1%89%E5%A2%93%E7%9A%84%E6%B8%85%E7%90%86%22   （必应中文精确检索失效）
+
+## 五、明确排除、未使用的来源（影子图书馆 / 非授权网盘，依硬性约束禁用）
+# Z-Library / z-lib / libgen / annas-archive 等一律未访问、未使用。

@@ -1,0 +1,42 @@
+{
+  "seq": 15096,
+  "title": "周善培申报习艺藏徒卒业资送出关",
+  "publisher": "不详",
+  "publisher_note": "原为清末川边公文档案（单件呈报公牍），非独立出版书籍；今收入《清末川滇边务档案史料》，四川省民族研究所编，北京：中华书局，1989年5月，ISBN 9787101005028。",
+  "entry_type": "清末川边公文档案（呈报公牍）",
+  "author": "周善培（字孝怀，1875—1958；时任四川劝业道/商务总局总办）",
+  "date": "宣统元年四月初七日（1909年）",
+  "source_location": "《清末川滇边务档案史料》目录第0305号（同页标注页码333）",
+  "source_urls": [
+    "https://mtoou.info/jueban/778360.html",
+    "https://mtoou.info/jueban/1414037.html",
+    "https://mtoou.info/jueban/1414036.html",
+    "https://book.douban.com/subject/20257971/",
+    "https://www.dushu.com/book/10242530/",
+    "http://iqh.ruc.edu.cn/old/qdbjmzyj/bj_djrd/2ee68c1f22ee4b228d200dfdd810c75f.htm",
+    "https://xzyj.cbpt.cnki.net/portal/journal/portal/client/paper/340c461dac47a60ba1370ec94a9a3caa",
+    "https://xzyj.cbpt.cnki.net/portal/journal/portal/client/paper/a1c7c49c302c2fa9a1a19c414f3d3a11",
+    "https://xzmz.cbpt.cnki.net/portal/journal/portal/client/paper/0ca567538cfd1f2f0c55231936767b8d",
+    "https://qsyj.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2878",
+    "https://scsqw.cn/scyx/scrw/scszrwz/content_8112",
+    "http://tibet.cn/cn/news/yc/202310/t20231014_7501323.html",
+    "https://sichuan.scol.com.cn/ggxw/202310/58992148.html",
+    "http://scdfz.sc.gov.cn/whzh/bsjy/content_176741"
+  ],
+  "related_entries_same_volume": [
+    "0214 办理四川商务总局周善培详习艺藏徒分别遣回与留厂（光绪三十四年十月初七日）（页码244）"
+  ],
+  "content_nature": "未取得本条正文；未取得原文片段；未取得档案影像。所存仅(A)目录·出处信息 +(B)同主题姊妹条目0214之目录条目（另一件）+(C)权威背景介绍文字。",
+  "original_text_obtained": false,
+  "excerpt_obtained": false,
+  "image_obtained": false,
+  "search_methods": [
+    "方法1：题名精确检索（web_search / Bing精确短语 / 百度精确短语）",
+    "方法2：该件及姊妹件正文全文检索（习艺藏徒、习艺藏徒分别遣回与留厂、资送出关）",
+    "方法3：通用搜索+(1)-(6)分类；试Internet Archive/Google Books/读秀/瀚文/CADAL/识典古籍等公开全文库；排查论著加引号直引；查四川省档案馆公开资源"
+  ],
+  "classification": "(6) 无结果（就原文/片段/图版而言）；伴随(5)性质说明：全文仅存于1989年中华书局纸本/扫描汇编，网络无合法公开全文，研究论著亦未见直引",
+  "ok": false,
+  "failure_reason": "该件全文仅见于《清末川滇边务档案史料》(中华书局1989)纸本/扫描汇编；网络无合法公开电子全文，档案原件（川滇边务大臣衙门档案，2023年巴蜀书社68册影印）图版未公开；Bing精确短语无命中，百度被拦截；相关研究论著均只涉背景或同书他件，未见对第0305号原文之加引号直引。故未取得原文、片段或图版。",
+  "note": "按严格判定标准 ok=false。仅取到目录著录与背景转述，不计为条目内容。未编造原文、系年或页码；页码333系转录自网络目录页。未使用web_fetch与任何影子图书馆。"
+}

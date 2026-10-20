@@ -1,0 +1,24 @@
+【母项《回族历史报刊文选·抗战卷》书志与目录】
+https://www.newton.com.tw/wiki/%E5%9B%9E%E6%97%8F%E6%AD%B7%E5%8F%B2%E5%A0%B1%E5%88%8A%E9%81%B8%C2%B7%E6%8A%97%E6%88%B0%E5%8D%B7
+https://mtoou.info/jueban/2060541.html
+https://www.chinanews.com.cn/cul/2012/06-05/3939670.shtml
+https://baike.baidu.com/item/%E5%9B%9E%E6%97%8F%E5%8E%86%E5%8F%B2%E6%8A%A5%E5%88%8A%E6%96%87%E9%80%89%EF%BC%9A%E6%8A%97%E6%88%98%E5%8D%B7%EF%BC%88%E4%B8%8A%EF%BC%89/17626571
+http://frnht.com/e1964658.html
+http://www.7dqq.com/e3390795.html
+
+【抗日战争与近代中日关系文献数据平台（免费开放，支持民国期刊篇目检索）】
+https://www.modernhistory.org.cn/
+检索接口（POST，公开可访问；本条目即用此接口逐词检索）：
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+示例原刊篇目定位（《中国回教救国协会会刊》一卷五期「动员回教精神」，1939-12-15）扫描页：
+https://iiif.modernhistory.org.cn/iiif/2/9999_qk_15227%2F9999_qk_15227_0005%2F9999_qk_15227_0005_0005.jpg
+命中期刊（平台内部 fileCode，供复核）：
+《回教大众》0003_qk_01089｜《中国回教救国协会会刊》9999_qk_15227｜《回教论坛》9999_qk_15881｜《月华》9999_qk_00903｜《清真铎报》9999_qk_08221｜《回族青年》9999_qk_22223｜《抗战通讯》0003_qk_00387｜《边铎半月刊》9999_qk_18158｜《边声月刊》0003_qk_00633
+
+【Wikimedia Commons（CADAL/NLC 备份计划，合法公开）】
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%E7%AA%81%E5%B4%9B&srnamespace=6&format=json
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%E9%9C%87%E5%AE%97%E5%A0%B1&srnamespace=6&format=json
+（Commons 存有《突崛》CADAL16049326–16049335、《震宗报月刊》CADAL03020819–03020843、《中国回教救国协会会刊》NLC404-01J000365-41987 等回族报刊扫描件）
+
+【未能访问者】
+Internet Archive（https://archive.org/advancedsearch.php）——本环境连接失败（curl HTTP 000）

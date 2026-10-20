@@ -1,0 +1,53 @@
+# 来源网址清单（条目 15352 《炉藏近闻》）
+# 归档日期：2026-10-12
+# 结论：ok=false —— 未取得《炉藏近闻》原文、确属该栏目的原文片段或报刊影像；亦未定位到确切的刊名/期号。
+# 情况分类：(6) 无结果（就目标原文/条目本体而言，公开渠道检索无任何命中）。
+# 说明：本文件已覆写上一轮(2026-10-10)的记录；上一轮所存“张其勤《炉藏道里最新考》片段”等背景资料属另一文献，已不予保留。
+
+## 一、原登记爬取网址
+（无）——原书目清单“爬取网址”栏为“无”。
+
+## 二、方法1：题名/栏名精确短语检索（“炉藏近闻”/繁体“爐藏近聞”，均无任何相关命中）
+# 以下均在 2026-10-12 执行，均为“精确短语”检索，返回“未找到相关结果”。
+https://m.baidu.com/s?word=%22%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB%22        # 百度(手机版，无验证码) → “抱歉，未找到相关结果。”
+https://cn.bing.com/search?q=%22%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB%22       # 必应中国 → 无相关结果
+https://www.so.com/s?q=%22%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB%22            # 360搜索 → 无相关结果
+https://www.sogou.com/web?query=%22%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB%22   # 搜狗 → 无相关结果（仅1条无关诗词误配）
+# web_search（语义检索，多组词：炉藏近闻+清末报刊/四川官报/广益丛报/申报/时报/打箭炉等）亦无相关命中。
+
+## 三、方法2：全文/篇目平台检索（均无本条）
+# 3.1 抗日战争与近代中日关系文献数据平台（可访问）
+#   接口：POST https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+#   keyword="炉藏近闻" 于 docType=total/qk/bz/ts/da 全部 totalSize=0；keyword="爐藏近聞" 同，全部 0；
+#   keyword="炉藏" 仅得《东方杂志》《地学杂志》《邈园丛书》（系张其勤《炉藏道里最新考》等另一文献，非本条）；
+#   平台未收录《广益丛报》《四川官报》（title 检索 totalSize=0）。
+https://www.modernhistory.org.cn/
+# 3.2 中国国家图书馆·文津搜索（find.nlc.cn，可访问）
+#   query=炉藏近闻 → “找到相关结果 约 0 个 / 抱歉，没有找到相关的结果”。
+http://find.nlc.cn/search/doSearch?query=%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB&searchType=1
+# 3.3 孔夫子旧书网（旧书/旧报交易检索）→ 无“炉藏近闻”。
+https://search.kongfz.com/ie/product?keyword=%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB
+# 3.4 维基文库 API 全文检索 → 无短语精确命中（lax 匹配，结果均无关）。
+https://zh.wikisource.org/w/api.php?action=query&list=search&srsearch=%E7%82%89%E8%97%8F%E8%BF%91%E9%97%BB&format=json
+
+## 四、尝试但不可达 / 受限的来源（如实记录，均未获得本条内容）
+# 全国报刊索引（晚清民国期刊全文库，含《广益丛报》）——HTTP 412（JS 反爬挑战；检索页与 /api 子路径均 412）
+https://www.cnbksy.com/
+# 大成老旧刊全文数据库（清末民初期刊全文）——需登录，未登录无法检索/下载
+https://www.dachengdata.com/search/toRealIndex.action
+# Internet Archive / web.archive.org / Google Books / HathiTrust——curl code=000（网络不可达）
+https://archive.org/
+# CADAL、国家图书馆民国期刊专题站(mgwx.nlc.cn)、瀚文民国书库(hanwenbook.com 已被占为无关站点)、dhcdb、
+#   爱如生、读秀(duxiu/book.duxiu)、参考咨询联盟检索接口(ucdrs，检索页404)——均不可用/受限
+# 百度学术、CNKI 学术搜索——返回“安全验证”，不可用
+# 西南政法大学机构知识库 龙艳硕士论文《近代〈广益丛报〉涉藏报道研究》(2024)（可能含《广益丛报》涉藏篇目）
+#   ——正文附件需登录，无法下载（下载/预览均提示“您未登录”）：
+http://ir.swupl.edu.cn:8080/xnzfdx/item/itemDetail/86496.shtml
+
+## 五、检索到的“同题域背景资料”（仅背景，非本条《炉藏近闻》内容，故不计入内容）
+# 这些材料讲述“炉藏（打箭炉=今四川康定—西藏一线）”主题，但均非题为《炉藏近闻》的报刊原文。
+http://media.tibet.cn/10js/lstk/sj/201109/t20110921_1137360.htm   # 中国西藏网《前人的“炉藏”铁路梦》(内引张其勤《炉藏道里最新考》，属另一文献)
+http://media.tibet.cn/10js/lstk/sj/201111/t20111103_1152542.htm   # 中国西藏网《赵尔丰与西炉更名》
+
+## 六、明确排除、未使用的来源（影子图书馆 / 侵权网盘，依硬性约束禁用）
+# Z-Library / z-lib / 1lib / libgen / Library Genesis / annas-archive 等一律未访问、未使用。

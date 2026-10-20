@@ -1,0 +1,29 @@
+# 条目 4199《战云密布的边疆》——实际使用/尝试的 URL（逐行）
+# 说明：本机为中国大陆网络环境，Google / archive.org / Wikipedia / ctext 等直连失败（TCP 000）；可用的是 Bing(cn) / 百度 / 360 / 国家图书馆文津搜索 / 抗战文献数据平台等
+
+## 方法1 直接题名检索（搜索引擎）
+https://cn.bing.com/search?q=%22%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86%22&setlang=zh-CN
+https://www.baidu.com/s?wd=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86
+https://www.so.com/s?q=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86
+https://cn.bing.com/search?q=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86
+
+## 方法1 直接题名检索（图书馆/数据库）
+http://find.nlc.cn/search/doSearch?query=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86&searchType=2&docType=%E5%85%A8%E9%83%A8&targetFieldLog=%E5%85%A8%E9%83%A8%E5%AD%97%E6%AE%B5   （文津搜索，命中 0）
+http://find.nlc.cn/search/doSearch?query=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83  （文津搜索，命中 79，逐页核对无本题名）
+http://find.nlc.cn/search/doSearch?query=%E6%88%98%E4%BA%91  （题名字段，命中 740，无本题名）
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage （POST keyword="战云密布的边疆" docType=total → totalSize=0；keyword="战云密布 边疆" → 10，均为题名不同的篇目）
+https://www.duxiu.com/search?sw=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86   （读秀，跳登录）
+https://www.hwshu.com/front/index/tologin.do   （瀚文民国书库，需登录）
+https://www.dachengdata.com/search?searchWord=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86   （大成故纸堆，跳登录）
+https://cadal.edu.cn/index/home   （大学数字图书馆国际合作计划，检索需登录）
+http://www.ucdrs.superlib.net/login/login.action   （全国图书馆参考咨询联盟，需登录）
+https://search.kongfz.com/ie/product?key=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86   （孔夫子旧书网）
+https://www.cnbksy.com/search   （全国报刊索引，HTTP 412 反爬）
+
+## 方法1/3 其他公开来源（多为网络不可达，记录尝试）
+https://www.googleapis.com/books/v1/volumes?q=%22%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83%E7%9A%84%E8%BE%B9%E7%96%86%22   （连接失败）
+https://archive.org/services/search/v1/scrape?q=%E6%88%98%E4%BA%91%E5%AF%86%E5%B8%83   （连接失败/服务端报错）
+https://zh.wikipedia.org/  https://commons.wikimedia.org/  https://ctext.org/  https://www.shidianguji.com/   （维基/维基共享/ctext/识典古籍，均连接失败或无关）
+
+## 方法2 母项追溯（核心词+年代+可能刊物）
+https://www.modernhistory.org.cn/backend-prod/esBook/findByPage （篇目级检索：已枚举平台内全部含"战云密布"的 28 条期刊篇目、共 54 条各类型篇目，无一为《战云密布的边疆》；涉及《东方杂志》《时与潮半月刊》《政治月刊》《前途》《浙江党务》《新东方》《华侨周报》等，篇名分别为"战云密布的世界""战云密布的巴尔干""严重化的中国边疆问题"等，均非本题）

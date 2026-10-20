@@ -1,0 +1,35 @@
+# 条目 15736《岭光电言彝族人过“汉人年（春节）”》检索来源网址
+# 归档日期：2026-10-12
+# 说明：本次实际访问/命中的均为合法公开页面；未使用 web_fetch，未使用任何影子图书馆。
+# 结果：未取得该条目原文或原文片段；以下为“书目著录 / 转述 / 背景”类来源，仅供核验，不作为条目内容。
+
+[1] 《岭光电文集（上中下）》图书页（含第二编“‘夷族’历史与文化研究”第4篇《夷人过年》1946年）
+    https://www.book345.com/detail/9789889983963-%E5%B2%AD%E5%85%89%E7%94%B5%E6%96%87%E9%9B%86-%E4%B8%8A%E4%B8%AD%E4%B8%8B
+    豆瓣“華南研究文獻叢刊”系列页： https://book.douban.com/series/45032
+
+[2] 岭光电 论著目录（中文百科全书，含《夷人过年》1946年；《凉山彝族习俗点滴·过年与过节》）
+    http://www.cnenc.net/b1070222.html
+
+[3] 温春来《“夷族”意识、“夷务”实践与彝族文化——写在〈岭光电文集〉出版之际》（导言，彝学研究网）
+    http://www.yixueyanjiu.com/details.jsp?class=8&id=27153
+
+[4] 李久旺、马廷中《民国时期凉山彝族精英的民族观研究》（《西昌学院学报·社会科学版》2023年第1期；转述岭光电过年文字，注引《岭光电文集》中册第11页——系转述，非引号直引）
+    https://xbsk.xcc.edu.cn/xcxyxbsk/article/pdf/20220923003
+
+[5] 岭光电 - 维基百科（生平与著作）
+    https://zh.wikipedia.org/zh-hans/%E5%B6%BA%E5%85%89%E9%9B%BB
+
+[6] 抗战文献数据平台（中国社科院近代史所等承办，公益免费、合法公开的民国文献影像库）——本次逐库检索：
+    平台入口： https://www.modernhistory.org.cn/
+    检索接口（POST）： https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+    篇目接口（GET）：  https://www.modernhistory.org.cn/backend-prod/esBook/findQkInDirectory
+    经检索，该库中岭光电名下篇目为《我在夷区实施建设的经验》（《边疆通讯》）、《黑夷和白夷》（《边政公论》第七卷第二期，1948）等；
+    其“岭光电遗稿《凉山彝族风习点滴》”见《凉山文史资料选辑》第12辑（第244—250页），已核对页面影像，内容为丧葬/酒/打冤家/乞丐/酗酒/头人/三类地区名称等，无“过年”篇。
+    全库检索“夷人过年 / 汉人年 / 汉族过年 / 过汉人年”均无命中，未发现《夷人过年》。
+
+[7] 背景/同类（不计入条目内容，仅供参考）
+    巴莫姊妹彝学小组《彝历新年：与祖先同在》  https://www.chinafolklore.org/web/index.php?NewsID=13277
+    《忆往昔——一个彝族土司的自述》豆瓣页 https://book.douban.com/subject/1946295/
+
+# 检索工具：Cherry 内置 web_search（关键词：岭光电 夷人过年 / 汉人年 / 春节 / 凉山 等）+ Bash/curl 抓取公开页面与公开档案平台接口。
+# 未采用：z-library / z-lib / libgen / annas-archive 等影子图书馆；未使用 web_fetch。

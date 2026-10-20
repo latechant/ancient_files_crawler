@@ -1,0 +1,14 @@
+https://archive.org/details/theshibao
+https://archive.org/details/shibao-1904.10.05
+https://archive.org/advancedsearch.php?q=collection%3Atheshibao&fl%5B%5D=identifier&fl%5B%5D=date&rows=20000&page=1&output=json
+https://archive.org/metadata/shibao-1904.10.05
+https://archive.org/download/shibao-1904.10.05/1904.10.05_djvu.txt
+https://archive.org/download/shibao-1904.06.12/1904.06.12_djvu.txt
+https://archive.org/download/shibao-1911.10.10/1911.10.10_djvu.txt
+https://archive.org/download/shibao-1919.05.04/1919.05.04_djvu.txt
+https://archive.org/download/shibao-1921.10.10/1921.10.10_djvu.txt
+https://archive.org/download/shibao-1939.08.31/1939.08.31_djvu.txt
+# 以下为仅作入口记录、未下载的第三方《时报》数据库介绍页(尝试结果见判定说明):
+https://www.cnbksy.com/   全国报刊索引  HTTP 412 反爬拦截
+http://www.cnbksy.cn/     全国报刊索引  HTTP 412 反爬拦截
+https://www.er07.com/     爱如生  连接超时无法访问

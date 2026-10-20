@@ -1,0 +1,24 @@
+来源网址.txt
+条目：seq 12021《寄谕参赞大臣舒赫德等暂理哈什噶尔事务事》
+
+【取得连续原文之来源（情况1）】
+https://zh.wikisource.org/wiki/平定凖噶爾方略_(四庫全書本)/續編卷09
+百分号编码：
+https://zh.wikisource.org/wiki/%E5%B9%B3%E5%AE%9A%E5%87%96%E5%99%B6%E7%88%BE%E6%96%B9%E7%95%A5_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E7%BA%8C%E7%B7%A8%E5%8D%B709
+（维基文库《平定凖噶爾方略 (四庫全書本)》续编卷九；即欽定《平定準噶爾方略》續編卷九）
+
+【检索与印证入口】
+维基文库 insource 检索 API（全库精确串检索）:
+https://zh.wikisource.org/w/api.php?action=query&list=search&srsearch=insource:%22%E5%BE%80%E5%96%80%E4%BB%80%E5%99%B6%E7%88%BE%E8%BE%A6%E4%BA%8B%22&format=json
+清史稿·卷12（高宗本纪三，乾隆二十六年正月）:
+https://zh.wikisource.org/wiki/清史稿/卷12
+识典古籍《清史·二十六年》（同条：
+https://www.shidianguji.com/zh/book/QS1961GFYJY/chapter/1m8nk6hxqd9o6
+识典古籍《平定准噶尔方略》（傅恒等撰）:
+https://www.shidianguji.com/book/SK0784
+识典古籍《清史稿·舒赫德传》:
+https://www.shidianguji.com/book/LS0025/chapter/1kt95rwzyp7hl
+
+【已试未取得（另注）】
+《乾隆朝满文寄信档译编》(中国第一历史档案馆编，岳麓书社2011)：仅商业/影印PDF与付费阅读可得，未从合法公开渠道取得其乾隆二十六年该件汉译原文。
+维基文库《清實錄/大清高宗純皇帝實錄》乾隆二十六年正月卷（約卷之六二九/六三〇）缺失，仅有二月下卷之六百三十一，故未能据实录复核正月该条。

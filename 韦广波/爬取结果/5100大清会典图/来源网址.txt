@@ -1,2 +1,6 @@
 https://ascdc.digitalarchives.tw/collection_7279689.html
 https://commons.wikimedia.org/wiki/File%3ACADAL01021256_%E6%AC%BD%E5%AE%9A%E5%A4%A7%E6%B8%85%E6%9C%83%E5%85%B8%E5%9C%96.djvu
+https://upload.wikimedia.org/wikipedia/commons/b/bb/CADAL01021256_%E6%AC%BD%E5%AE%9A%E5%A4%A7%E6%B8%85%E6%9C%83%E5%85%B8%E5%9C%96.djvu
+https://commons.wikimedia.org/w/api.php?action=query&titles=File:CADAL01021256_%E6%AC%BD%E5%AE%9A%E5%A4%A7%E6%B8%85%E6%9C%83%E5%85%B8%E5%9C%96.djvu&prop=imageinfo&iiprop=url|size|mime|sha1&format=json
+https://commons.wikimedia.org/wiki/Category:%E6%AC%BD%E5%AE%9A%E5%A4%A7%E6%B8%85%E6%9C%83%E5%85%B8%E5%9C%96
+https://commons.wikimedia.org/w/index.php?title=File:CADAL01021256_%E6%AC%BD%E5%AE%9A%E5%A4%A7%E6%B8%85%E6%9C%83%E5%85%B8%E5%9C%96.djvu&oldid=1103025139

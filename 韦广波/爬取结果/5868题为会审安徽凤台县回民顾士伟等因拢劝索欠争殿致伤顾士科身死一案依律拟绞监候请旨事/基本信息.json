@@ -1,0 +1,26 @@
+{
+  "seq": 5868,
+  "title": "题为会审安徽凤台县回民顾士伟等因拢劝索欠争殿致伤顾士科身死一案依律拟绞监候请旨事",
+  "item_type": "清代档案原件（内阁刑科题本，刑部/三法司会审后题报命案之拟题）",
+  "publisher": "不详",
+  "publisher_note": "档案著录项，非出版物",
+  "place": "安徽凤台县（清属安徽凤阳府；非山西泽州府凤台县）",
+  "persons": {
+    "defendant": "顾士伟（回民）",
+    "victim": "顾士科（回民，身死）"
+  },
+  "cause": "因拢劝索欠争执殴斗，致伤顾士科身死",
+  "sentence": "依律拟绞监候，请旨（秋审待决）",
+  "period": "约乾隆至光绪间（一史馆开放刑科题本为雍正五年至光绪十五年）",
+  "ok": false,
+  "situation_class": "(6) 未取得题本连续正文",
+  "source_url": null,
+  "obtained": "未取得正文，未生成正文文件；无编造内容",
+  "key_urls_checked": [
+    "https://newarchive.ihp.sinica.edu.tw/mcttp/",
+    "https://fhac.com.cn/search_catalogues.html",
+    "https://baike.ytso.com/post/952407/",
+    "https://www.shidianguji.com/search?keyword=顧士偉"
+  ],
+  "note": "本条登记表原记爬取网址为「无」。中研院内阁大库库无本题本（仅另有嘉庆七年凤台县回民案，登录号109484，不相关）；一史馆刑科题本正文仅限馆内阅览，官网只公开目录，线上全文库仅《清实录》《清会典》。各方公开来源均无本案连续性原文。"
+}

@@ -1,0 +1,41 @@
+来源网址.txt
+条目：编号 19706 题名《惠水县摆金（清咸丰元年）永垂场碑》 出版社：不详
+检索日期：2026-10-12
+说明：下列为本次检索所访问/核实的网址（均为公开可访问页面；未使用 web_fetch）。
+
+一、题名/关键词直接检索（未检得该碑录文或碑影）
+1. Bing  https://www.bing.com/search?q=%22永垂场碑%22 （无匹配）
+2. 360搜索 https://www.so.com/s?q=%22永垂场碑%22 （无匹配）
+3. 搜狗 https://www.sogou.com/web?query=%22永垂场碑%22 （无匹配）
+4. CNKI 检索 https://search.cnki.com.cn/Search/Result?content=永垂场碑 （0 条）
+5. 国家图书馆·碑帖菁华（拓片）检索 http://read.nlc.cn/allSearch/searchList?searchType=10023&showType=1&pageNo=1&searchWord=摆金 （页面为动态载入，未返回该碑记录；无公开录文）
+
+二、推测的条目来源/碑刻数据库（均需机构订阅，无公开全文）
+6. 《中国金石总录》检索页 http://www.ch5000.net.cn/jsk_sy.aspx
+   （其著录命名体例为“地名（朝代年号）题名”，与本条目题名格式一致）
+7. 《中国金石总录》简介 http://www.ch5000.net.cn/jsk_sy.aspx （“全拓全文数字版”简介，含叙录字段）
+8. 山东大学图书馆·金石总录试用通知 https://library.sdu.edu.cn/article/view/id-5236.html
+9. 南开大学图书馆·金石总录试用通知 https://lib.nankai.edu.cn/2026/0521/c11990a595957/pagem.htm
+10. 浙江大学图书馆·中国金石总录 https://libdb.zju.edu.cn/s/lib/libtb/show/2128
+11. 中国社会科学院图书馆·中国金石总录 https://lib.cssn.cn/zx_107813/tzgg/202509/t20250918_5916154.shtml
+12. 中华石刻数据库（籍合网） https://inscription.ancientbooks.cn/home （前端渲染，需登录）
+
+三、贵州地方文献（核对年代地点，未见该碑录文）
+13. 《贵州通志·金石志》(识典古籍) https://www.shidianguji.com/zh/book/7582983004595683338/chapter/1lmbhoydtumtr
+    （两卷金石志中未见“摆金/永垂场”相关条目；含定番州（今惠水）零星石刻，非本碑）
+14. 《定番县乡土教材调查报告》(民国·吴泽霖，识典古籍) https://www.shidianguji.com/book/LG2DFXXTJCDCBG/chapter/1lxx3ld7r5kwa
+    （卷十二“规章”录有苗夷保甲乡规；供背景比勘，非本碑）
+15. 中国法学网·《元明清时期基层社会组织和社会控制研究》(胡兴东) http://iolaw.cssn.cn/gdfls/200412/t20041223_4594610.shtml
+    （注[61]引《惠水县摆金区苗族村寨今昔乡规民约状况调查》，《贵州民族调查》之四，1986年，第201-203页）
+16. 《贵州“六山六水”民族调查资料选编·苗族卷》(2008,贵州民族出版社,ISBN 9787541214998) 目录 https://www.dushu.com/book/12418274/
+    （重收“惠水县摆金区苗族村寨今昔乡规民约状况调查”，第429页起；纸质/扫描本，无公开全文）
+17. 《贵州民族调查 之四》(1986) 目录 https://mtoou.info/jueban/1703235.html
+18. 《中国珍稀法律典籍续编 第10册 少数民族法典法规与习惯法 下》(2002,黑龙江人民出版社) 目录 https://www.qianqiantushu.com/ebook/735633.html
+    （收录大量贵州少数民族碑刻录文；目录中未见本碑）
+19. 惠水县人民政府·走进惠水 https://www.gzhs.gov.cn/zjhs/ （核实惠水=旧定番州，摆金属惠水）
+20. 贵州省民政·惠水县摆金镇高寨村 https://news.qq.com/rain/a/20250618A07NF600
+    （摆榜片区立有光绪“永垂千古”“永远遵照管业”“乡例”等碑，供比勘；非本碑）
+21. 博雅地名网·惠水县摆金镇各村介绍 http://wap.tcmap.com.cn/list/6/huishuixianbaijinzhengecunshequqingkuangjieshao.html
+
+四、其他检索（无匹配）
+22. 《中国金石总录》补充检索：http://www.ch5000.net.cn/jsk_sy.aspx 的检索接口经尝试调用（POST /jsk_sy.aspx/tq_sj_jl）均返回“处理请求时出错”，未能取得检索结果。

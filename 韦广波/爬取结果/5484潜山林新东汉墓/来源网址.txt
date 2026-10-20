@@ -1,0 +1,41 @@
+# 来源网址清单（条目 5484 潜山林新东汉墓）
+# 归档日期：2026-10-10
+# 说明：本条未取得连续正文（ok=false）。以下为本次核查实际访问/检索的合法公开来源，及明确排除的来源。
+
+## 一、“林新”地名核实（确认为潜山真实墓群地名）
+http://www.sanyamuseum.com/a/2/2025/0530/9777.html        # 中国文物报：安徽安庆潜山市虎铺墓群发掘（明列潜山城区周边有“林新、公山岗、彭岭、彰法山”等战汉墓地）
+https://zh.wikipedia.org/wiki/%E6%BD%9C%E5%B1%B1%E5%B8%82    # 潜山市行政区划（梅城镇等）
+
+## 二、母项专著《潜山林新战国秦汉墓》（文物出版社2013，含第五章“东汉墓葬”）书目级核实
+http://www.wenwuchina.com/a/15/209857.html                 # 中国考古网转载：书名、作者、出版社、出版时间、目录
+https://www.ahkaogu.com/index.php?m=content&c=index&a=lists&catid=23   # 安徽省文物考古研究所“专著报告图录”：列《潜山林新战国秦汉墓》安徽省文物考古研究所／文物出版社／2013年9月
+http://www.silkroads.org.cn/portal.php?author=...&catid=58&mod=list   # 丝路遗产：该书信息与内容简介
+https://www.ato-shoten.co.jp/index.php/product-35829.html  # 日本亚东书店：明载“林新墓地2005年12月—2006年6月下旬发掘96座，其中38座战国至秦代、32座前汉、3座后汉”
+https://www.kosho.or.jp/products/detail.php?product_id=554009914       # 日本古本屋（中国书店）：版次、页数、编后记分工
+https://www.newton.com.tw/wiki/潛山林新戰國秦漢墓/17549438             # 中文百科全书：目录
+https://book.douban.com/subject/1669318/                    # （相关书目）
+
+## 三、母项年鉴《中国考古学年鉴2007》（内容年度2006，条目“潜山县林新战国两汉墓地”第236—238页）
+https://www.kjlm.net/ebook/1141098.html                    # 学霸图书：全书目录，含“安徽省…潜山县林新战国两汉墓地 236 …六安市双墩汉墓238”
+http://www.queshu.com/book/15902416/                        # 缺书网：ISBN 9787501024742、页数、目录结构
+http://www.tjnjw.com/hangye/k/zhongguo-kaoguxue-nianjian.html         # 统计年鉴网：《中国考古学年鉴》历年汇总（2007卷=2006年度）
+
+## 四、目标题名精确检索（均未检出独立出版物）
+# 检索式（web_search / Bing / 中国考古网站内检索）："潜山林新东汉墓"、"潜山县林新东汉墓"、"林新东汉墓"、"潜山林新" 汉墓 发掘简报
+http://kaogu.cssn.cn/was5/web/search?channelid=235362&searchword=%E6%9E%97%E6%96%B0&perpage=20   # 中国考古网统一检索：“林新”仅1条无关命中
+# 结论：无任何来源以《潜山林新东汉墓》为独立篇名/书名。
+
+## 五、尝试下载（均未能取得合法公开全文）
+https://www.qianqiantushu.com/ebook/read3855637.html       # 千千图书（付费扫描，非授权公开源，仅作记录）
+http://vp2.b.xue66.net/Qikan/Search/Index?key=K%3D%E6%BD%9C%E5%B1%B1%E6%9E%97%E6%96%B0   # 维普镜像检索：返回“System updating!”
+https://www.ncpssd.org/                                     # 国家哲学社会科学文献中心：检索“潜山林新”无命中
+http://kaogu.cssn.cn/                                       # 中国社科院考古所/中国考古网：无该报告正文
+https://archive.org/                                        # Internet Archive：无《中国考古学年鉴》及该报告
+https://www.googleapis.com/books/v1/volumes                 # Google Books：网络超时，未取到
+
+## 六、明确排除、未使用的来源（影子图书馆 / 侵权网盘 / 非授权付费扫描，依硬性约束禁用）
+# https://lexlib.fi/book/...            （LexLib：Z-Library 镜像，禁用）
+# https://www.chendianrong.com/750103811.html   （寻书帮：百度网盘《潜山林新战国秦汉墓》PDF，非授权，禁用）
+# http://www.7dqq.com/e3024829.html     （7度软件园：网盘下载页，非授权，禁用）
+# https://qciss.net/books/25776365      （小哈图书下载中心，非授权，禁用）
+# https://www.qianqiantushu.com/ebook/3855637.html （千千图书付费扫描，非授权公开源，禁用）

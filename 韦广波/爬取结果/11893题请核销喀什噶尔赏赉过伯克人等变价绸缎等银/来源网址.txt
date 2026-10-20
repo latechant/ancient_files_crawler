@@ -1,0 +1,38 @@
+来源网址（条目 11893《题请核销喀什噶尔赏赉过伯克人等变价绸缎等银》）
+检索/归档日期：2026-10-10
+说明：本条为清代内阁（户科）题本，原件全文未公开于任何合法公开来源；以下为本次实际访问或可复核的网址。
+
+一、制度与史事背景（相关，非本条）
+1. 识典古籍《钦定大清会典》卷十七·军需局（户部陕西司核新疆奏销、备用绸缎赏赉余存变价充饷）：
+   https://www.shidianguji.com/book/CADAL02027852/chapter/1lm8urojawd23
+2. 文脉国学《晋政辑要·新疆办绸》（乾隆二十九/三十年喀什噶尔调取绸缎赏赉回子、布鲁特人等；山西潞缎泽绸办解）：
+   https://baike.ytso.com/post/1133978/
+3. 识典古籍《平定准噶尔方略》正编/续编（乾隆二十四年平定回部、喀什噶尔办事大臣、赏赉伯克等）：
+   https://www.shidianguji.com/book/SK0784/chapter/1kfqxbt4e989x
+   https://www.shidianguji.com/zh/book/NGJ892412000012930306961/chapter/1lr1q10bivsiu
+4. 维基文库《平定准噶尔方略（四库全书本）》总目：
+   https://zh.wikisource.org/wiki/平定凖噶爾方略_(四庫全書本)
+5. 识典古籍《乾隆朝内府抄本理藩院则例》（回部赋役、伯克品级俸地，赏赉体例）：
+   https://www.pgsk.com/library/chapter/55405/55.html
+
+二、档案著录/目录（本条原件所属体系，仅目录，无全文）
+6. 中国第一历史档案馆·查阅（内阁全宗，已开放题本档案156.8万件，基本按吏户礼兵刑工六科分类；线上仅开放目录检索）：
+   https://fhac.com.cn/consult.html
+7. 中国第一历史档案馆·线上资源介绍（开放目录 4,577,980 条；全文仅《清实录》《清会典》两库）：
+   https://fhac.com.cn/search_entry.html
+8. 中国第一历史档案馆《开放档案目录》（数字化：内阁全宗·汉文题本北大移交及六科、满文题本等）：
+   https://www.fhac.com.cn/detail/1259.html
+
+三、其它已访问/尝试的合法公开来源（均无本条全文）
+9. 抗日战争与近代中日关系文献数据平台（晚清民国为主，未收录本条）：
+   http://www.modernhistory.org.cn/
+10. 识典古籍站内检索（"喀什噶尔赏赉""变价绸缎""赏赉过伯克""核销喀什噶尔""伯克人等变价"等 —— 均 total=0）：
+    https://www.shidianguji.com/search?q=%E5%8F%98%E4%BB%B7%E7%BB%B8%E7%BC%8E
+11. 中研院历史语言研究所·内阁大库档案（含题奏本章30余万件；影像对台湾地区开放，本站不可达）：
+    https://newarchive.ihp.sinica.edu.tw/
+12. 国立故宫博物院·清代档案检索系统（宫中档、军机处档；本站不可达）：
+    https://qingarchives.npm.edu.tw/
+13. Internet Archive（本站网络不可达，--max-time 内连接失败）：
+    https://archive.org/
+
+禁用未用：未使用 Z-Library / z-lib / libgen / annas-archive 等影子图书馆及侵权网盘。

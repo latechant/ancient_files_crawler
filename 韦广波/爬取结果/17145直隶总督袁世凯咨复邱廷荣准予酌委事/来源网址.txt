@@ -1,0 +1,45 @@
+来源网址.txt
+条目：编号17145 《直隶总督袁世凯咨复邱廷荣准予酌委事》（出版社：不详）
+检索/归档日期：2026-10-12
+
+说明：本次未能检索到该咨文本身（原文、片段或档案影像）。以下为逐一尝试过的渠道与结果，供复核。
+
+一、题名/关键词精确检索（方法1）
+1. Cherry web_search 精确题名 "直隶总督袁世凯咨复邱廷荣准予酌委事"
+   - 无该件，仅返回袁世凯生平、清实录、袁世凯天津档案史料选编等背景页。
+2. Bing  https://cn.bing.com/search?q=%22...%22
+   - 分词后无有效结果。
+3. 百度  https://www.baidu.com/s?wd=...  —— 反爬，返回占位页。
+4. 搜狗  https://www.sogou.com/web?query=...  —— 无该件。
+5. 360   https://www.so.com/s?q=...  —— 命中均为今人同名（贵州遵义邱廷荣等），无该件。
+
+二、全文检索（方法2）
+6. 抗战文献数据平台（篇目接口）https://www.modernhistory.org.cn/backend-prod/esBook/findByPage
+   - 关键词 邱廷荣/邱廷榮：total=0（total/ts/qk/bz/da 各docType）。
+   - 关键词 酌委：total=19(综合)/11(期刊)，均为无关的山西、浙江、河北公报等，无袁世凯或邱廷荣。
+   - 关键词 袁世凯咨复邱廷荣、直隶总督袁世凯咨、咨复邱廷荣准予酌委事：total=0。
+7. 识典古籍 https://www.shidianguji.com/search?q=邱廷荣 —— 仅命中《清实录》宣统三年"署威县知县邱廷荣"一则（非本件）。
+8. 国学大师 http://www.guoxuedashi.net/so.php?q=邱廷荣 —— 无结果。
+9. 中国哲学书电子化计划 https://ctext.org —— 访问遇 JS 安全校验，未取得检索结果。
+
+三、按渠道(1)-(6)分类检索（方法3）
+10. 《袁世凯天津档案史料选编》绝版PDF页 https://mtoou.info/jueban/346038.html —— 页面无"邱廷荣/酌委/咨复"。
+11. 《辛亥革命前十年间民变档案史料》页 https://mtoou.info/jueban/928657.html —— 同上，无。
+12. 抗战文献数据平台 首页（⑥）https://www.modernhistory.org.cn —— 可达，已在第6项检索。
+13. 全国报刊索引（含晚清期刊/北洋官报类）https://www.cnbksy.com —— 返回 HTTP 412（JS 反爬），未取得内容。
+14. 大成故纸堆 https://www.dachengdata.com/search/toRealIndex.action —— 需登录，未取得内容。
+15. 瀚文民国书库 http://www.hanwenbooks.com —— 域名不可达（HTTP 000）。
+16. 国家图书馆·文津搜索 http://find.nlc.cn —— 可达但为JS应用，未取得该件。
+17. 全国图书馆参考咨询联盟 http://www.ucdrs.superlib.net —— 可达，未检出该件。
+18. Internet Archive https://archive.org —— 域名不可达（HTTP 000，curl 超时），无法检索北洋官报。
+19. Google Books https://www.googleapis.com/books/v1/volumes —— 不可达（HTTP 000）。
+20. 中国第一历史档案馆、国家档案局、河北省档案馆：firsthistoricalarchives.org.cn / fuwu.archives.gov.cn / lsdag.com —— 域名均不可达（HTTP 000）。
+21. 维基文库、维基百科：仅袁世凯生平与《袁世凯回復參政院咨文》（另一咨，非本件）。
+
+四、相关背景材料（非本件，仅供印证，不作为成果）
+22. 《威县志》民国十八年 卷五 宦绩志·职官（经识典古籍/中华丘氏大宗谱转录）：
+   "清 知县（宣统朝）邱廷荣，鄞县人。监生。宣统元年八月任。邑人杨锦江撰德政碑。"
+23. 《清实录·宣统政纪》卷五十五（宣统三年六月）陈夔龙奏保办学各员：
+   "署威县知县邱廷荣……均著传旨嘉奖。"
+
+结论：未找到可下载/可引用的该咨文本身。判定 ok=false。
