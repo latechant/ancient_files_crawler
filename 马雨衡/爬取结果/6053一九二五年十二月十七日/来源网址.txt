@@ -1,2 +1,1 @@
-https://archive.org/advancedsearch.php?q=%221925%E5%B9%B412%E6%9C%8817%E6%97%A5%22&fl%5B%5D=identifier,title&rows=50&page=1&output=json
-https://books.google.com/books?q=%22%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%BA%94%E5%B9%B4%E5%8D%81%E4%BA%8C%E6%9C%88%E5%8D%81%E4%B8%83%E6%97%A5%22
+https://speechfree.github.io/cultural-revolution-database/post/549/

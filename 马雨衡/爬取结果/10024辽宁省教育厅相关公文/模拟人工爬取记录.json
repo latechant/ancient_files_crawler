@@ -1,0 +1,16 @@
+{
+  "excel_row": 394,
+  "seq": 10024,
+  "title": "《辽宁省教育厅相关公文》",
+  "success": false,
+  "acquisition_type": "problematic_result",
+  "classification": "情况5",
+  "matched_title": "",
+  "mother_work": "辽宁省教育厅教育文件栏目",
+  "source_url": "https://jyt.ln.gov.cn/jyt/gk/jywj/",
+  "direct_download_url": "",
+  "format": "",
+  "rights_basis": "政府网站有公开公文全文，但无法确定哪一件是目标。",
+  "notes": "“相关公文”不是可唯一对应的题名，输入没有文号、日期、事由或受文机关。官网虽有大量合法公开公文，任取一件都会误配。",
+  "evidence": "精确题名不能锁定单件档案；教育厅栏目只是现行公文入口。"
+}

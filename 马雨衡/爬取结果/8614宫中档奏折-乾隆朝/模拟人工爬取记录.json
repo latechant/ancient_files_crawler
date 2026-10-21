@@ -1,0 +1,16 @@
+{
+  "excel_row": 383,
+  "seq": 8614,
+  "title": "《宫中档奏折-乾隆朝》",
+  "success": false,
+  "acquisition_type": "mother_work",
+  "classification": "2",
+  "matched_title": "宫中档奏折（含乾隆朝）",
+  "mother_work": "国立故宫博物院清代档案检索系统·宫中档奏折",
+  "source_url": "https://qingarchives.npm.edu.tw/index.php?act=Landing/information",
+  "direct_download_url": null,
+  "format": null,
+  "rights_basis": "故宫博物院官方说明页可合法访问，并称数字化影像供在线阅览、发表时须注明院藏。本轮只打开到系统说明，没有打开乾隆朝奏折影像；网传整套扫描来自不明下载站，未采用。",
+  "notes": "目标是乾隆朝宫中档奏折这一档案集合。官方说明确认宫中档奏折共158614件，含康熙至光绪朝、其中包括乾隆朝，且称影像已数字化。说明页没有奏折正文，影像深链本轮超时，未能固定到一件可核验的乾隆朝奏折或一个可下载卷册，因此不计成功。",
+  "evidence": "说明页写明宫中档奏折为官员奏折原件，含乾隆朝汉文、满文及满汉合璧折，总计158614件；同页未展示任何折件图像或录文。检索系统首页也不能代替某一件或某一辑的正文。"
+}

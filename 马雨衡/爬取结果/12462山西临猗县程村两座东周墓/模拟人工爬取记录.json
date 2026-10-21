@@ -1,0 +1,16 @@
+{
+  "excel_row": 413,
+  "seq": 12462,
+  "title": "《山西临猗县程村两座东周墓》",
+  "success": false,
+  "acquisition_type": "fulltext_search",
+  "classification": "情况3",
+  "matched_title": "山西临猗县程村两座东周墓",
+  "mother_work": "《考古》1991年第11期",
+  "source_url": "https://nssd.cn/html/1/156/159/index.html?lngId=1002881836",
+  "direct_download_url": "",
+  "format": "",
+  "rights_basis": "《考古》1991年第11期仍受期刊版权保护。国家哲学社会科学文献中心旧入口未打开全文，未见其他明确开放获取版本。",
+  "notes": "题名、作者赵慧民、李百勤、李春喜和《考古》1991年第11期可以对应。旧数据库页面只剩未渲染模板，文献中心检索也没有打开这篇简报。另有发掘52座墓、8座车马坑的《临猗县程村东周墓发掘简报》，对象是整片墓地，不是题名所指的两座墓。",
+  "evidence": "国家哲学社会科学学术期刊数据库对应页只显示“{{detailData.title_c}}”一类空模板，期刊库已通知并入文献中心。公开转引能确认赵慧民等文刊于《考古》1991年11期，但没有该期正文。"
+}

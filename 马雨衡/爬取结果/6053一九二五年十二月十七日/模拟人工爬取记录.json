@@ -1,0 +1,16 @@
+{
+  "excel_row": 363,
+  "seq": 6053,
+  "title": "《一九二五年十二月十七日》",
+  "success": false,
+  "acquisition_type": "problematic_result",
+  "classification": "情况6",
+  "matched_title": null,
+  "mother_work": null,
+  "source_url": "https://speechfree.github.io/cultural-revolution-database/post/549/",
+  "direct_download_url": null,
+  "format": null,
+  "rights_basis": "公开数据库页面可合法查阅，只用来证明同日另有不同题名的报道；未把任何一篇同日文献当作目标全文。",
+  "notes": "题名只有日期，没有作者、刊物和事由。同日至少有鲁迅日记、长沙《大公报》报道、团组织信件和奉系档案等多件文献，题名都不是《一九二五年十二月十七日》，无法确定目标是哪一件。",
+  "evidence": "文化大革命文库收录的是一九二五年十二月十七日长沙《大公报》报道，题为戒严司令部逮捕刘少奇，正文是新闻，不是以该日期为题的独立文献。其他同日文件只见于书目目录，且彼此事由不同。"
+}
