@@ -1,2 +1,1 @@
-https://archive.org/advancedsearch.php?q=%E5%8C%97%E5%B9%B3%E5%B8%82%E6%94%BF%E5%BA%9C%20%E7%8F%AD%E7%A6%85&fl%5B%5D=identifier,title&rows=50&page=1&output=json
-https://books.google.com/books?q=%22%E5%8C%97%E5%B9%B3%E5%B8%82%E6%94%BF%E5%BA%9C%22%20%22%E7%8F%AD%E7%A6%85%22
+http://iqh.ruc.edu.cn/old/qdbjmzyj/bj_ztyj/xnbj/a061d240586746c284defefa2bd08203.htm

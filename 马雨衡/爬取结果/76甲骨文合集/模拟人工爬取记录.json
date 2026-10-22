@@ -1,0 +1,16 @@
+{
+  "excel_row": 316,
+  "seq": 76,
+  "title": "《甲骨文合集》",
+  "success": false,
+  "acquisition_type": "problematic_result",
+  "classification": "6",
+  "matched_title": "甲骨文合集",
+  "mother_work": "",
+  "source_url": "https://archive.org/details/06-14822-19753",
+  "direct_download_url": "",
+  "format": "",
+  "rights_basis": "Internet Archive 项目页可以打开，但元数据没有许可证、公共领域声明或权利状态。上传者为个人邮箱。该书是1978—1982年中华书局编纂出版的现代资料集，不属于权利清晰的公开下载。未采用 Z-Library 和来源不明的售卖站。",
+  "notes": "项目页的文件名确实是《甲骨文合集》各册、释文、补编和材料来源表，命中对象是目标书，但权利不清楚，不能记为成功。安阳师范学院“殷契文渊”和中研院“甲骨文合集材料来源表”是著录检索或字形数据集，不是这套书的图版与释文全书。",
+  "evidence": "Internet Archive 元数据只有题名、2020-06-05 上传日期和上传者 pianoprofessor@live.cn，没有 licenseurl 或 possible-copyright-status；文件列表含“第01冊：00001——01139”等 PDF。殷契文渊下载页公开的是 HWOBC、OBC306 等数据集，不是十三册合集。"
+}
