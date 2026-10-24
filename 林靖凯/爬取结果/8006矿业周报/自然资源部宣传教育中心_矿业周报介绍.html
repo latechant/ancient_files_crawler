@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.38">
+    <meta name="SiteName" content="自然资源部宣传教育中心" />
+    <meta name="SiteDomain" content="www.pecmnr.cn" />
+    <meta name="SiteIDCode" content="0" />
+    <link rel="stylesheet" type="text/css" href="./libs/element-ui/2.13.2/theme-chalk/index.css"/>
+    <link rel="stylesheet" type="text/css" href="./libs/swiper/swiper.min.css"/>
+    <link rel="stylesheet" href="./css/common.css"/>
+    <link rel="stylesheet" href="./css/news.css?t=2023020601"/>
+    <link rel="stylesheet" href="./css/column.css?v=20250505"/>
+</head>
+<body>
+<div id="app" v-cloak>
+    <div class="news">
+        <div class="w1200 w1200top">
+            <header-com></header-com>
+            <section>
+                <div class="location" style="margin: 35px 30px;">
+                    <div class="item" id="item1">
+                        <span>您当前的位置:</span>
+                        <a href="./index.html">首页</a>
+                    </div>
+                    <div class="item" id="item2">
+                        <span class="jt">></span>
+                        <a v-if="cententObj.columnID == 29598">文化</a>
+                        <a v-else-if="cententObj.columnID == 29874">人物</a>
+                        <a v-else>{{cententObj.columnName}}</a>
+                    </div>
+                </div>
+                <div class="news-wrapper-all">
+                    <div class="news-w-left"
+                         :style="{width:yaoqingbobaoList && yaoqingbobaoList.length > 0 ? '724px' : '90%',float:yaoqingbobaoList && yaoqingbobaoList.length > 0 ? 'left' : 'inherit',margin:yaoqingbobaoList && yaoqingbobaoList.length > 0 ? '32px 20px 20px 40px' : '0 auto'}">
+                        <div class="news-w-left-header">
+                            <h4 v-if="cententObj.leadTitle"
+                                style="margin-bottom: -20px;border-bottom: none;padding-bottom: 0">
+                                {{cententObj.leadTitle}}</h4>
+                            <div class="htmlTitle" v-if="cententObj.htmlTitle && cententObj.htmlTitle!=''" v-html="cententObj.htmlTitle"></div>
+                            <h3 class="title-text" v-else="cententObj.title"
+                                :style="{borderBottom:cententObj.subTitle ? 'none' : '',paddingBottom:cententObj.subTitle ? '0' : '20px'}">
+                                {{cententObj.title}}</h3>
+                            <h4 v-if="cententObj.subTitle" style="margin-top: -20px;">{{cententObj.subTitle}}</h4>
+                            <div class="ll_xqLyBox">
+                                <span>来源：{{cententObj.source}}</span>
+                                <span>发布时间：{{cententObj.publishTime.substring(0,10)}}</span>
+                                <a onclick="window.print();" href="">[打印本页]</a>
+                                <a onclick="self.close()" href="">[关闭窗口]</a>
+                                <a class="fr">
+                                    <div class="fr-collect">
+                                        <i></i>
+                                        <span>{{commitReadNums.countClick}}</span>
+                                    </div>
+                                    <div class="fr-share" @click="shreWxClick">
+                                        <i></i>
+                                        <span>分享</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="news-w-left-list" v-html="cententObj.content"></div>
+                        <div class="list-bottom" v-if="cententObj.author!=''">文本编辑：{{cententObj.author}}</div>
+                    </div>
+                    <div class="news-w-right" v-if="yaoqingbobaoList && yaoqingbobaoList.length > 0">
+                        <h3 class="news-w-r-t">要情播报</h3>
+                        <div class="news-w-list">
+                            <template v-if="yaoqingbobaoList.length>0">
+                                <a target="_blank" :href="yaoqingbobaoList[0].articleUrl">
+                                    <h4 class="list-title">{{yaoqingbobaoList[0].title}}</h4>
+                                </a>
+                            </template>
+                            <ul>
+                                <template v-for="(item,index) in yaoqingbobaoList">
+                                    <li><a target="_blank" :href="item.articleUrl">{{item.title}}</a></li>
+                                </template>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section style="display: none">
+                <div class="focus-news-list">
+                    <h3 class="xiangguan">相关新闻</h3>
+                    <ul>
+                        <li v-for="item in xiangguanList.slice(0,10)">
+                            <div class="padding-box">
+                                <a target="_blank" class="picture" :href="item.articleUrl">
+                                    <img :src="item.pic1 || _defaultImg" alt="">
+                                </a>
+                                <div class="detail">
+                                    <h3>
+                                        <a target="_blank" class="title" :href="item.articleUrl">{{item.title}}</a>
+                                    </h3>
+                                    <div class="tags">
+                                        <a target="_blank" class="title" :href="item.articleUrl">{{item.abstract}}</a>
+                                    </div>
+                                    <div class="binfo cf">
+                                        <div class="fl">
+                                            <span class="source" v-if="item.source!=''">{{item.source}}</span>
+                                            <span class="time">{{item.publishTime}}</span>
+                                        </div>
+                                        <div class="fr"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <div class="clear"></div>
+        <footer-com></footer-com>
+        <div class="share-wx-news">
+            <i @click="shareNewsClos">x</i>
+            <p class="share-wx-news-title">扫一扫分享到微信</p>
+            <p>
+                <img src="" alt="">
+            </p>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="libs/polyfill.min.js"></script>
+<script type="text/javascript" src="libs/jquery/jquery-3.6.0.min.js?t=202202"></script>
+<script type="text/javascript" src="libs/vue-2.5.2.min.js"></script>
+<script type="text/javascript" src="libs/element-ui/2.13.2/index.min.js"></script>
+<script type="text/javascript" src="libs/swiper/swiper.min.js"></script>
+<script type="text/javascript" src="libs/axios-0.16.2.min.js"></script>
+<script type="text/javascript" src="./js/config.js?v=20240320"></script>
+<script type="text/javascript" src="./js/commonTpl.js?v=25010901"></script>
+<script type="text/javascript" src="js/news.js"></script>
+<script id="_trs_ta_js" src="//ta.trs.cn/c/js/ta.js?mpid=6023" async="async" defer="defer"></script>
+</body>
+</html>

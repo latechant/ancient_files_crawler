@@ -1,0 +1,10 @@
+目标：郑宏墓志（条目号 16593）
+
+匹配核验：国家图书馆馆藏记录正题名为“武周隆州司功参军郑宏墓志铭”，版本记载为武周证圣元年（695）六月刻墨拓本，出土地河南洛阳，馆藏书号“墓1225”、登录号 stone0005883。与目标《郑宏墓志》为同一拓片。
+
+获取情况：详情页可核实目录及拓片元数据，但点击影像浏览触发拼图验证，未能取得可用拓片图或 OCR 全文。国图详情页提示可申请数字授权获取影像；因此本条未标记为获取成功。
+
+来源：国家图书馆古籍与特藏文献资源平台（金石拓片资料库）
+https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=466fb72c879d43588c62314e20346cbbfDg4MjA1OA2.hu5eu_lmZ4InwozDB2UUEHdjGvrCf5iiFsTYOaphYxc_&page=1679&whereString=IChOVUxMSUYoQ3JlYXRlcl9OYW1lLCAnICcpIGlzIE5VTEwgYW5kIE5VTExJRihEb2N1bWVudF9Xcml0ZXIsICcgJykgaXMgTlVMTCBhbmQgTlVMTElGKEpvdXJuYWxfV3JpdGVyLCAnICcpIGlzIE5VTEwgKSA1.cHNKVlDaZLqmac_B_QboEZhR4vv4gJ8MEx7vCx6fK8U_&sourceWhereString=&SourceID=1&HasImage=
+
+补充检索：Z-Library 通用搜索出现同名 EPUB，但语言标注为 English，不能确认与本条墓志相符；全文搜索结果为无关内容，未下载该文件。目录核查说明留档，不代表已获取墓志图像。
